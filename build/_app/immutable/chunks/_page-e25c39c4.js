@@ -1,0 +1,2 @@
+import{u as l}from"./pako.esm-4d43ed14.js";const p=!1;async function u({params:t}){function n(r){try{const o=decodeURIComponent(r),a=atob(o),c=new Uint8Array(a.split("").map(i=>i.charCodeAt(0))),d=l(c,{to:"string"});return JSON.parse(d)}catch(o){return console.error(`Decoding of ${r} failed:`,o),null}}const s=t.id,e=n(s);return e?{data:e.data,save:e.save}:{status:400,error:"Invalid code"}}const m=Object.freeze(Object.defineProperty({__proto__:null,prerender:p,load:u},Symbol.toStringTag,{value:"Module"}));export{m as _,u as l,p};
+//# sourceMappingURL=_page-e25c39c4.js.map

@@ -1,0 +1,2 @@
+const a={width:256,height:256,body:'<path fill="currentColor" d="m220.3 136.5l-81 81a15.9 15.9 0 0 1-22.6 0l-83.1-83.1a59.9 59.9 0 0 1 2.3-87c23.3-21.1 61.3-19.1 84.6 4.3l7.5 7.4l9.6-9.5A60.4 60.4 0 0 1 181.5 32a59.8 59.8 0 0 1 43.1 19.9c21 23.3 19.1 61.3-4.3 84.6Z"/>'};export{a as d};
+//# sourceMappingURL=heart-straight-fill-309bb1e1.js.map

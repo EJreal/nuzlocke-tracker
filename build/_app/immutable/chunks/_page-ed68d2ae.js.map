@@ -1,0 +1,1 @@
+{"version":3,"file":"_page-ed68d2ae.js","sources":["../../../../../../src/routes/(guides)/guides/+page.js"],"sourcesContent":["export const prerender = true\r\nexport const csr = false\r\n"],"names":["prerender","csr"],"mappings":"AAAY,MAACA,EAAY,GACZC,EAAM"}

@@ -1,0 +1,1 @@
+@keyframes svelte-1mnqxt4-shake{0%,50%{transform:rotate(0)}45%,5%{transform:rotate(-2deg)}10%,40%{transform:rotate(2deg)}15%,25%,35%{transform:rotate(-5deg)}20%,30%{transform:rotate(5deg)}}button.svelte-1mnqxt4{transition:transform .2s ease}button.svelte-1mnqxt4:hover{animation:svelte-1mnqxt4-shake 3.2s cubic-bezier(.36,.07,.19,.97) infinite;cursor:pointer}

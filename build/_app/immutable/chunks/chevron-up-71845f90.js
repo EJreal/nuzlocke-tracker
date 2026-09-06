@@ -1,0 +1,2 @@
+const l={width:24,height:24,body:'<path fill="currentColor" d="m17.657 16.243l1.414-1.414l-7.07-7.072l-7.072 7.072l1.414 1.414L12 10.586l5.657 5.657Z"/>'};export{l as d};
+//# sourceMappingURL=chevron-up-71845f90.js.map

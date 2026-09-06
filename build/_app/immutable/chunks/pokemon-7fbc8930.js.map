@@ -1,0 +1,1 @@
+{"version":3,"file":"pokemon-7fbc8930.js","sources":["../../../../../../src/lib/utils/pokemon.js"],"sourcesContent":["export const locid = (poke) => poke?.customId || poke?.location\r\n"],"names":["locid","poke"],"mappings":"AAAY,MAACA,EAASC,GAASA,GAAM,UAAYA,GAAM"}

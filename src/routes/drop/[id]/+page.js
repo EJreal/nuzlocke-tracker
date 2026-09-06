@@ -1,4 +1,5 @@
-// src/routes/drop/[code]/+page.server.js
+// src/routes/drop/[code]/+page.js
+export const prerender = false;
 import { ungzip } from 'pako'; // Only if using compression
 
 export async function load({ params }) {

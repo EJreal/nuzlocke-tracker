@@ -1,0 +1,2 @@
+import{G as c}from"./games-0cf4b2a3.js";const s=Object.fromEntries(Object.entries(c).reduce((e,[i,t])=>t.difficulty?e.concat(t.difficulty.map(o=>{const[r,n]=o.split(":");return[i+n,{...t,difficulty:r,pid:t.pid+n,title:t.title+" "+r}]})):e.concat([[i,t]]),[])),p=Object.fromEntries(Object.entries(s).map(([e,i])=>[[i.lid,i.region],[i.pid,i.region],[e,i.region]]).flat());export{s as E,p as R};
+//# sourceMappingURL=games-662c58df.js.map

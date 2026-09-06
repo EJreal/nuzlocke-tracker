@@ -1,9 +1,11 @@
 import preprocess from 'svelte-preprocess';
-import vercel from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-static';
 
 export default {
   kit: {
-    adapter: vercel()
+    adapter: adapter({
+      fallback: '404.html'
+    })
   },
 
   preprocess: [

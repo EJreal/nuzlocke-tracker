@@ -1,0 +1,2 @@
+const a=t=>t[Math.floor(Math.random()*t.length)],l=(t,s)=>Object.entries(t).filter(([,n])=>s(n)).reduce((n,[c,e])=>({...n,[c]:e}),{}),h=(t,s)=>Array.from({length:Math.ceil(t.length/s)},(n,c)=>t.slice(c*s,c*s+s)),r=(t,s,n)=>[...t.slice(0,n),s,...t.slice(n)],i=(t,s,n="index")=>s.reduce((c,e)=>{const o=e[n];return r(c,Object.assign(e,{origPos:o}),e[n])},t.map((c,e)=>Object.assign(c,{origPos:e})));export{h as c,l as f,i,a as r};
+//# sourceMappingURL=arr-dbb10c78.js.map

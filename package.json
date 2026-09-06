@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@iconify-icons/mdi": "^1.2.34",
-    "@sveltejs/adapter-vercel": "next",
+    "@sveltejs/adapter-static": "^1.0.0-next.48",
     "@sveltejs/kit": "next",
     "@tailwindcss/line-clamp": "^0.4.2",
     "autoprefixer": "^10.4.7",
