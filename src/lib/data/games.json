@@ -58,7 +58,10 @@
     "patchId": "rrss",
     "region": "hoenn",
     "lastUpdated": "3rd April 2023",
-    "ignoredBossPrefixes": ["saph", "arc"]
+    "ignoredBossPrefixes": [
+      "saph",
+      "arc"
+    ]
   },
   "ssaph": {
     "pid": "ssaph",
@@ -71,7 +74,10 @@
     "patchId": "rrss",
     "region": "hoenn",
     "lastUpdated": "27th May 2023",
-    "ignoredBossPrefixes": ["ruby", "max"]
+    "ignoredBossPrefixes": [
+      "ruby",
+      "max"
+    ]
   },
   "unbound": {
     "pid": "unbound",
@@ -84,7 +90,10 @@
     "patchId": "unbound",
     "region": "borrius",
     "lastUpdated": "30th March 2023",
-    "difficulty": [":", "Expert:_exp"]
+    "difficulty": [
+      ":",
+      "Expert:_exp"
+    ]
   },
   "emkaizo": {
     "pid": "emkaizo",
@@ -110,7 +119,9 @@
     "supported": true,
     "region": "paldea",
     "lastUpdated": "1st April 2023",
-    "ignoredBossPrefixes": ["t4s"]
+    "ignoredBossPrefixes": [
+      "t4s"
+    ]
   },
   "sc": {
     "pid": "sc",
@@ -121,7 +132,9 @@
     "supported": true,
     "region": "paldea",
     "lastUpdated": "1st April 2023",
-    "ignoredBossPrefixes": ["t4v"]
+    "ignoredBossPrefixes": [
+      "t4v"
+    ]
   },
   "sw": {
     "pid": "sw",
@@ -131,7 +144,12 @@
     "gen": "VIII",
     "supported": true,
     "region": "galar",
-    "ignoredBossPrefixes": ["av", "4b", "6b", "e5b"]
+    "ignoredBossPrefixes": [
+      "av",
+      "4b",
+      "6b",
+      "e5b"
+    ]
   },
   "sh": {
     "pid": "sh",
@@ -141,7 +159,12 @@
     "gen": "VIII",
     "supported": true,
     "region": "galar",
-    "ignoredBossPrefixes": ["kl", "4a", "6a", "e5a"]
+    "ignoredBossPrefixes": [
+      "kl",
+      "4a",
+      "6a",
+      "e5a"
+    ]
   },
   "usun": {
     "pid": "usun",
@@ -151,7 +174,21 @@
     "gen": "VII",
     "supported": true,
     "region": "alola",
-    "ignoredBossPrefixes": ["rr-cb", "rr-ghb", "rr-lb", "rr-gb", "f4", "dsb", "ultra1b", "ultra2b", "ultra3b", "ultra4b", "1b", "10b", "12_3b"]
+    "ignoredBossPrefixes": [
+      "rr-cb",
+      "rr-ghb",
+      "rr-lb",
+      "rr-gb",
+      "f4",
+      "dsb",
+      "ultra1b",
+      "ultra2b",
+      "ultra3b",
+      "ultra4b",
+      "1b",
+      "10b",
+      "12_3b"
+    ]
   },
   "umoon": {
     "pid": "umoon",
@@ -161,7 +198,21 @@
     "gen": "VII",
     "supported": true,
     "region": "alola",
-    "ignoredBossPrefixes": ["rr-ca", "rr-gha", "rr-la", "rr-ga", "f4", "dsa", "ultra1a", "ultra2a", "ultra3a", "ultra4a", "1a", "10a", "12_3a"]
+    "ignoredBossPrefixes": [
+      "rr-ca",
+      "rr-gha",
+      "rr-la",
+      "rr-ga",
+      "f4",
+      "dsa",
+      "ultra1a",
+      "ultra2a",
+      "ultra3a",
+      "ultra4a",
+      "1a",
+      "10a",
+      "12_3a"
+    ]
   },
   "sun": {
     "pid": "sun",
@@ -171,7 +222,10 @@
     "gen": "VII",
     "supported": true,
     "region": "alola",
-    "ignoredBossPrefixes": ["dsb", "1b"]
+    "ignoredBossPrefixes": [
+      "dsb",
+      "1b"
+    ]
   },
   "moon": {
     "pid": "moon",
@@ -181,7 +235,10 @@
     "gen": "VII",
     "supported": true,
     "region": "alola",
-    "ignoredBossPrefixes": ["dsa", "1a"]
+    "ignoredBossPrefixes": [
+      "dsa",
+      "1a"
+    ]
   },
   "x": {
     "pid": "x",
@@ -212,7 +269,10 @@
     "supported": true,
     "region": "unova",
     "lastUpdated": "12th March 2023",
-    "difficulty": ["Normal:_n", "Challenge:_c"]
+    "difficulty": [
+      "Normal:_n",
+      "Challenge:_c"
+    ]
   },
   "bl2": {
     "pid": "bl2",
@@ -222,7 +282,10 @@
     "gen": "V",
     "supported": true,
     "region": "unova",
-    "difficulty": ["Normal:n", "Challenge:c"],
+    "difficulty": [
+      "Normal:n",
+      "Challenge:c"
+    ],
     "patched": true,
     "patchId": "pregen6"
   },
@@ -234,7 +297,10 @@
     "gen": "V",
     "supported": true,
     "region": "unova",
-    "difficulty": ["Normal:n", "Challenge:c"],
+    "difficulty": [
+      "Normal:n",
+      "Challenge:c"
+    ],
     "patched": true,
     "patchId": "pregen6"
   },
@@ -249,7 +315,10 @@
     "supported": true,
     "region": "unova",
     "lastUpdated": "24th April 2023",
-    "ignoredBossPrefixes": ["n5b", "8b"]
+    "ignoredBossPrefixes": [
+      "n5b",
+      "8b"
+    ]
   },
   "volt": {
     "pid": "volt",
@@ -262,7 +331,10 @@
     "supported": true,
     "region": "unova",
     "lastUpdated": "24th April 2023",
-    "ignoredBossPrefixes": ["n5a", "8a"]
+    "ignoredBossPrefixes": [
+      "n5a",
+      "8a"
+    ]
   },
   "bl": {
     "pid": "bl",
@@ -274,7 +346,10 @@
     "region": "unova",
     "patched": true,
     "patchId": "pregen6",
-    "ignoredBossPrefixes": ["n5b", "8b"]
+    "ignoredBossPrefixes": [
+      "n5b",
+      "8b"
+    ]
   },
   "wh": {
     "pid": "wh",
@@ -286,7 +361,10 @@
     "region": "unova",
     "patched": true,
     "patchId": "pregen6",
-    "ignoredBossPrefixes": ["n5a", "8a"]
+    "ignoredBossPrefixes": [
+      "n5a",
+      "8a"
+    ]
   },
   "bd": {
     "pid": "bd",
@@ -317,7 +395,10 @@
     "patchId": "radred",
     "region": "kanto",
     "lastUpdated": "11th March 2023",
-    "difficulty": [":", "Hardcore:_hard"]
+    "difficulty": [
+      ":",
+      "Hardcore:_hard"
+    ]
   },
   "renplat": {
     "pid": "renplat",
@@ -371,7 +452,10 @@
     "gen": "VI",
     "supported": true,
     "region": "hoenn",
-    "ignoredBossPrefixes": ["saph",  "arc"]
+    "ignoredBossPrefixes": [
+      "saph",
+      "arc"
+    ]
   },
   "as": {
     "pid": "as",
@@ -381,7 +465,10 @@
     "gen": "VI",
     "supported": true,
     "region": "hoenn",
-    "ignoredBossPrefixes": ["ruby", "max"]
+    "ignoredBossPrefixes": [
+      "ruby",
+      "max"
+    ]
   },
   "em": {
     "pid": "em",
@@ -397,7 +484,6 @@
       "physicalSpecialSplit": true
     }
   },
-
   "incem": {
     "pid": "incem",
     "lid": "incem",
@@ -422,7 +508,10 @@
     "filter": {
       "physicalSpecialSplit": true
     },
-    "ignoredBossPrefixes": ["saph", "arc"]
+    "ignoredBossPrefixes": [
+      "saph",
+      "arc"
+    ]
   },
   "saph": {
     "pid": "saph",
@@ -437,7 +526,10 @@
     "filter": {
       "physicalSpecialSplit": true
     },
-    "ignoredBossPrefixes": ["ruby", "max"]
+    "ignoredBossPrefixes": [
+      "ruby",
+      "max"
+    ]
   },
   "stormsilv": {
     "pid": "stormsilv",
@@ -594,5 +686,16 @@
     "filter": {
       "physicalSpecialSplit": true
     }
+  },
+  "pitchblack2": {
+    "pid": "pitchblack2",
+    "lid": "pitchblack2",
+    "title": "Pitch Black 2",
+    "gen": "romhack",
+    "supported": true,
+    "patched": true,
+    "patchId": "pitchblack2",
+    "region": "unova",
+    "logo": "pitchblack2"
   }
 }

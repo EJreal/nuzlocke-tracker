@@ -22,11 +22,8 @@ export async function GET({ params }) {
   let sprite = await keyToBase64(leader, ext)
 
   if (!sprite) {
-    return new Response('', {
-      status: 303,
-      headers: {
-        Location: '/assets/img/pokemon/base-201-question.png'
-      }
+    return new Response('Not found', {
+      status: 404
     });
   }
 

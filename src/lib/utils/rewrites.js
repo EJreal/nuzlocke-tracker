@@ -37,17 +37,57 @@ export const createImgUrl = (p, { ext = 'webp', shiny = false } = {}) => {
 
 export const bossToImage = (bossData) => {
   let img = null;
-  if(typeof bossData.img !== 'undefined') {
+  if(typeof bossData.img !== 'undefined' && bossData.img !== null) {
     img = typeof bossData.img === 'string' ? { src: bossData.img } : bossData.img
 
-    if(!img) return img;
-
-    if(img.src.startsWith('/leaders/')) {
+    if(img && img.src.startsWith('/leaders/')) {
       img.src = `/assets/img${img.src}`;
     }
-    if(img.src.startsWith('/sprite/')) {
+    if(img && img.src.startsWith('/sprite/')) {
       img.src = `/assets/img/pokemon/base-${img.src.slice(8)}`;
     }
+  } 
+  
+  if (!img && bossData.name) {
+    const nameLower = bossData.name.toLowerCase();
+    const genericClasses = [
+      'youngster', 'lass', 'janitor', 'schoolkid', 'hiker', 'preschooler',
+      'twins', 'nurseryaide', 'worker', 'roughneck', 'guitarist',
+      'doctor', 'scientist', 'backpacker', 'clerk', 'policeman',
+      'fisherman', 'harlequin', 'biker', 'nurse', 'psychic', 'artist',
+      'cyclist', 'lady', 'beauty', 'baker', 'dancer', 'parasollady',
+      'acetrainer', 'pokefan', 'gentleman', 'pilot',
+      'blackbelt', 'battlegirl', 'swimmer', 'smasher', 'hoopster', 'veteran'
+    ];
+    for (const gc of genericClasses) {
+      if (nameLower.includes(gc)) {
+        img = { src: `/assets/img/leaders/${gc}` };
+        break;
+      }
+    }
+    // Aliases for space-separated classes
+    if (!img) {
+      if (nameLower.includes('ace trainer')) img = { src: `/assets/img/leaders/acetrainer` };
+      else if (nameLower.includes('battle girl')) img = { src: `/assets/img/leaders/battlegirl` };
+      else if (nameLower.includes('pkmn ranger') || nameLower.includes('pokémon ranger')) img = { src: `/assets/img/leaders/acetrainer` };
+      else if (nameLower.includes('school kid')) img = { src: `/assets/img/leaders/schoolkid` };
+      else if (nameLower.includes('parasol lady')) img = { src: `/assets/img/leaders/parasollady` };
+      else if (nameLower.includes('pokéfan')) img = { src: `/assets/img/leaders/pokefan` };
+      else if (nameLower.includes('black belt')) img = { src: `/assets/img/leaders/blackbelt` };
+      else if (nameLower.includes('team plasma grunt')) img = { src: `/assets/img/leaders/plasmagrunt` };
+      else if (nameLower.includes('pokémon breeder') || nameLower.includes('pokemon breeder') || nameLower.includes('pkmn breeder')) img = { src: `/assets/img/leaders/pokemonbreeder` };
+      else if (nameLower.includes('backers')) img = { src: `/assets/img/leaders/acetrainer` };
+      else if (nameLower.includes('game freak morimoto')) img = { src: `/assets/img/leaders/veteran` };
+      else if (nameLower.includes('game freak nishino')) img = { src: `/assets/img/leaders/hiker` };
+      else if (nameLower.includes('pokémon trainer rood') || nameLower.includes('pokemon trainer rood')) img = { src: `/assets/img/leaders/sage` };
+      else if (nameLower.includes('cynthia')) img = { src: `/assets/img/leaders/dp-cynthia` };
+      else if (nameLower.includes('depot agent')) img = { src: `/assets/img/leaders/depotagent` };
+      else if (nameLower.includes('rich boy')) img = { src: `/assets/img/leaders/richboy` };
+      else if (nameLower.includes('hooligans')) img = { src: `/assets/img/leaders/hooligans` };
+      else if (nameLower.includes('socialite')) img = { src: `/assets/img/leaders/lady` };
+      else if (nameLower.includes('team plasma shadow')) img = { src: `/assets/img/leaders/blwh-shadow` };
+    }
   }
+  
   return img;
 }

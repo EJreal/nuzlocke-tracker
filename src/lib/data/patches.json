@@ -20321,5 +20321,4102 @@
     },
     "pokemon": {},
     "fakemon": {}
+  },
+  "pitchblack2": {
+    "pokemon": {
+      "venusaur-mega": {
+        "stats": {
+          "atk": 82,
+          "def": 90,
+          "spa": 120,
+          "spd": 100
+        }
+      },
+      "charizard-mega-y": {
+        "stats": {
+          "atk": 110,
+          "def": 85,
+          "spa": 110,
+          "spd": 85
+        }
+      },
+      "blastoise-mega": {
+        "types": [
+          "water",
+          "steel"
+        ],
+        "stats": {
+          "atk": 83,
+          "def": 100,
+          "spa": 95,
+          "spd": 105
+        }
+      },
+      "butterfree": {
+        "stats": {
+          "hp": 65,
+          "def": 60,
+          "spa": 100,
+          "spd": 90,
+          "spe": 80
+        },
+        "abilities": [
+          "compoundeyes",
+          "tinted-lens",
+          "tinted-lens"
+        ]
+      },
+      "beedrill": {
+        "stats": {
+          "atk": 80,
+          "spe": 95
+        },
+        "abilities": [
+          "swarm",
+          "adaptability",
+          "sniper"
+        ]
+      },
+      "pidgeot": {
+        "stats": {
+          "def": 80,
+          "spa": 90,
+          "spd": 80,
+          "spe": 111
+        },
+        "abilities": [
+          "keen-eye",
+          "no-guard",
+          "big-pecks"
+        ]
+      },
+      "rattata-alola": {
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 60
+        }
+      },
+      "raticate-totem-alola": {
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 91,
+          "def": 60,
+          "spa": 50,
+          "spd": 70,
+          "spe": 97
+        }
+      },
+      "spearow": {
+        "types": [
+          "flying"
+        ],
+        "abilities": [
+          "keen-eye",
+          "sniper",
+          "moxie"
+        ]
+      },
+      "fearow": {
+        "types": [
+          "flying"
+        ],
+        "abilities": [
+          "keen-eye",
+          "sniper",
+          "moxie"
+        ]
+      },
+      "arbok": {
+        "types": [
+          "poison",
+          "dark"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 85,
+          "def": 75
+        },
+        "abilities": [
+          "intimidate",
+          "shed-skin",
+          "sheer-force"
+        ]
+      },
+      "pikachu-cosplay": {
+        "stats": {
+          "def": 30,
+          "spd": 40
+        }
+      },
+      "raichu-alola": {
+        "types": [
+          "electric"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 80,
+          "def": 55,
+          "spa": 100,
+          "spd": 80,
+          "spe": 100
+        }
+      },
+      "sandshrew-alola": {
+        "types": [
+          "ground"
+        ],
+        "stats": {
+          "def": 85,
+          "spa": 20,
+          "spd": 30
+        }
+      },
+      "sandslash-alola": {
+        "types": [
+          "ground"
+        ],
+        "stats": {
+          "atk": 110,
+          "spd": 55
+        }
+      },
+      "nidoqueen": {
+        "stats": {
+          "atk": 82
+        }
+      },
+      "nidoking": {
+        "stats": {
+          "atk": 92
+        }
+      },
+      "cleffa": {
+        "stats": {
+          "def": 38
+        },
+        "abilities": [
+          "friend-guard",
+          "magic-guard",
+          "unaware"
+        ]
+      },
+      "clefable": {
+        "stats": {
+          "spa": 85
+        },
+        "abilities": [
+          "friend-guard",
+          "magic-guard",
+          "unaware"
+        ]
+      },
+      "vulpix-alola": {
+        "types": [
+          "fire"
+        ]
+      },
+      "ninetales-alola": {
+        "types": [
+          "fire",
+          "ghost"
+        ],
+        "stats": {
+          "atk": 76,
+          "spe": 100
+        }
+      },
+      "igglybuff": {
+        "stats": {
+          "def": 35
+        },
+        "abilities": [
+          "compoundeyes",
+          "compoundeyes",
+          "friend-guard"
+        ]
+      },
+      "jigglypuff": {
+        "stats": {
+          "def": 40
+        },
+        "abilities": [
+          "friend-guard",
+          "friend-guard",
+          "compoundeyes"
+        ]
+      },
+      "wigglytuff": {
+        "stats": {
+          "def": 65,
+          "spa": 75
+        },
+        "abilities": [
+          "cute-charm",
+          "sheer-force",
+          "sheer-force"
+        ]
+      },
+      "crobat": {
+        "stats": {
+          "spa": 90
+        },
+        "abilities": [
+          "inner-focus",
+          "sniper",
+          "shadow-tag"
+        ]
+      },
+      "vileplume": {
+        "stats": {
+          "spa": 100
+        },
+        "abilities": [
+          "chlorophyll",
+          "effect-spore",
+          "effect-spore"
+        ]
+      },
+      "bellossom": {
+        "stats": {
+          "hp": 85,
+          "def": 85
+        },
+        "abilities": [
+          "chlorophyll",
+          "healer",
+          "healer"
+        ]
+      },
+      "parasect": {
+        "stats": {
+          "hp": 70,
+          "atk": 105
+        }
+      },
+      "venomoth": {
+        "types": [
+          "bug",
+          "psychic"
+        ],
+        "stats": {
+          "def": 65,
+          "spa": 95
+        },
+        "abilities": [
+          "compoundeyes",
+          "tinted-lens",
+          "wonder-skin"
+        ]
+      },
+      "diglett-alola": {
+        "types": [
+          "ground"
+        ],
+        "stats": {
+          "def": 25,
+          "spe": 95
+        }
+      },
+      "dugtrio-alola": {
+        "types": [
+          "ground"
+        ],
+        "stats": {
+          "atk": 110,
+          "def": 50,
+          "spe": 120
+        }
+      },
+      "meowth-galar": {
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 45,
+          "def": 35,
+          "spe": 90
+        }
+      },
+      "persian-alola": {
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "atk": 80,
+          "spa": 65
+        }
+      },
+      "golduck": {
+        "types": [
+          "water",
+          "psychic"
+        ],
+        "stats": {
+          "spa": 100,
+          "spe": 100
+        }
+      },
+      "growlithe-hisui": {
+        "types": [
+          "fire"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 70,
+          "spa": 70,
+          "spe": 60
+        }
+      },
+      "arcanine-hisui": {
+        "types": [
+          "fire"
+        ],
+        "stats": {
+          "hp": 90,
+          "atk": 110,
+          "spa": 100,
+          "spe": 95
+        }
+      },
+      "poliwrath": {
+        "stats": {
+          "atk": 85
+        }
+      },
+      "alakazam": {
+        "stats": {
+          "def": 50,
+          "spd": 90
+        },
+        "abilities": [
+          "magic-guard",
+          "inner-focus",
+          "trace"
+        ]
+      },
+      "victreebel": {
+        "stats": {
+          "def": 70,
+          "spd": 75
+        },
+        "abilities": [
+          "chlorophyll",
+          "gluttony",
+          "gluttony"
+        ]
+      },
+      "tentacruel": {
+        "stats": {
+          "atk": 60,
+          "spa": 95
+        }
+      },
+      "geodude-alola": {
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      "graveler-alola": {
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      "golem-alola": {
+        "types": [
+          "rock",
+          "ground"
+        ],
+        "stats": {
+          "hp": 90,
+          "atk": 110
+        }
+      },
+      "ponyta-galar": {
+        "types": [
+          "fire"
+        ]
+      },
+      "rapidash-galar": {
+        "types": [
+          "fire",
+          "fairy"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 110,
+          "spe": 110
+        }
+      },
+      "slowpoke-galar": {
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      "slowbro-galar": {
+        "types": [
+          "water",
+          "psychic"
+        ],
+        "stats": {
+          "atk": 75,
+          "def": 110,
+          "spd": 80
+        }
+      },
+      "slowking-galar": {
+        "types": [
+          "water",
+          "psychic"
+        ],
+        "stats": {
+          "atk": 75,
+          "spa": 100
+        }
+      },
+      "farfetchd": {
+        "types": [
+          "fighting",
+          "flying"
+        ],
+        "stats": {
+          "atk": 65,
+          "spe": 70
+        },
+        "abilities": [
+          "keen-eye",
+          "technician",
+          "defiant"
+        ]
+      },
+      "dodrio": {
+        "stats": {
+          "hp": 80,
+          "spe": 100
+        }
+      },
+      "dewgong": {
+        "stats": {
+          "atk": 50,
+          "spa": 90
+        }
+      },
+      "grimer-alola": {
+        "types": [
+          "poison"
+        ]
+      },
+      "muk-alola": {
+        "types": [
+          "poison"
+        ],
+        "stats": {
+          "atk": 110
+        }
+      },
+      "gastly": {
+        "stats": {
+          "atk": 55,
+          "spa": 80
+        },
+        "abilities": [
+          "levitate"
+        ]
+      },
+      "haunter": {
+        "stats": {
+          "atk": 65,
+          "spa": 105
+        },
+        "abilities": [
+          "levitate",
+          "cursed-body"
+        ]
+      },
+      "gengar": {
+        "stats": {
+          "spa": 140
+        },
+        "abilities": [
+          "levitate",
+          "cursed-body",
+          "shadow-tag"
+        ]
+      },
+      "onix": {
+        "stats": {
+          "hp": 50,
+          "atk": 60,
+          "def": 150,
+          "spe": 80
+        }
+      },
+      "steelix": {
+        "stats": {
+          "atk": 95
+        }
+      },
+      "voltorb-hisui": {
+        "types": [
+          "electric"
+        ]
+      },
+      "electrode-hisui": {
+        "types": [
+          "electric"
+        ],
+        "stats": {
+          "spa": 90,
+          "spe": 140
+        }
+      },
+      "exeggutor-alola": {
+        "types": [
+          "grass",
+          "psychic"
+        ],
+        "stats": {
+          "atk": 95,
+          "spd": 65,
+          "spe": 55
+        }
+      },
+      "marowak-alola": {
+        "types": [
+          "ground"
+        ],
+        "stats": {
+          "hp": 80,
+          "spa": 30
+        }
+      },
+      "hitmonchan": {
+        "stats": {
+          "atk": 115
+        },
+        "abilities": [
+          "inner-focus",
+          "iron-fist",
+          "inner-focus"
+        ]
+      },
+      "lickitung": {
+        "stats": {
+          "atk": 95
+        }
+      },
+      "weezing-galar": {
+        "types": [
+          "poison"
+        ]
+      },
+      "kangaskhan": {
+        "stats": {
+          "atk": 115,
+          "def": 90,
+          "spd": 90
+        }
+      },
+      "scizor": {
+        "stats": {
+          "def": 110,
+          "spe": 75
+        }
+      },
+      "jynx": {
+        "stats": {
+          "def": 50,
+          "spa": 100
+        }
+      },
+      "electivire": {
+        "types": [
+          "electric",
+          "fighting"
+        ],
+        "stats": {
+          "atk": 113
+        },
+        "abilities": [
+          "motor-drive",
+          "vital-spirit",
+          "iron-fist"
+        ]
+      },
+      "magmortar": {
+        "types": [
+          "fire",
+          "psychic"
+        ],
+        "stats": {
+          "spe": 95
+        }
+      },
+      "pinsir": {
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      "gyarados-mega": {
+        "types": [
+          "water",
+          "flying"
+        ],
+        "stats": {
+          "atk": 120,
+          "def": 79,
+          "spa": 60,
+          "spd": 100
+        }
+      },
+      "lapras": {
+        "types": [
+          "water",
+          "dragon"
+        ],
+        "stats": {
+          "spa": 95
+        }
+      },
+      "flareon": {
+        "stats": {
+          "spd": 100,
+          "spe": 85
+        }
+      },
+      "glaceon": {
+        "stats": {
+          "hp": 80,
+          "atk": 45,
+          "def": 100,
+          "spe": 75
+        }
+      },
+      "leafeon": {
+        "stats": {
+          "hp": 85,
+          "def": 110
+        },
+        "abilities": [
+          "leaf-guard",
+          "chlorophyll",
+          "sap-sipper"
+        ]
+      },
+      "aerodactyl-mega": {
+        "stats": {
+          "atk": 115,
+          "def": 75,
+          "spa": 60,
+          "spd": 85,
+          "spe": 130
+        }
+      },
+      "articuno-galar": {
+        "types": [
+          "ice",
+          "flying"
+        ],
+        "stats": {
+          "def": 100,
+          "spa": 100,
+          "spd": 120,
+          "spe": 90
+        }
+      },
+      "zapdos-galar": {
+        "types": [
+          "electric",
+          "flying"
+        ],
+        "stats": {
+          "atk": 90,
+          "def": 85,
+          "spa": 125
+        }
+      },
+      "moltres-galar": {
+        "types": [
+          "fire",
+          "flying"
+        ],
+        "stats": {
+          "atk": 100,
+          "spa": 125,
+          "spd": 85
+        }
+      },
+      "mewtwo-mega-x": {
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "atk": 110,
+          "def": 90,
+          "spd": 90
+        }
+      },
+      "meganium": {
+        "types": [
+          "grass",
+          "fairy"
+        ],
+        "stats": {
+          "spa": 90,
+          "spe": 75
+        },
+        "abilities": [
+          "overgrow",
+          "overcoat",
+          "leaf-guard"
+        ]
+      },
+      "typhlosion-hisui": {
+        "types": [
+          "fire",
+          "ground"
+        ],
+        "stats": {
+          "hp": 78,
+          "spa": 109,
+          "spe": 100
+        }
+      },
+      "feraligatr": {
+        "types": [
+          "water",
+          "dragon"
+        ],
+        "abilities": [
+          "torrent",
+          "sheer-force",
+          "sheer-force"
+        ]
+      },
+      "noctowl": {
+        "types": [
+          "psychic",
+          "flying"
+        ],
+        "stats": {
+          "hp": 115,
+          "spa": 76
+        }
+      },
+      "ledyba": {
+        "stats": {
+          "atk": 40
+        }
+      },
+      "ledian": {
+        "types": [
+          "bug",
+          "fighting"
+        ],
+        "stats": {
+          "atk": 70,
+          "spa": 35,
+          "spd": 100
+        },
+        "abilities": [
+          "swarm",
+          "iron-fist",
+          "early-bird"
+        ]
+      },
+      "ariados": {
+        "stats": {
+          "atk": 95,
+          "spd": 60,
+          "spe": 60
+        },
+        "abilities": [
+          "swarm",
+          "sniper",
+          "forewarn"
+        ]
+      },
+      "lanturn": {
+        "stats": {
+          "atk": 50,
+          "def": 65,
+          "spa": 90
+        }
+      },
+      "togepi": {
+        "stats": {
+          "spa": 60
+        },
+        "abilities": [
+          "super-luck",
+          "serene-grace",
+          "hustle"
+        ]
+      },
+      "xatu": {
+        "stats": {
+          "spa": 105,
+          "spe": 105
+        }
+      },
+      "ampharos-mega": {
+        "stats": {
+          "atk": 75,
+          "def": 75,
+          "spa": 125,
+          "spd": 100,
+          "spe": 55
+        }
+      },
+      "marill": {
+        "stats": {
+          "atk": 40,
+          "spa": 40
+        }
+      },
+      "azumarill": {
+        "stats": {
+          "atk": 60
+        }
+      },
+      "sudowoodo": {
+        "types": [
+          "rock",
+          "grass"
+        ],
+        "stats": {
+          "hp": 90
+        }
+      },
+      "jumpluff": {
+        "stats": {
+          "atk": 75,
+          "spa": 65,
+          "spd": 85
+        }
+      },
+      "sunkern": {
+        "stats": {
+          "atk": 50,
+          "def": 40,
+          "spa": 50,
+          "spd": 40
+        }
+      },
+      "sunflora": {
+        "types": [
+          "grass",
+          "fire"
+        ],
+        "stats": {
+          "hp": 95,
+          "spa": 125,
+          "spe": 50
+        },
+        "abilities": [
+          "chlorophyll",
+          "solar-power",
+          "drought"
+        ]
+      },
+      "wooper-paldea": {
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      "quagsire": {
+        "stats": {
+          "hp": 100,
+          "def": 90
+        }
+      },
+      "mismagius": {
+        "types": [
+          "ghost",
+          "fairy"
+        ],
+        "stats": {
+          "hp": 70,
+          "def": 70
+        },
+        "abilities": [
+          "levitate",
+          "cursed-body"
+        ]
+      },
+      "girafarig": {
+        "stats": {
+          "atk": 90,
+          "spe": 100
+        }
+      },
+      "dunsparce": {
+        "stats": {
+          "def": 80,
+          "spd": 75
+        },
+        "abilities": [
+          "serene-grace",
+          "levitate",
+          "rattled"
+        ]
+      },
+      "snubbull": {
+        "types": [
+          "fairy",
+          "fighting"
+        ],
+        "abilities": [
+          "rattled",
+          "run-away",
+          "intimidate"
+        ]
+      },
+      "granbull": {
+        "types": [
+          "fairy",
+          "fighting"
+        ],
+        "stats": {
+          "hp": 100
+        },
+        "abilities": [
+          "rattled",
+          "quick-feet",
+          "intimidate"
+        ]
+      },
+      "qwilfish-hisui": {
+        "types": [
+          "water",
+          "poison"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 105,
+          "def": 75
+        }
+      },
+      "ursaring": {
+        "types": [
+          "normal",
+          "ground"
+        ],
+        "stats": {
+          "def": 85,
+          "spa": 55,
+          "spd": 85
+        }
+      },
+      "magcargo": {
+        "stats": {
+          "hp": 50,
+          "spa": 80
+        }
+      },
+      "corsola-galar": {
+        "types": [
+          "water",
+          "rock"
+        ],
+        "stats": {
+          "hp": 55,
+          "def": 85,
+          "spd": 85,
+          "spe": 35
+        }
+      },
+      "octillery": {
+        "stats": {
+          "spa": 110,
+          "spe": 75
+        }
+      },
+      "delibird": {
+        "stats": {
+          "hp": 55,
+          "atk": 90,
+          "def": 55,
+          "spd": 55
+        },
+        "abilities": [
+          "sniper",
+          "hustle",
+          "insomnia"
+        ]
+      },
+      "mantine": {
+        "stats": {
+          "hp": 65,
+          "spa": 90
+        }
+      },
+      "houndoom-mega": {
+        "stats": {
+          "def": 70,
+          "spa": 120,
+          "spd": 80,
+          "spe": 105
+        }
+      },
+      "stantler": {
+        "types": [
+          "normal",
+          "psychic"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 100,
+          "def": 70,
+          "spd": 73,
+          "spe": 90
+        },
+        "abilities": [
+          "intimidate",
+          "reckless",
+          "sap-sipper"
+        ]
+      },
+      "raikou": {
+        "stats": {
+          "spa": 105,
+          "spd": 90
+        },
+        "abilities": [
+          "pressure",
+          "infiltrator",
+          "inner-focus"
+        ]
+      },
+      "entei": {
+        "stats": {
+          "hp": 105,
+          "spe": 90
+        },
+        "abilities": [
+          "pressure",
+          "infiltrator",
+          "inner-focus"
+        ]
+      },
+      "suicune": {
+        "stats": {
+          "hp": 90,
+          "def": 105
+        },
+        "abilities": [
+          "pressure",
+          "infiltrator",
+          "inner-focus"
+        ]
+      },
+      "tyranitar": {
+        "stats": {
+          "spd": 110
+        },
+        "abilities": [
+          "unnerve",
+          "unnerve",
+          "sand-stream"
+        ]
+      },
+      "grovyle": {
+        "types": [
+          "grass",
+          "dragon"
+        ],
+        "stats": {
+          "atk": 75
+        },
+        "abilities": [
+          "overgrow",
+          "unburden",
+          "unburden"
+        ]
+      },
+      "sceptile-mega": {
+        "stats": {
+          "atk": 85,
+          "def": 65,
+          "spa": 105,
+          "spe": 120
+        }
+      },
+      "blaziken-mega": {
+        "stats": {
+          "atk": 130,
+          "def": 70,
+          "spa": 120,
+          "spd": 70,
+          "spe": 80
+        }
+      },
+      "swampert-mega": {
+        "stats": {
+          "atk": 120,
+          "def": 100,
+          "spd": 100,
+          "spe": 60
+        }
+      },
+      "mightyena": {
+        "stats": {
+          "atk": 100,
+          "spe": 80
+        },
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "moxie"
+        ]
+      },
+      "zigzagoon-galar": {
+        "types": [
+          "normal"
+        ]
+      },
+      "linoone-galar": {
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 85
+        }
+      },
+      "beautifly": {
+        "stats": {
+          "spa": 105,
+          "spe": 75
+        }
+      },
+      "dustox": {
+        "stats": {
+          "hp": 80,
+          "atk": 40,
+          "spa": 60
+        },
+        "abilities": [
+          "shield-dust",
+          "compoundeyes",
+          "tinted-lens"
+        ]
+      },
+      "shiftry": {
+        "stats": {
+          "atk": 120,
+          "spa": 110
+        }
+      },
+      "swellow": {
+        "stats": {
+          "spa": 85
+        },
+        "abilities": [
+          "guts",
+          "scrappy",
+          "scrappy"
+        ]
+      },
+      "gardevoir": {
+        "stats": {
+          "spa": 135,
+          "spe": 90
+        },
+        "abilities": [
+          "synchronize",
+          "synchronize",
+          "trace"
+        ]
+      },
+      "gallade": {
+        "stats": {
+          "def": 75,
+          "spe": 100
+        },
+        "abilities": [
+          "steadfast",
+          "inner-focus",
+          "justified"
+        ]
+      },
+      "masquerain": {
+        "types": [
+          "bug",
+          "water"
+        ],
+        "stats": {
+          "hp": 80,
+          "spa": 80,
+          "spe": 60
+        }
+      },
+      "exploud": {
+        "stats": {
+          "atk": 81,
+          "spd": 63,
+          "spe": 73
+        },
+        "abilities": [
+          "soundproof",
+          "scrappy",
+          "scrappy"
+        ]
+      },
+      "probopass": {
+        "types": [
+          "rock",
+          "electric"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 45,
+          "spa": 80
+        },
+        "abilities": [
+          "sturdy",
+          "levitate",
+          "sand-force"
+        ]
+      },
+      "skitty": {
+        "stats": {
+          "atk": 50,
+          "def": 50,
+          "spa": 50,
+          "spd": 50
+        }
+      },
+      "delcatty": {
+        "types": [
+          "normal",
+          "fairy"
+        ],
+        "stats": {
+          "atk": 95,
+          "spa": 75,
+          "spe": 100
+        },
+        "abilities": [
+          "cute-charm",
+          "cute-charm",
+          "wonder-skin"
+        ]
+      },
+      "sableye": {
+        "stats": {
+          "atk": 85,
+          "def": 95,
+          "spa": 85,
+          "spd": 85,
+          "spe": 30
+        },
+        "abilities": [
+          "prankster",
+          "magic-guard",
+          "magic-bounce"
+        ]
+      },
+      "mawile": {
+        "stats": {
+          "atk": 95,
+          "def": 95,
+          "spd": 75
+        },
+        "abilities": [
+          "intimidate",
+          "hyper-cutter",
+          "huge-power"
+        ]
+      },
+      "aggron": {
+        "types": [
+          "steel",
+          "dragon"
+        ],
+        "stats": {
+          "spd": 70
+        },
+        "abilities": [
+          "filter",
+          "clear-body",
+          "heavy-metal"
+        ]
+      },
+      "medicham-mega": {
+        "stats": {
+          "atk": 70,
+          "def": 75,
+          "spa": 70,
+          "spd": 75,
+          "spe": 90
+        }
+      },
+      "manectric-mega": {
+        "stats": {
+          "def": 70,
+          "spa": 115,
+          "spd": 70,
+          "spe": 115
+        }
+      },
+      "plusle": {
+        "stats": {
+          "atk": 85,
+          "spa": 50,
+          "spe": 105
+        },
+        "abilities": [
+          "volt-absorb",
+          "volt-absorb",
+          "plus"
+        ]
+      },
+      "minun": {
+        "stats": {
+          "atk": 50,
+          "def": 40,
+          "spa": 85,
+          "spd": 75,
+          "spe": 105
+        },
+        "abilities": [
+          "volt-absorb",
+          "volt-absorb",
+          "minus"
+        ]
+      },
+      "volbeat": {
+        "types": [
+          "bug",
+          "electric"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 47,
+          "def": 55,
+          "spa": 90,
+          "spd": 75
+        },
+        "abilities": [
+          "prankster",
+          "swarm",
+          "prankster"
+        ]
+      },
+      "illumise": {
+        "types": [
+          "bug",
+          "fairy"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 90,
+          "def": 55,
+          "spa": 47,
+          "spd": 75
+        },
+        "abilities": [
+          "prankster",
+          "tinted-lens",
+          "prankster"
+        ]
+      },
+      "roserade": {
+        "stats": {
+          "def": 55
+        }
+      },
+      "swalot": {
+        "stats": {
+          "atk": 53,
+          "spa": 93
+        },
+        "abilities": [
+          "liquid-ooze",
+          "magic-guard",
+          "gluttony"
+        ]
+      },
+      "sharpedo": {
+        "stats": {
+          "def": 50,
+          "spd": 45,
+          "spe": 105
+        },
+        "abilities": [
+          "rough-skin",
+          "infiltrator",
+          "speed-boost"
+        ]
+      },
+      "wailord": {
+        "stats": {
+          "atk": 70,
+          "def": 60,
+          "spd": 60
+        }
+      },
+      "camerupt-mega": {
+        "stats": {
+          "hp": 90,
+          "atk": 110,
+          "def": 90,
+          "spa": 110,
+          "spd": 85,
+          "spe": 40
+        }
+      },
+      "torkoal": {
+        "stats": {
+          "atk": 75,
+          "spa": 95
+        },
+        "abilities": [
+          "white-smoke",
+          "shell-armor",
+          "drought"
+        ]
+      },
+      "grumpig": {
+        "stats": {
+          "hp": 90
+        }
+      },
+      "spinda": {
+        "stats": {
+          "hp": 80,
+          "atk": 70,
+          "def": 80,
+          "spa": 70,
+          "spd": 80,
+          "spe": 70
+        },
+        "abilities": [
+          "contrary",
+          "tangled-feet",
+          "own-tempo"
+        ]
+      },
+      "flygon": {
+        "types": [
+          "bug",
+          "dragon"
+        ],
+        "stats": {
+          "hp": 90,
+          "spa": 110
+        },
+        "abilities": [
+          "levitate",
+          "compoundeyes",
+          "tinted-lens"
+        ]
+      },
+      "cacturne": {
+        "types": [
+          "grass",
+          "ground"
+        ]
+      },
+      "swablu": {
+        "stats": {
+          "hp": 55
+        },
+        "abilities": [
+          "natural-cure",
+          "cloud-nine",
+          "cloud-nine"
+        ]
+      },
+      "altaria": {
+        "types": [
+          "dragon",
+          "fairy"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 80,
+          "def": 100,
+          "spa": 80
+        },
+        "abilities": [
+          "natural-cure",
+          "levitate",
+          "cloud-nine"
+        ]
+      },
+      "zangoose": {
+        "stats": {
+          "def": 70,
+          "spd": 70,
+          "spe": 100
+        },
+        "abilities": [
+          "adaptability",
+          "toxic-boost",
+          "toxic-boost"
+        ]
+      },
+      "seviper": {
+        "stats": {
+          "spe": 85
+        },
+        "abilities": [
+          "shed-skin",
+          "infiltrator",
+          "infiltrator"
+        ]
+      },
+      "lunatone": {
+        "stats": {
+          "hp": 70,
+          "spa": 105,
+          "spe": 90
+        }
+      },
+      "solrock": {
+        "stats": {
+          "hp": 70,
+          "atk": 105,
+          "spe": 90
+        }
+      },
+      "claydol": {
+        "stats": {
+          "spa": 80
+        }
+      },
+      "milotic": {
+        "types": [
+          "water",
+          "fairy"
+        ],
+        "abilities": [
+          "marvel-scale",
+          "multiscale",
+          "cute-charm"
+        ]
+      },
+      "castform": {
+        "types": [
+          "ice"
+        ]
+      },
+      "kecleon": {
+        "stats": {
+          "hp": 70,
+          "atk": 100
+        }
+      },
+      "banette": {
+        "stats": {
+          "atk": 125,
+          "def": 75,
+          "spd": 73,
+          "spe": 70
+        },
+        "abilities": [
+          "insomnia",
+          "prankster",
+          "cursed-body"
+        ]
+      },
+      "tropius": {
+        "stats": {
+          "spa": 92,
+          "spe": 81
+        }
+      },
+      "chimecho": {
+        "types": [
+          "psychic",
+          "steel"
+        ],
+        "stats": {
+          "hp": 90,
+          "def": 70,
+          "spd": 80
+        }
+      },
+      "absol": {
+        "types": [
+          "dark",
+          "fairy"
+        ],
+        "stats": {
+          "spd": 70,
+          "spe": 95
+        },
+        "abilities": [
+          "magic-guard",
+          "super-luck",
+          "magic-bounce"
+        ]
+      },
+      "glalie": {
+        "types": [
+          "ice",
+          "rock"
+        ],
+        "stats": {
+          "atk": 100,
+          "spa": 90,
+          "spd": 90,
+          "spe": 90
+        }
+      },
+      "froslass": {
+        "stats": {
+          "atk": 95,
+          "spa": 95
+        },
+        "abilities": [
+          "cursed-body",
+          "cursed-body",
+          "snow-cloak"
+        ]
+      },
+      "huntail": {
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      "gorebyss": {
+        "types": [
+          "water",
+          "fairy"
+        ],
+        "abilities": [
+          "swift-swim",
+          "hydration",
+          "hydration"
+        ]
+      },
+      "relicanth": {
+        "stats": {
+          "atk": 105,
+          "def": 115
+        }
+      },
+      "luvdisc": {
+        "stats": {
+          "hp": 53
+        },
+        "abilities": [
+          "swift-swim",
+          "hydration",
+          "hydration"
+        ]
+      },
+      "alomomola": {
+        "types": [
+          "water",
+          "fairy"
+        ],
+        "stats": {
+          "hp": 135,
+          "spa": 75
+        }
+      },
+      "salamence": {
+        "stats": {
+          "def": 90,
+          "spd": 90
+        },
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "moxie"
+        ]
+      },
+      "metagross-mega": {
+        "stats": {
+          "atk": 135,
+          "def": 140,
+          "spa": 95,
+          "spd": 100,
+          "spe": 80
+        }
+      },
+      "kyogre-primal": {
+        "stats": {
+          "atk": 100,
+          "spa": 150,
+          "spd": 140
+        }
+      },
+      "groudon-primal": {
+        "stats": {
+          "atk": 150,
+          "def": 140,
+          "spa": 100
+        }
+      },
+      "rayquaza-mega": {
+        "stats": {
+          "atk": 150,
+          "def": 90,
+          "spa": 150,
+          "spd": 90,
+          "spe": 95
+        }
+      },
+      "deoxys-speed": {
+        "stats": {
+          "atk": 150,
+          "def": 50,
+          "spa": 150,
+          "spd": 50,
+          "spe": 150
+        }
+      },
+      "infernape": {
+        "stats": {
+          "atk": 110,
+          "spa": 110,
+          "spe": 113
+        },
+        "abilities": [
+          "blaze",
+          "iron-fist",
+          "iron-fist"
+        ]
+      },
+      "prinplup": {
+        "stats": {
+          "atk": 70
+        },
+        "abilities": [
+          "torrent",
+          "defiant",
+          "clear-body"
+        ]
+      },
+      "empoleon": {
+        "stats": {
+          "atk": 111,
+          "spa": 86
+        },
+        "abilities": [
+          "torrent",
+          "defiant",
+          "clear-body"
+        ]
+      },
+      "staraptor": {
+        "types": [
+          "fighting",
+          "flying"
+        ],
+        "stats": {
+          "spd": 50
+        },
+        "abilities": [
+          "intimidate",
+          "reckless",
+          "reckless"
+        ]
+      },
+      "bibarel": {
+        "stats": {
+          "def": 80,
+          "spd": 80,
+          "spe": 60
+        }
+      },
+      "kricketune": {
+        "stats": {
+          "atk": 95,
+          "def": 61,
+          "spa": 75,
+          "spd": 61
+        },
+        "abilities": [
+          "swarm",
+          "technician",
+          "technician"
+        ]
+      },
+      "luxray": {
+        "types": [
+          "electric",
+          "dark"
+        ],
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "guts"
+        ]
+      },
+      "wormadam-trash": {
+        "types": [
+          "bug",
+          "grass"
+        ],
+        "stats": {
+          "atk": 59,
+          "def": 85,
+          "spa": 79,
+          "spd": 105
+        }
+      },
+      "mothim": {
+        "stats": {
+          "atk": 84,
+          "spe": 80
+        },
+        "abilities": [
+          "swarm",
+          "tinted-lens",
+          "tinted-lens"
+        ]
+      },
+      "pachirisu": {
+        "stats": {
+          "hp": 75,
+          "spd": 95
+        },
+        "abilities": [
+          "prankster",
+          "volt-absorb",
+          "volt-absorb"
+        ]
+      },
+      "floatzel": {
+        "stats": {
+          "hp": 90,
+          "atk": 100
+        }
+      },
+      "cherrim": {
+        "stats": {
+          "atk": 87,
+          "spa": 60
+        }
+      },
+      "lopunny": {
+        "types": [
+          "normal",
+          "fighting"
+        ],
+        "stats": {
+          "atk": 106,
+          "def": 94,
+          "spe": 115
+        },
+        "abilities": [
+          "cute-charm",
+          "scrappy",
+          "limber"
+        ]
+      },
+      "purugly": {
+        "stats": {
+          "hp": 100,
+          "def": 79,
+          "spd": 79,
+          "spe": 110
+        }
+      },
+      "skuntank": {
+        "stats": {
+          "spa": 91
+        }
+      },
+      "garchomp": {
+        "stats": {
+          "def": 105,
+          "spd": 95,
+          "spe": 100
+        },
+        "abilities": [
+          "sand-veil",
+          "sand-force",
+          "rough-skin"
+        ]
+      },
+      "lucario-mega": {
+        "stats": {
+          "atk": 100,
+          "def": 70,
+          "spa": 105,
+          "spe": 90
+        }
+      },
+      "carnivine": {
+        "stats": {
+          "hp": 89,
+          "def": 82,
+          "spa": 55,
+          "spd": 82
+        },
+        "abilities": [
+          "levitate",
+          "levitate",
+          "arena-trap"
+        ]
+      },
+      "lumineon": {
+        "stats": {
+          "hp": 79,
+          "atk": 59,
+          "spa": 96,
+          "spd": 69,
+          "spe": 101
+        }
+      },
+      "abomasnow-mega": {
+        "stats": {
+          "atk": 102,
+          "def": 75,
+          "spa": 105,
+          "spd": 85,
+          "spe": 60
+        }
+      },
+      "sneasel-hisui": {
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      "dialga-origin": {
+        "stats": {
+          "atk": 120,
+          "spd": 100
+        }
+      },
+      "regigigas": {
+        "stats": {
+          "hp": 100,
+          "atk": 150,
+          "def": 100,
+          "spd": 100
+        },
+        "abilities": [
+          "slow-start",
+          "clear-body",
+          "scrappy"
+        ]
+      },
+      "giratina-origin": {
+        "stats": {
+          "atk": 100,
+          "def": 120,
+          "spa": 100,
+          "spd": 120
+        }
+      },
+      "shaymin-sky": {
+        "types": [
+          "grass"
+        ],
+        "stats": {
+          "atk": 100,
+          "def": 100,
+          "spa": 100,
+          "spd": 100,
+          "spe": 100
+        }
+      },
+      "servine": {
+        "stats": {
+          "def": 80,
+          "spd": 80
+        },
+        "abilities": [
+          "overgrow",
+          "contrary",
+          "contrary"
+        ]
+      },
+      "serperior": {
+        "types": [
+          "grass",
+          "dragon"
+        ],
+        "abilities": [
+          "overgrow",
+          "contrary",
+          "contrary"
+        ]
+      },
+      "pignite": {
+        "types": [
+          "fire"
+        ],
+        "abilities": [
+          "blaze",
+          "reckless",
+          "thick-fat"
+        ]
+      },
+      "samurott-hisui": {
+        "stats": {
+          "hp": 95,
+          "atk": 110,
+          "def": 90,
+          "spa": 93,
+          "spe": 75
+        }
+      },
+      "watchog": {
+        "stats": {
+          "hp": 80,
+          "def": 74,
+          "spd": 74,
+          "spe": 50
+        },
+        "abilities": [
+          "no-guard",
+          "analytic",
+          "keen-eye"
+        ]
+      },
+      "stoutland": {
+        "stats": {
+          "hp": 90,
+          "atk": 115
+        },
+        "abilities": [
+          "intimidate",
+          "trace",
+          "scrappy"
+        ]
+      },
+      "liepard": {
+        "stats": {
+          "hp": 74,
+          "spa": 78
+        },
+        "abilities": [
+          "prankster",
+          "unburden",
+          "limber"
+        ]
+      },
+      "pidove": {
+        "stats": {
+          "hp": 52,
+          "def": 52,
+          "spa": 40,
+          "spd": 32,
+          "spe": 45
+        },
+        "abilities": [
+          "super-luck",
+          "super-luck",
+          "rivalry"
+        ]
+      },
+      "unfezant": {
+        "stats": {
+          "atk": 105
+        },
+        "abilities": [
+          "super-luck",
+          "super-luck",
+          "rivalry"
+        ]
+      },
+      "gigalith": {
+        "stats": {
+          "spd": 70
+        },
+        "abilities": [
+          "sturdy",
+          "sand-force",
+          "sand-stream"
+        ]
+      },
+      "woobat": {
+        "stats": {
+          "hp": 55
+        },
+        "abilities": [
+          "friend-guard",
+          "simple",
+          "simple"
+        ]
+      },
+      "swoobat": {
+        "stats": {
+          "hp": 75,
+          "def": 65,
+          "spd": 65
+        },
+        "abilities": [
+          "friend-guard",
+          "simple",
+          "simple"
+        ]
+      },
+      "audino": {
+        "types": [
+          "normal",
+          "fairy"
+        ],
+        "stats": {
+          "def": 106,
+          "spa": 70,
+          "spd": 106
+        }
+      },
+      "seismitoad": {
+        "stats": {
+          "atk": 85
+        }
+      },
+      "throh": {
+        "stats": {
+          "def": 95,
+          "spd": 95
+        }
+      },
+      "sawk": {
+        "stats": {
+          "def": 80,
+          "spd": 80,
+          "spe": 95
+        }
+      },
+      "sewaddle": {
+        "types": [
+          "bug",
+          "electric"
+        ]
+      },
+      "swadloon": {
+        "types": [
+          "bug",
+          "electric"
+        ]
+      },
+      "leavanny": {
+        "types": [
+          "bug",
+          "electric"
+        ],
+        "stats": {
+          "spd": 70
+        }
+      },
+      "scolipede": {
+        "stats": {
+          "atk": 90
+        }
+      },
+      "lilligant-hisui": {
+        "types": [
+          "grass"
+        ],
+        "stats": {
+          "atk": 60,
+          "spa": 110,
+          "spe": 90
+        }
+      },
+      "basculin-red-striped": {
+        "stats": {
+          "hp": 90
+        }
+      },
+      "basculin": {
+        "stats": {
+          "hp": 90
+        }
+      },
+      "krookodile": {
+        "stats": {
+          "def": 70
+        },
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "moxie"
+        ]
+      },
+      "darumaka-galar": {
+        "types": [
+          "fire"
+        ]
+      },
+      "maractus": {
+        "types": [
+          "grass",
+          "water"
+        ],
+        "stats": {
+          "atk": 96
+        }
+      },
+      "crustle": {
+        "stats": {
+          "atk": 95,
+          "spe": 55
+        },
+        "abilities": [
+          "sturdy",
+          "weak-armor",
+          "shell-armor"
+        ]
+      },
+      "yamask-galar": {
+        "types": [
+          "ghost"
+        ],
+        "stats": {
+          "atk": 30,
+          "spa": 55
+        }
+      },
+      "zorua-hisui": {
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 65,
+          "spa": 80,
+          "spe": 65
+        }
+      },
+      "zoroark-hisui": {
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 105,
+          "spa": 120,
+          "spe": 105
+        }
+      },
+      "gothita": {
+        "stats": {
+          "hp": 50,
+          "atk": 35,
+          "spa": 65
+        },
+        "abilities": [
+          "oblivious",
+          "early-bird",
+          "shadow-tag"
+        ]
+      },
+      "gothitelle": {
+        "types": [
+          "psychic",
+          "dark"
+        ],
+        "abilities": [
+          "oblivious",
+          "early-bird",
+          "shadow-tag"
+        ]
+      },
+      "swanna": {
+        "stats": {
+          "atk": 77,
+          "spa": 97,
+          "spe": 108
+        },
+        "abilities": [
+          "keen-eye",
+          "friend-guard",
+          "no-guard"
+        ]
+      },
+      "vanilluxe": {
+        "stats": {
+          "atk": 90,
+          "spe": 84
+        }
+      },
+      "emolga": {
+        "stats": {
+          "atk": 85,
+          "spa": 95
+        },
+        "abilities": [
+          "static",
+          "motor-drive",
+          "lightningrod"
+        ]
+      },
+      "jellicent": {
+        "stats": {
+          "atk": 70,
+          "spa": 90,
+          "spd": 100
+        }
+      },
+      "eelektross": {
+        "stats": {
+          "atk": 105,
+          "spa": 115
+        }
+      },
+      "beheeyem": {
+        "stats": {
+          "hp": 95
+        },
+        "abilities": [
+          "analytic",
+          "synchronize",
+          "telepathy"
+        ]
+      },
+      "haxorus": {
+        "stats": {
+          "spd": 75,
+          "spe": 100
+        },
+        "abilities": [
+          "mold-breaker",
+          "mold-breaker",
+          "rivalry"
+        ]
+      },
+      "beartic": {
+        "types": [
+          "ice",
+          "fighting"
+        ],
+        "abilities": [
+          "snow-cloak",
+          "swift-swim",
+          "swift-swim"
+        ]
+      },
+      "cryogonal": {
+        "stats": {
+          "hp": 70,
+          "def": 30,
+          "spa": 110
+        },
+        "abilities": [
+          "levitate",
+          "levitate",
+          "snow-warning"
+        ]
+      },
+      "stunfisk-galar": {
+        "types": [
+          "ground",
+          "electric"
+        ],
+        "stats": {
+          "atk": 66,
+          "def": 84,
+          "spa": 81,
+          "spd": 99
+        }
+      },
+      "druddigon": {
+        "types": [
+          "normal",
+          "dragon"
+        ],
+        "stats": {
+          "hp": 90,
+          "spe": 52
+        }
+      },
+      "golurk": {
+        "stats": {
+          "hp": 100,
+          "def": 90,
+          "spd": 90
+        },
+        "abilities": [
+          "iron-fist",
+          "no-guard",
+          "no-guard"
+        ]
+      },
+      "bouffalant": {
+        "stats": {
+          "spe": 65
+        },
+        "abilities": [
+          "reckless",
+          "reckless",
+          "sap-sipper"
+        ]
+      },
+      "braviary-hisui": {
+        "types": [
+          "normal",
+          "flying"
+        ],
+        "stats": {
+          "hp": 100,
+          "atk": 123,
+          "def": 75,
+          "spa": 57,
+          "spd": 75,
+          "spe": 80
+        }
+      },
+      "heatmor": {
+        "stats": {
+          "spe": 85
+        }
+      },
+      "tornadus-therian": {
+        "stats": {
+          "atk": 115,
+          "def": 70,
+          "spa": 125,
+          "spd": 80,
+          "spe": 111
+        }
+      },
+      "thundurus-therian": {
+        "stats": {
+          "atk": 115,
+          "spa": 125,
+          "spe": 111
+        }
+      },
+      "kyurem-black": {
+        "stats": {
+          "atk": 130,
+          "def": 90,
+          "spa": 130
+        }
+      },
+      "bulbasaur": {
+        "abilities": [
+          "overgrow",
+          "thick-fat",
+          "chlorophyll"
+        ]
+      },
+      "ivysaur": {
+        "abilities": [
+          "overgrow",
+          "thick-fat",
+          "chlorophyll"
+        ]
+      },
+      "venusaur": {
+        "abilities": [
+          "overgrow",
+          "thick-fat",
+          "chlorophyll"
+        ]
+      },
+      "charmander": {
+        "abilities": [
+          "blaze",
+          "solar-power",
+          "solar-power"
+        ]
+      },
+      "charmeleon": {
+        "abilities": [
+          "blaze",
+          "solar-power",
+          "solar-power"
+        ]
+      },
+      "charizard": {
+        "abilities": [
+          "blaze",
+          "solar-power",
+          "drought"
+        ]
+      },
+      "squirtle": {
+        "abilities": [
+          "torrent",
+          "rain-dish",
+          "shell-armor"
+        ]
+      },
+      "wartortle": {
+        "abilities": [
+          "torrent",
+          "rain-dish",
+          "shell-armor"
+        ]
+      },
+      "blastoise": {
+        "abilities": [
+          "torrent",
+          "rain-dish",
+          "shell-armor"
+        ]
+      },
+      "caterpie": {
+        "abilities": [
+          "shield-dust",
+          "shield-dust",
+          "run-away"
+        ]
+      },
+      "metapod": {
+        "abilities": [
+          "shed-skin",
+          "shed-skin",
+          "shed-skin"
+        ]
+      },
+      "weedle": {
+        "abilities": [
+          "shield-dust",
+          "shield-dust",
+          "run-away"
+        ]
+      },
+      "kakuna": {
+        "abilities": [
+          "shed-skin",
+          "shield-dust",
+          "shed-skin"
+        ]
+      },
+      "rattata": {
+        "abilities": [
+          "hustle",
+          "guts",
+          "hustle"
+        ]
+      },
+      "raticate": {
+        "abilities": [
+          "hustle",
+          "guts",
+          "hustle"
+        ]
+      },
+      "sandshrew": {
+        "abilities": [
+          "sand-force",
+          "sand-rush",
+          "sand-rush"
+        ]
+      },
+      "sandslash": {
+        "abilities": [
+          "sand-force",
+          "sand-rush",
+          "sand-rush"
+        ]
+      },
+      "clefairy": {
+        "abilities": [
+          "friend-guard",
+          "magic-guard",
+          "unaware"
+        ]
+      },
+      "zubat": {
+        "abilities": [
+          "inner-focus",
+          "infiltrator",
+          "shadow-tag"
+        ]
+      },
+      "golbat": {
+        "abilities": [
+          "inner-focus",
+          "infiltrator",
+          "shadow-tag"
+        ]
+      },
+      "oddish": {
+        "abilities": [
+          "chlorophyll",
+          "chlorophyll",
+          "run-away"
+        ]
+      },
+      "gloom": {
+        "abilities": [
+          "chlorophyll",
+          "stench",
+          "stench"
+        ]
+      },
+      "diglett": {
+        "abilities": [
+          "sand-force",
+          "arena-trap",
+          "sand-stream"
+        ]
+      },
+      "dugtrio": {
+        "abilities": [
+          "sand-force",
+          "arena-trap",
+          "sand-stream"
+        ]
+      },
+      "meowth": {
+        "abilities": [
+          "run-away",
+          "technician",
+          "unnerve"
+        ]
+      },
+      "bellsprout": {
+        "abilities": [
+          "chlorophyll",
+          "gluttony",
+          "gluttony"
+        ]
+      },
+      "weepinbell": {
+        "abilities": [
+          "chlorophyll",
+          "gluttony",
+          "gluttony"
+        ]
+      },
+      "ponyta": {
+        "abilities": [
+          "flame-body",
+          "flame-body",
+          "flame-body"
+        ]
+      },
+      "rapidash": {
+        "abilities": [
+          "reckless",
+          "flame-body",
+          "flame-body"
+        ]
+      },
+      "shellder": {
+        "abilities": [
+          "shell-armor",
+          "overcvoat",
+          "skill-link"
+        ]
+      },
+      "cloyster": {
+        "abilities": [
+          "shell-armor",
+          "overcvoat",
+          "skill-link"
+        ]
+      },
+      "drowzee": {
+        "abilities": [
+          "insomnia",
+          "inner-focus",
+          "forewarn"
+        ]
+      },
+      "hypno": {
+        "abilities": [
+          "insomnia",
+          "inner-focus",
+          "forewarn"
+        ]
+      },
+      "voltorb": {
+        "abilities": [
+          "aftermath",
+          "static",
+          "soundproof"
+        ]
+      },
+      "electrode": {
+        "abilities": [
+          "aftermath",
+          "static",
+          "soundproof"
+        ]
+      },
+      "hitmonlee": {
+        "abilities": [
+          "unburden",
+          "reckless",
+          "unburden"
+        ]
+      },
+      "seadra": {
+        "abilities": [
+          "swift-swim",
+          "sniper",
+          "damp"
+        ]
+      },
+      "staryu": {
+        "abilities": [
+          "analytic",
+          "natural-cure",
+          "analytic"
+        ]
+      },
+      "starmie": {
+        "abilities": [
+          "analytic",
+          "natural-cure",
+          "analytic"
+        ]
+      },
+      "mime-jr.": {
+        "abilities": [
+          "technician",
+          "filter",
+          "soundproof"
+        ]
+      },
+      "mr-mime": {
+        "abilities": [
+          "vital-spirit",
+          "filter",
+          "soundproof"
+        ]
+      },
+      "elekid": {
+        "abilities": [
+          "static",
+          "static",
+          "vital-spirit"
+        ]
+      },
+      "electabuzz": {
+        "abilities": [
+          "static",
+          "static",
+          "vital-spirit"
+        ]
+      },
+      "magby": {
+        "abilities": [
+          "flame-body",
+          "flame-body",
+          "vital-spirit"
+        ]
+      },
+      "magmar": {
+        "abilities": [
+          "flame-body",
+          "flame-body",
+          "vital-spirit"
+        ]
+      },
+      "magikarp": {
+        "abilities": [
+          "swift-swim",
+          "swift-swim",
+          "rattled"
+        ]
+      },
+      "gyarados": {
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "moxie"
+        ]
+      },
+      "ditto": {
+        "abilities": [
+          "imposter",
+          "imposter",
+          "imposter"
+        ]
+      },
+      "eevee": {
+        "abilities": [
+          "adaptability",
+          "adaptability",
+          "anticipation"
+        ]
+      },
+      "jolteon": {
+        "abilities": [
+          "volt-absorb",
+          "quick-feet",
+          "quick-feet"
+        ]
+      },
+      "munchlax": {
+        "abilities": [
+          "gluttony",
+          "thick-fat",
+          "gluttony"
+        ]
+      },
+      "articuno": {
+        "abilities": [
+          "pressure",
+          "snow-cloak",
+          "snow-cloak"
+        ]
+      },
+      "zapdos": {
+        "abilities": [
+          "pressure",
+          "static",
+          "lightningrod"
+        ]
+      },
+      "moltres": {
+        "abilities": [
+          "pressure",
+          "flame-body",
+          "flame-body"
+        ]
+      },
+      "dratini": {
+        "abilities": [
+          "shed-skin",
+          "shed-skin",
+          "marvel-scale"
+        ]
+      },
+      "dragonair": {
+        "abilities": [
+          "shed-skin",
+          "shed-skin",
+          "marvel-scale"
+        ]
+      },
+      "dragonite": {
+        "abilities": [
+          "inner-focus",
+          "multiscale",
+          "multiscale"
+        ]
+      },
+      "mewtwo": {
+        "abilities": [
+          "pressure",
+          "unnerve",
+          "magic-guard"
+        ]
+      },
+      "chikorita": {
+        "abilities": [
+          "overgrow",
+          "overcoat",
+          "leaf-guard"
+        ]
+      },
+      "bayleef": {
+        "abilities": [
+          "overgrow",
+          "overcoat",
+          "leaf-guard"
+        ]
+      },
+      "totodile": {
+        "abilities": [
+          "torrent",
+          "sheer-force",
+          "sheer-force"
+        ]
+      },
+      "croconaw": {
+        "abilities": [
+          "torrent",
+          "sheer-force",
+          "sheer-force"
+        ]
+      },
+      "furret": {
+        "abilities": [
+          "adaptability",
+          "keen-eye",
+          "frisk"
+        ]
+      },
+      "togetic": {
+        "abilities": [
+          "super-luck",
+          "serene-grace",
+          "hustle"
+        ]
+      },
+      "togekiss": {
+        "abilities": [
+          "super-luck",
+          "serene-grace",
+          "hustle"
+        ]
+      },
+      "mareep": {
+        "abilities": [
+          "static",
+          "static",
+          "plus"
+        ]
+      },
+      "flaaffy": {
+        "abilities": [
+          "static",
+          "static",
+          "plus"
+        ]
+      },
+      "ampharos": {
+        "abilities": [
+          "mold-breaker",
+          "thick-fat",
+          "lightningrod"
+        ]
+      },
+      "aipom": {
+        "abilities": [
+          "technician",
+          "skill-link",
+          "skill-link"
+        ]
+      },
+      "ambipom": {
+        "abilities": [
+          "technician",
+          "skill-link",
+          "skill-link"
+        ]
+      },
+      "yanma": {
+        "abilities": [
+          "compoundeyes",
+          "compoundeyes",
+          "speed-boost"
+        ]
+      },
+      "yanmega": {
+        "abilities": [
+          "tinted-lens",
+          "tinted-lens",
+          "speed-boost"
+        ]
+      },
+      "murkrow": {
+        "abilities": [
+          "prankster",
+          "super-luck",
+          "insomnia"
+        ]
+      },
+      "wynaut": {
+        "abilities": [
+          "shadow-tag",
+          "shadow-tag",
+          "telepathy"
+        ]
+      },
+      "wobbuffet": {
+        "abilities": [
+          "shadow-tag",
+          "shadow-tag",
+          "telepathy"
+        ]
+      },
+      "heracross": {
+        "abilities": [
+          "skill-link",
+          "guts",
+          "moxie"
+        ]
+      },
+      "teddiursa": {
+        "abilities": [
+          "honey-gather",
+          "quick-feet",
+          "honey-gather"
+        ]
+      },
+      "mamoswine": {
+        "abilities": [
+          "snow-cloak",
+          "thick-fat",
+          "thick-fat"
+        ]
+      },
+      "skarmory": {
+        "abilities": [
+          "keen-eye",
+          "sturdy",
+          "lightningrod"
+        ]
+      },
+      "houndoom": {
+        "abilities": [
+          "early-bird",
+          "unnerve",
+          "solar-power"
+        ]
+      },
+      "phanpy": {
+        "abilities": [
+          "sturdy",
+          "cute-charm",
+          "sand-veil"
+        ]
+      },
+      "donphan": {
+        "abilities": [
+          "sturdy",
+          "sand-veil",
+          "sand-veil"
+        ]
+      },
+      "larvitar": {
+        "abilities": [
+          "guts",
+          "guts",
+          "sand-veil"
+        ]
+      },
+      "lugia": {
+        "abilities": [
+          "pressure",
+          "pressure",
+          "multiscale"
+        ]
+      },
+      "ho-oh": {
+        "abilities": [
+          "pressure",
+          "pressure",
+          "regenerator"
+        ]
+      },
+      "celebi": {
+        "abilities": [
+          "natural-cure",
+          "natural-cure",
+          "serene-grace"
+        ]
+      },
+      "treecko": {
+        "abilities": [
+          "overgrow",
+          "unburden",
+          "unburden"
+        ]
+      },
+      "sceptile": {
+        "abilities": [
+          "unburden",
+          "adaptability",
+          "lightningrod"
+        ]
+      },
+      "torchic": {
+        "abilities": [
+          "blaze",
+          "infiltrator",
+          "speed-boost"
+        ]
+      },
+      "combusken": {
+        "abilities": [
+          "blaze",
+          "infiltrator",
+          "speed-boost"
+        ]
+      },
+      "blaziken": {
+        "abilities": [
+          "blaze",
+          "infiltrator",
+          "speed-boost"
+        ]
+      },
+      "mudkip": {
+        "abilities": [
+          "torrent",
+          "damp",
+          "damp"
+        ]
+      },
+      "marshtomp": {
+        "abilities": [
+          "torrent",
+          "damp",
+          "damp"
+        ]
+      },
+      "swampert": {
+        "abilities": [
+          "torrent",
+          "swift-swim",
+          "damp"
+        ]
+      },
+      "poochyena": {
+        "abilities": [
+          "intimidate",
+          "quick-feet",
+          "rattled"
+        ]
+      },
+      "zigzagoon": {
+        "abilities": [
+          "quick-feet",
+          "gluttony",
+          "quick-feet"
+        ]
+      },
+      "linoone": {
+        "abilities": [
+          "quick-feet",
+          "gluttony",
+          "quick-feet"
+        ]
+      },
+      "taillow": {
+        "abilities": [
+          "guts",
+          "scrappy",
+          "scrappy"
+        ]
+      },
+      "wingull": {
+        "abilities": [
+          "keen-eye",
+          "hydration",
+          "rain-dish"
+        ]
+      },
+      "pelipper": {
+        "abilities": [
+          "keen-eye",
+          "hydration",
+          "drizzle"
+        ]
+      },
+      "ralts": {
+        "abilities": [
+          "synchronize",
+          "synchronize",
+          "trace"
+        ]
+      },
+      "kirlia": {
+        "abilities": [
+          "synchronize",
+          "synchronize",
+          "trace"
+        ]
+      },
+      "slaking": {
+        "abilities": [
+          "slow-start",
+          "slow-start",
+          "scrappy"
+        ]
+      },
+      "ninjask": {
+        "abilities": [
+          "infiltrator",
+          "infiltrator",
+          "speed-boost"
+        ]
+      },
+      "whismur": {
+        "abilities": [
+          "soundproof",
+          "scrappy",
+          "rattled"
+        ]
+      },
+      "loudred": {
+        "abilities": [
+          "soundproof",
+          "scrappy",
+          "scrappy"
+        ]
+      },
+      "meditite": {
+        "abilities": [
+          "pure-power",
+          "pure-power",
+          "telepathy"
+        ]
+      },
+      "medicham": {
+        "abilities": [
+          "pure-power",
+          "pure-power",
+          "telepathy"
+        ]
+      },
+      "electrike": {
+        "abilities": [
+          "static",
+          "static",
+          "intimidate"
+        ]
+      },
+      "manectric": {
+        "abilities": [
+          "static",
+          "static",
+          "intimidate"
+        ]
+      },
+      "carvanha": {
+        "abilities": [
+          "rough-skin",
+          "rough-skin",
+          "speed-boost"
+        ]
+      },
+      "whiscash": {
+        "abilities": [
+          "oblivious",
+          "sheer-force",
+          "hydration"
+        ]
+      },
+      "anorith": {
+        "abilities": [
+          "battle-armor",
+          "swift-swim",
+          "battle-armor"
+        ]
+      },
+      "armaldo": {
+        "abilities": [
+          "battle-armor",
+          "swift-swim",
+          "battle-armor"
+        ]
+      },
+      "feebas": {
+        "abilities": [
+          "swift-swim",
+          "oblivious",
+          "adaptability"
+        ]
+      },
+      "shuppet": {
+        "abilities": [
+          "insomnia",
+          "insomnia",
+          "cursed-body"
+        ]
+      },
+      "duskull": {
+        "abilities": [
+          "levitate",
+          "levitate"
+        ]
+      },
+      "dusclops": {
+        "abilities": [
+          "pressure",
+          "pressure"
+        ]
+      },
+      "dusknoir": {
+        "abilities": [
+          "pressure",
+          "pressure",
+          "iron-fist"
+        ]
+      },
+      "clamperl": {
+        "abilities": [
+          "shell-armor",
+          "shell-armor",
+          "rattled"
+        ]
+      },
+      "beldum": {
+        "abilities": [
+          "clear-body",
+          "clear-body",
+          "light-metal"
+        ]
+      },
+      "metang": {
+        "abilities": [
+          "clear-body",
+          "clear-body",
+          "light-metal"
+        ]
+      },
+      "metagross": {
+        "abilities": [
+          "clear-body",
+          "magnet-pull",
+          "iron-fist"
+        ]
+      },
+      "regirock": {
+        "abilities": [
+          "clear-body",
+          "clear-body",
+          "sturdy"
+        ]
+      },
+      "registeel": {
+        "abilities": [
+          "clear-body",
+          "clear-body",
+          "light-metal"
+        ]
+      },
+      "kyogre": {
+        "abilities": [
+          "swift-swim",
+          "swift-swim",
+          "drizzle"
+        ]
+      },
+      "groudon": {
+        "abilities": [
+          "solar-power",
+          "solar-power",
+          "drought"
+        ]
+      },
+      "jirachi": {
+        "abilities": [
+          "serene-grace",
+          "serene-grace",
+          "telepathy"
+        ]
+      },
+      "chimchar": {
+        "abilities": [
+          "blaze",
+          "iron-fist",
+          "iron-fist"
+        ]
+      },
+      "monferno": {
+        "abilities": [
+          "blaze",
+          "iron-fist",
+          "iron-fist"
+        ]
+      },
+      "piplup": {
+        "abilities": [
+          "torrent",
+          "defiant",
+          "clear-body"
+        ]
+      },
+      "starly": {
+        "abilities": [
+          "keen-eye",
+          "keen-eye",
+          "reckless"
+        ]
+      },
+      "kricketot": {
+        "abilities": [
+          "shed-skin",
+          "shed-skin",
+          "run-away"
+        ]
+      },
+      "shinx": {
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "guts"
+        ]
+      },
+      "luxio": {
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "guts"
+        ]
+      },
+      "shieldon": {
+        "abilities": [
+          "sturdy",
+          "sturdy",
+          "soundproof"
+        ]
+      },
+      "bastiodon": {
+        "abilities": [
+          "sturdy",
+          "sturdy",
+          "soundproof"
+        ]
+      },
+      "vespiquen": {
+        "abilities": [
+          "pressure",
+          "unnerve",
+          "unnerve"
+        ]
+      },
+      "buneary": {
+        "abilities": [
+          "cute-charm",
+          "klutz",
+          "limber"
+        ]
+      },
+      "spiritomb": {
+        "abilities": [
+          "pressure",
+          "pressure",
+          "infiltrator"
+        ]
+      },
+      "gible": {
+        "abilities": [
+          "sand-veil",
+          "rough-skin",
+          "rough-skin"
+        ]
+      },
+      "gabite": {
+        "abilities": [
+          "sand-veil",
+          "rough-skin",
+          "rough-skin"
+        ]
+      },
+      "riolu": {
+        "abilities": [
+          "prankster",
+          "inner-focus",
+          "prankster"
+        ]
+      },
+      "lucario": {
+        "abilities": [
+          "adaptability",
+          "inner-focus",
+          "justified"
+        ]
+      },
+      "hippopotas": {
+        "abilities": [
+          "sand-force",
+          "sand-force",
+          "sand-force"
+        ]
+      },
+      "hippowdon": {
+        "abilities": [
+          "sand-force",
+          "sand-force",
+          "sand-stream"
+        ]
+      },
+      "skorupi": {
+        "abilities": [
+          "battle-armor",
+          "battle-armor",
+          "sniper"
+        ]
+      },
+      "drapion": {
+        "abilities": [
+          "battle-armor",
+          "battle-armor",
+          "sniper"
+        ]
+      },
+      "snover": {
+        "abilities": [
+          "soundproof",
+          "soundproof",
+          "snow-warning"
+        ]
+      },
+      "abomasnow": {
+        "abilities": [
+          "soundproof",
+          "snow-cloak",
+          "snow-warning"
+        ]
+      },
+      "weavile": {
+        "abilities": [
+          "pressure",
+          "technician",
+          "pickpocket"
+        ]
+      },
+      "rotom-fan": {
+        "abilities": [
+          "motor-drive",
+          "motor-drive",
+          "speed-boost"
+        ]
+      },
+      "snivy": {
+        "abilities": [
+          "overgrow",
+          "contrary",
+          "contrary"
+        ]
+      },
+      "tepig": {
+        "abilities": [
+          "blaze",
+          "sheer-force",
+          "thick-fat"
+        ]
+      },
+      "emboar": {
+        "abilities": [
+          "blaze",
+          "reckless",
+          "thick-fat"
+        ]
+      },
+      "oshawott": {
+        "abilities": [
+          "torrent",
+          "shell-armor",
+          "shell-armor"
+        ]
+      },
+      "dewott": {
+        "abilities": [
+          "torrent",
+          "shell-armor",
+          "shell-armor"
+        ]
+      },
+      "samurott": {
+        "abilities": [
+          "torrent",
+          "shell-armor",
+          "shell-armor"
+        ]
+      },
+      "lillipup": {
+        "abilities": [
+          "vital-spirit",
+          "run-away",
+          "run-away"
+        ]
+      },
+      "herdier": {
+        "abilities": [
+          "intimidate",
+          "trace",
+          "scrappy"
+        ]
+      },
+      "pansage": {
+        "abilities": [
+          "gluttony",
+          "overgrow",
+          "sap-sipper"
+        ]
+      },
+      "simisage": {
+        "abilities": [
+          "gluttony",
+          "overgrow",
+          "sap-sipper"
+        ]
+      },
+      "munna": {
+        "abilities": [
+          "synchronize",
+          "synchronize",
+          "telepathy"
+        ]
+      },
+      "musharna": {
+        "abilities": [
+          "synchronize",
+          "synchronize",
+          "telepathy"
+        ]
+      },
+      "tranquill": {
+        "abilities": [
+          "super-luck",
+          "super-luck",
+          "rivalry"
+        ]
+      },
+      "blitzle": {
+        "abilities": [
+          "heatproof",
+          "motor-drive",
+          "lightningrod"
+        ]
+      },
+      "zebstrika": {
+        "abilities": [
+          "heatproof",
+          "motor-drive",
+          "lightningrod"
+        ]
+      },
+      "roggenrola": {
+        "abilities": [
+          "sturdy",
+          "weak-armor",
+          "sand-force"
+        ]
+      },
+      "boldore": {
+        "abilities": [
+          "sturdy",
+          "weak-armor",
+          "sand-force"
+        ]
+      },
+      "timburr": {
+        "abilities": [
+          "guts",
+          "iron-fist",
+          "sheer-force"
+        ]
+      },
+      "gurdurr": {
+        "abilities": [
+          "guts",
+          "iron-fist",
+          "sheer-force"
+        ]
+      },
+      "conkeldurr": {
+        "abilities": [
+          "guts",
+          "iron-fist",
+          "sheer-force"
+        ]
+      },
+      "cottonee": {
+        "abilities": [
+          "prankster",
+          "chlorophyll",
+          "chlorophyll"
+        ]
+      },
+      "whimsicott": {
+        "abilities": [
+          "prankster",
+          "chlorophyll",
+          "chlorophyll"
+        ]
+      },
+      "petilil": {
+        "abilities": [
+          "chlorophyll",
+          "leaf-guard",
+          "own-tempo"
+        ]
+      },
+      "lilligant": {
+        "abilities": [
+          "chlorophyll",
+          "leaf-guard",
+          "own-tempo"
+        ]
+      },
+      "sandile": {
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "moxie"
+        ]
+      },
+      "krokorok": {
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "moxie"
+        ]
+      },
+      "darumaka": {
+        "abilities": [
+          "hustle",
+          "inner-focus",
+          "inner-focus"
+        ]
+      },
+      "dwebble": {
+        "abilities": [
+          "sturdy",
+          "weak-armor",
+          "shell-armor"
+        ]
+      },
+      "zorua": {
+        "abilities": [
+          "run-away",
+          "limber",
+          "illusion"
+        ]
+      },
+      "zoroark": {
+        "abilities": [
+          "limber",
+          "limber",
+          "illusion"
+        ]
+      },
+      "cinccino": {
+        "abilities": [
+          "cute-charm",
+          "technician",
+          "skill-link"
+        ]
+      },
+      "gothorita": {
+        "abilities": [
+          "oblivious",
+          "early-bird",
+          "shadow-tag"
+        ]
+      },
+      "reuniclus": {
+        "abilities": [
+          "regenerator",
+          "magic-guard",
+          "overcoat"
+        ]
+      },
+      "deerling": {
+        "abilities": [
+          "chlorophyll",
+          "serene-grace",
+          "sap-sipper"
+        ]
+      },
+      "sawsbuck": {
+        "abilities": [
+          "chlorophyll",
+          "serene-grace",
+          "sap-sipper"
+        ]
+      },
+      "escavalier": {
+        "abilities": [
+          "swarm",
+          "overcoat",
+          "shell-armor"
+        ]
+      },
+      "foongus": {
+        "abilities": [
+          "effect-spore",
+          "effect-spore",
+          "regenerator"
+        ]
+      },
+      "amoonguss": {
+        "abilities": [
+          "effect-spore",
+          "regenerator",
+          "regenerator"
+        ]
+      },
+      "klang": {
+        "abilities": [
+          "levitate",
+          "levitate",
+          "clear-body"
+        ]
+      },
+      "klinklang": {
+        "abilities": [
+          "levitate",
+          "levitate",
+          "clear-body"
+        ]
+      },
+      "axew": {
+        "abilities": [
+          "mold-breaker",
+          "mold-breaker",
+          "unnerve"
+        ]
+      },
+      "fraxure": {
+        "abilities": [
+          "mold-breaker",
+          "mold-breaker",
+          "unnerve"
+        ]
+      },
+      "cubchoo": {
+        "abilities": [
+          "snow-cloak",
+          "rattled",
+          "rattled"
+        ]
+      },
+      "shelmet": {
+        "abilities": [
+          "hydration",
+          "overcoat",
+          "shell-armor"
+        ]
+      },
+      "accelgor": {
+        "abilities": [
+          "hydration",
+          "sticky-hold",
+          "unburden"
+        ]
+      },
+      "pawniard": {
+        "abilities": [
+          "pressure",
+          "inner-focus",
+          "defiant"
+        ]
+      },
+      "bisharp": {
+        "abilities": [
+          "pressure",
+          "inner-focus",
+          "defiant"
+        ]
+      },
+      "braviary": {
+        "abilities": [
+          "defiant",
+          "sheer-force",
+          "tinted-lens"
+        ]
+      },
+      "larvesta": {
+        "abilities": [
+          "flame-body",
+          "swarm",
+          "swarm"
+        ]
+      },
+      "volcarona": {
+        "abilities": [
+          "flame-body",
+          "swarm",
+          "swarm"
+        ]
+      },
+      "cobalion": {
+        "abilities": [
+          "catch-rate-120-->-5"
+        ]
+      },
+      "terrakion": {
+        "abilities": [
+          "catch-rate-120-->-5"
+        ]
+      },
+      "virizion": {
+        "abilities": [
+          "catch-rate-120-->-5"
+        ]
+      },
+      "tornadus": {
+        "abilities": [
+          "prankster",
+          "defiant",
+          "sheer-force"
+        ]
+      },
+      "thundurus": {
+        "abilities": [
+          "prankster",
+          "defiant",
+          "sheer-force"
+        ]
+      },
+      "landorus": {
+        "abilities": [
+          "sand-force",
+          "sheer-force",
+          "sheer-force"
+        ]
+      },
+      "landorus-therian": {
+        "abilities": [
+          "intimidate",
+          "intimidate",
+          "sheer-force"
+        ]
+      },
+      "kyurem": {
+        "abilities": [
+          "turboblaze"
+        ]
+      }
+    },
+    "move": {
+      "accelerock": {
+        "name": "Accelerock",
+        "type": "rock",
+        "power": "40"
+      },
+      "boomburst": {
+        "name": "Boomburst",
+        "type": "normal",
+        "power": "140"
+      },
+      "breakingswipe": {
+        "name": "Breaking Swipe",
+        "type": "dragon",
+        "power": "60"
+      },
+      "brutalswing": {
+        "name": "Brutal Swing",
+        "type": "dark",
+        "power": "60"
+      },
+      "dazzlinggleam": {
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "power": "80"
+      },
+      "disarmingvoice": {
+        "name": "Disarming Voice",
+        "type": "fairy",
+        "power": "40"
+      },
+      "drainingkiss": {
+        "name": "Draining Kiss",
+        "type": "fairy",
+        "power": "50"
+      },
+      "dualwingbeat": {
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "power": "40"
+      },
+      "esperwing": {
+        "name": "Esper Wing",
+        "type": "psychic",
+        "power": "80"
+      },
+      "firelash": {
+        "name": "Fire Lash",
+        "type": "fire",
+        "power": "80"
+      },
+      "infestation": {
+        "name": "Infestation",
+        "type": "bug",
+        "power": "20"
+      },
+      "headlongrush": {
+        "name": "Headlong Rush",
+        "type": "ground",
+        "power": "120"
+      },
+      "highhorsepower": {
+        "name": "High Horsepower",
+        "type": "ground",
+        "power": "95"
+      },
+      "lunge": {
+        "name": "Lunge",
+        "type": "bug",
+        "power": "80"
+      },
+      "moonblast": {
+        "name": "Moonblast",
+        "type": "fairy",
+        "power": "95"
+      },
+      "mysticalfire": {
+        "name": "Mystical Fire",
+        "type": "fire",
+        "power": "75"
+      },
+      "nuzzle": {
+        "name": "Nuzzle",
+        "type": "electric",
+        "power": "20"
+      },
+      "playrough": {
+        "name": "Play Rough",
+        "type": "fairy",
+        "power": "90"
+      },
+      "power-uppunch": {
+        "name": "Power-Up Punch",
+        "type": "fighting",
+        "power": "40"
+      },
+      "psychicfangs": {
+        "name": "Psychic Fangs",
+        "type": "psychic",
+        "power": "85"
+      },
+      "psyshieldbash": {
+        "name": "Psyshield Bash",
+        "type": "psychic",
+        "power": "70"
+      },
+      "ragingfury": {
+        "name": "Raging Fury",
+        "type": "fire",
+        "power": "120"
+      },
+      "scorchingsands": {
+        "name": "Scorching Sands",
+        "type": "ground",
+        "power": "70"
+      },
+      "smartstrike": {
+        "name": "Smart Strike",
+        "type": "steel",
+        "power": "70"
+      },
+      "tripleaxel": {
+        "name": "Triple Axel",
+        "type": "ice",
+        "power": "20"
+      },
+      "spiritbreak": {
+        "name": "Spirit Break",
+        "type": "fairy",
+        "power": "75"
+      },
+      "mountaingale": {
+        "name": "Mountain Gale",
+        "type": "ice",
+        "power": "100"
+      },
+      "paraboliccharge": {
+        "name": "Parabolic Charge",
+        "type": "electric",
+        "power": "65"
+      },
+      "sandsearstorm": {
+        "name": "Sandsear Storm",
+        "type": "ground",
+        "power": "100"
+      },
+      "bleakwindstorm": {
+        "name": "Bleakwind Storm",
+        "type": "flying",
+        "power": "100"
+      },
+      "wildboltstorm": {
+        "name": "Wildbolt Storm",
+        "type": "electric",
+        "power": "100"
+      }
+    }
   }
 }

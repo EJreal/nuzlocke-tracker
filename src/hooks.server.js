@@ -1,0 +1,1 @@
+export async function handleError({ error, event }) { console.log('SSR ERROR CAUGHT:', error); }

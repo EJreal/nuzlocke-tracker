@@ -11,6 +11,7 @@
   afterUpdate(async () => {
     deferStyles('/assets/pokemon.css')
     deferStyles('/assets/badges.css')
+    deferStyles('/assets/items.css')
     window.onunhandledrejection = createErrorModal
   })
 

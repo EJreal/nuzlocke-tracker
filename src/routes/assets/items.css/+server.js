@@ -12,14 +12,13 @@ const extract = (id, str) => {
 
 export async function GET({ url }) {
   if (!url.searchParams.get('i'))
-    return {
+    return new Response(items, {
       status: 200,
-      body: items,
       headers: {
         'Cache-Control': 'public, max-age=31536000',
         'Content-Type': 'text/css'
       }
-    };
+    });
 
   const ilist = url.searchParams.get('i').split(',');
   const criticalCss = ilist.reduce((acc, it) => acc + extract(it, items), '');

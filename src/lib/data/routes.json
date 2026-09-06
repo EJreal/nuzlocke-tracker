@@ -95832,5 +95832,3906 @@
         "mewtwo"
       ]
     }
+  ],
+  "pitchblack2": [
+    {
+      "type": "route",
+      "name": "Starter",
+      "encounters": [
+        "snivy",
+        "tepig",
+        "oshawott"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Aspertia City (Gift)",
+      "encounters": [
+        "treecko",
+        "torchic",
+        "mudkip"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Aspertia Gate (Egg)",
+      "encounters": [
+        "tyrogue",
+        "timburr",
+        "mime jr",
+        "smoochum"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Aspertia City",
+      "encounters": [
+        "goldeen",
+        "seaking",
+        "basculin"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Aspertia City",
+      "value": "pb2-10",
+      "boss": "Gym Leader Falkner Reward: Shell Bell",
+      "group": "mini-boss"
+    },
+    {
+      "type": "gym",
+      "name": "Aspertia City Gym",
+      "value": "pb2-11",
+      "boss": "Youngster Pedro",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Aspertia City Gym",
+      "value": "pb2-12",
+      "boss": "Lass Serena",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Aspertia City Gym",
+      "value": "pb2-13",
+      "boss": "Gym Leader Cheren (Singles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Aspertia City Gym",
+      "value": "pb2-14",
+      "boss": "Gym Leader Cheren (Doubles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "route",
+      "name": "Route 19",
+      "encounters": [
+        "sunkern",
+        "oddish",
+        "bidoof",
+        "audino",
+        "seedot",
+        "shroomish",
+        "lillipup",
+        "zigzagoon",
+        "hoppip",
+        "patrat",
+        "sentret",
+        "deerling",
+        "rattata",
+        "bellsprout",
+        "marill",
+        "surskit",
+        "basculin",
+        "azumarill",
+        "staryu"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Floccesy Town",
+      "encounters": [
+        "pidgey",
+        "wingull",
+        "pidove",
+        "ducklett",
+        "taillow",
+        "starly",
+        "spearow",
+        "hoothoot",
+        "murkrow",
+        "natu",
+        "chatot",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Floccesy Town",
+      "value": "pb2-8",
+      "boss": "School Kid Seymour",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Floccesy Town",
+      "value": "pb2-9",
+      "boss": "School Kid Cassie (B2B! - NO HEALING!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 20",
+      "encounters": [
+        "doubles",
+        "purrloin",
+        "ralts",
+        "poochyena",
+        "azurill",
+        "cubone",
+        "ponyta",
+        "caterpie",
+        "wurmple",
+        "bonsly",
+        "spinarak",
+        "surskit",
+        "audino",
+        "staryu",
+        "marill",
+        "slowpoke",
+        "dratini",
+        "dragonair",
+        "goldeen"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-1",
+      "boss": "Youngster Terrell",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-2",
+      "boss": "Youngster Petey",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-3",
+      "boss": "Lass Isabel",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-4",
+      "boss": "Pokémon Ranger Naoko Reward: Chople Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-15",
+      "boss": "Hiker Jerome",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-16",
+      "boss": "Preschooler Albert",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-17",
+      "boss": "Preschooler Lin",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-18",
+      "boss": "Twins Lia & Lily",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-19",
+      "boss": "Nursery Aide Kimya",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 20",
+      "value": "pb2-32",
+      "boss": "Team Plasma Grunt #763 (Double Battle!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "route",
+      "name": "Floccesy Ranch",
+      "encounters": [
+        "sewaddle",
+        "kricketot",
+        "mareep",
+        "pachirisu",
+        "plusle",
+        "minun",
+        "electrike",
+        "magnemite",
+        "joltik",
+        "shinx",
+        "tynamo",
+        "audino",
+        "magikarp",
+        "poliwag",
+        "goldeen",
+        "basculin"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Floccesy Ranch",
+      "value": "pb2-5",
+      "boss": "Lass Molly",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Floccesy Ranch",
+      "value": "pb2-6",
+      "boss": "Janitor Orville",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Floccesy Ranch",
+      "value": "pb2-7",
+      "boss": "Youngster Kenny",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Pledge Grove",
+      "encounters": [
+        "igglybuff",
+        "skitty",
+        "togepi",
+        "petilil",
+        "cleffa",
+        "cottonee",
+        "lotad",
+        "poliwag",
+        "pichu",
+        "minccino",
+        "exeggcute",
+        "azurill",
+        "budew",
+        "audino"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Virbank City",
+      "encounters": [
+        "frillish",
+        "alomomola",
+        "chinchou",
+        "horsea",
+        "basculin",
+        "tentacool",
+        "tentacruel",
+        "krabby",
+        "jellicent",
+        "staryu",
+        "finneon"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City",
+      "value": "pb2-25",
+      "boss": "Worker Nathan (North West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City",
+      "value": "pb2-31",
+      "boss": "Team Plasma Grunt #690",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City",
+      "value": "pb2-26",
+      "boss": "Gym Leader Brawly",
+      "group": "mini-boss"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City Gym",
+      "value": "pb2-27",
+      "boss": "Roughneck Nicky",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City Gym",
+      "value": "pb2-28",
+      "boss": "Guitarist Billy Jo",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City Gym",
+      "value": "pb2-29",
+      "boss": "Gym Leader Roxie (Singles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City Gym",
+      "value": "pb2-30",
+      "boss": "Gym Leader Roxie (Doubles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank City",
+      "value": "pb2-35",
+      "boss": "↕️ Rival MiMsu (Fights with you!) ↕️",
+      "group": "rival"
+    },
+    {
+      "type": "route",
+      "name": "Virbank Gate (Egg)",
+      "encounters": [
+        "numel",
+        "slugma",
+        "houndour",
+        "growlithe"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Virbank Complex",
+      "encounters": [
+        "doubles",
+        "drowzee",
+        "munna",
+        "voltorb",
+        "snubbull",
+        "mankey",
+        "emolga",
+        "solosis",
+        "gothita",
+        "croagunk",
+        "natu",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Virbank Complex",
+      "value": "pb2-20",
+      "boss": "Youngster Masahiro",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank Complex",
+      "value": "pb2-21",
+      "boss": "Lass Daya",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank Complex",
+      "value": "pb2-22",
+      "boss": "Youngster Normie Guards: Heart Scale x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank Complex",
+      "value": "pb2-23",
+      "boss": "Worker Mitchell (North East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Virbank Complex",
+      "value": "pb2-24",
+      "boss": "Worker Isaac (South East!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Castelia City",
+      "encounters": [
+        "doubles",
+        "dustox",
+        "beautifly",
+        "budew",
+        "beedrill",
+        "paras",
+        "yanma",
+        "volbeat",
+        "illumise",
+        "karrablast",
+        "shelmet",
+        "eevee",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-43",
+      "boss": "Clerk ♂ Gilligan (47F | North West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-44",
+      "boss": "Clerk ♀ Britney (47F) Guards: Heart Scale x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-45",
+      "boss": "Clerk ♂ Clemens (Uses Lv. Up Moveset!) (47F | North East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-46",
+      "boss": "Clerk ♂ Warren (Uses Lv. Up Moveset!) (47F | South East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-47",
+      "boss": "School Kid Neil (Uses Lv. Up Moveset!) (55F)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-48",
+      "boss": "GAME FREAK Morimoto (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-49",
+      "boss": "GAME FREAK Nishino (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City Gym",
+      "value": "pb2-55",
+      "boss": "Harlequin Clarence",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City Gym",
+      "value": "pb2-56",
+      "boss": "Harlequin Jack",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City Gym",
+      "value": "pb2-57",
+      "boss": "Harlequin Gary",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City Gym",
+      "value": "pb2-58",
+      "boss": "Harlequin Anders",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City Gym",
+      "value": "pb2-59",
+      "boss": "Gym Leader Burgh (Singles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City Gym",
+      "value": "pb2-60",
+      "boss": "Gym Leader Burgh (Doubles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia City",
+      "value": "pb2-54",
+      "boss": "Gym Leader Misty",
+      "group": "mini-boss"
+    },
+    {
+      "type": "route",
+      "name": "Liberty Garden (Gift)",
+      "encounters": [
+        "suicune",
+        "entei",
+        "raikou"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Castelia Sewers",
+      "encounters": [
+        "grimer",
+        "slowpoke",
+        "zubat",
+        "koffing",
+        "gulpin",
+        "trubbish",
+        "gastly",
+        "rattata",
+        "spinarak",
+        "stunfisk",
+        "palpitoad",
+        "goldeen",
+        "seismitoad",
+        "muk"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Castelia Sewers",
+      "value": "pb2-33",
+      "boss": "Janitor Felix",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia Sewers",
+      "value": "pb2-34",
+      "boss": "Team Plasma Grunt #342 & #356 (Tag Battle!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia Sewers",
+      "value": "pb2-299",
+      "boss": "↕️ Rival MiMsu (Fights with you!) ↕️",
+      "group": "rival"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia Sewers",
+      "value": "pb2-36",
+      "boss": "Worker Zack",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia Sewers",
+      "value": "pb2-37",
+      "boss": "Doctor Heath (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Castelia Sewers",
+      "value": "pb2-38",
+      "boss": "Worker Scott (Uses Lv. Up Moveset!) (Normal access Autumn & Winter! | Requires Surf Spring & Summer!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Relic Passage",
+      "encounters": [
+        "phanpy",
+        "diglett",
+        "geodude",
+        "dwebble",
+        "onix",
+        "rhyhorn",
+        "roggenrola",
+        "nosepass",
+        "sandile",
+        "aron",
+        "audino",
+        "shellos",
+        "barboach",
+        "basculin",
+        "gastrodon",
+        "whiscash"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-39",
+      "boss": "Scientist Caroline (Uses Lv. Up Moveset!) (Autumn & Winter only!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-40",
+      "boss": "Scientist Terrance (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-41",
+      "boss": "Scientist Lumina Guards: TM40: Aerial Ace",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-42",
+      "boss": "Backpacker Kendall Guards: Sitrus Berry x5",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-132",
+      "boss": "Backpacker Eileen (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-133",
+      "boss": "Backpacker Randall (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-134",
+      "boss": "Hiker Keith (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-135",
+      "boss": "Hiker Tobias (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-136",
+      "boss": "Psychic Tully (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-137",
+      "boss": "Psychic Ena (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Passage",
+      "value": "pb2-138",
+      "boss": "Backpacker Annie (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 4",
+      "encounters": [
+        "dwebble",
+        "sandshrew",
+        "teddiursa",
+        "hippopotas",
+        "cacnea",
+        "gligar",
+        "drilbur",
+        "sandile",
+        "darumaka",
+        "trapinch",
+        "tentacool",
+        "tentacruel",
+        "wooper",
+        "relicanth",
+        "shellos",
+        "luvdisc",
+        "marill",
+        "clamperl"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-50",
+      "boss": "Pokémon Breeder Irene (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-51",
+      "boss": "Policeman Braven",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-52",
+      "boss": "Fisherman Andrew",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-53",
+      "boss": "Fisherman Hubert",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-62",
+      "boss": "Hooligans Rob & Sal",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-63",
+      "boss": "Roughneck Joey",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-64",
+      "boss": "Roughneck Silvester",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-65",
+      "boss": "Policeman Dell",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 4",
+      "value": "pb2-61",
+      "boss": "PKMN Trainer Colress Reward: Shed Shell, Wide Lens",
+      "group": "evil-team"
+    },
+    {
+      "type": "route",
+      "name": "Route 4 (Trade)",
+      "encounters": [
+        "vulpix"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-66",
+      "boss": "Policeman Neagle",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-67",
+      "boss": "Youngster Sinclair",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-68",
+      "boss": "Biker Stanley",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-69",
+      "boss": "Backpacker Tami",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-70",
+      "boss": "Pokémon Ranger Jaden Reward: Occa Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-71",
+      "boss": "Nurse Mariah",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-72",
+      "boss": "Pokémon Ranger Anja (North!) Reward: Coba Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-73",
+      "boss": "Psychic Tommy (Entrance to Relic Castle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-74",
+      "boss": "Backpacker Sam (North!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-75",
+      "boss": "Backpacker Walt",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-76",
+      "boss": "Psychic Future (North West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Desert Resort",
+      "value": "pb2-77",
+      "boss": "Backpacker Clara (North West!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Desert Resort (Outside)",
+      "encounters": [
+        "scraggy",
+        "maractus",
+        "vullaby",
+        "rufflet",
+        "sandile",
+        "sandshrew",
+        "mawile",
+        "gligar",
+        "skarmory",
+        "drilbur",
+        "darumaka",
+        "trapinch"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Desert Resort (Inside)",
+      "encounters": [
+        "sigilyph",
+        "maractus",
+        "scraggy",
+        "vullaby",
+        "rufflet",
+        "sandile",
+        "skorupi",
+        "gligar",
+        "skarmory",
+        "drilbur",
+        "darumaka",
+        "trapinch"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Relic Castle",
+      "encounters": [
+        "bronzor",
+        "woobat",
+        "elgyem",
+        "shuppet",
+        "yamask",
+        "duskull",
+        "chingling",
+        "larvitar",
+        "golett",
+        "drifloon",
+        "litwick"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-78",
+      "boss": "Psychic Perry (1F)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-79",
+      "boss": "Psychic Dua (B1F)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-80",
+      "boss": "Psychic Low (B1F)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-81",
+      "boss": "Artist Horton (Above!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-85",
+      "boss": "Backers Stu & Art Guards: Heart Scale x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-86",
+      "boss": "Cyclist Krissa",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Relic Castle",
+      "value": "pb2-87",
+      "boss": "Backpacker Blossom",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Anville Town (Gift)",
+      "encounters": [
+        "rotom"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 16",
+      "encounters": [
+        "doubles",
+        "stunky",
+        "pineco",
+        "blitzle",
+        "venonant",
+        "lickitung",
+        "arbok",
+        "nidorina",
+        "nidorino",
+        "volbeat",
+        "skorupi",
+        "illumise",
+        "venonat",
+        "pinsir",
+        "heracros",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 16",
+      "value": "pb2-82",
+      "boss": "Depot Agent Hank",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 16",
+      "value": "pb2-83",
+      "boss": "Cyclist Hector",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 16",
+      "value": "pb2-84",
+      "boss": "Backpacker Ivan",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City",
+      "value": "pb2-92",
+      "boss": "↕️ PKMN Trainer Nate/Rosa  (Fights with you!) ↕️",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City",
+      "value": "pb2-93",
+      "boss": "Rich Boy Rolan",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City",
+      "value": "pb2-94",
+      "boss": "Lady Colette",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City Gym",
+      "value": "pb2-96",
+      "boss": "Beauty Nikola",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City Gym",
+      "value": "pb2-97",
+      "boss": "Beauty Fleming",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City Gym",
+      "value": "pb2-98",
+      "boss": "Beauty Ampère",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City Gym",
+      "value": "pb2-99",
+      "boss": "Gym Leader Elesa (Singles Team!) Reward: Razor Claw, TM93: Wild Charge",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City Gym",
+      "value": "pb2-100",
+      "boss": "Gym Leader Elesa (Doubles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City",
+      "value": "pb2-101",
+      "boss": "Team Plasma Grunt #359",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City",
+      "value": "pb2-102",
+      "boss": "Team Plasma Grunt #751 (B2B!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Nimbasa City",
+      "value": "pb2-95",
+      "boss": "Gym Leader Fantina Reward: Heart Scale, TM03: Psyshock",
+      "group": "mini-boss"
+    },
+    {
+      "type": "route",
+      "name": "Lostlorn Forest",
+      "encounters": [
+        "doubles",
+        "combee",
+        "carnivine",
+        "gloom",
+        "roselia",
+        "slakoth",
+        "miltank",
+        "sawk",
+        "throh",
+        "heracross",
+        "pinsir",
+        "riolu",
+        "larvesta",
+        "misdreavus",
+        "pawniard",
+        "absol",
+        "audino",
+        "buizel",
+        "psyduck",
+        "goldeen",
+        "basculin",
+        "shellder",
+        "lombre",
+        "floatzel"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Lostlorn Forest",
+      "value": "pb2-88",
+      "boss": "Pokémon Breeder Galen",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Lostlorn Forest",
+      "value": "pb2-89",
+      "boss": "Pokémon Ranger Serenity Reward: Rindo Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Lostlorn Forest",
+      "value": "pb2-90",
+      "boss": "Pokémon Ranger Forrest Reward: Wacan Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 5",
+      "encounters": [
+        "doubles",
+        "mightyena",
+        "emolga",
+        "growlithe",
+        "houndour",
+        "girafarig",
+        "stunky",
+        "stantler",
+        "pawniard",
+        "ponyta",
+        "tauros",
+        "bouffalant",
+        "ninetales",
+        "honchkrow",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 5",
+      "value": "pb2-103",
+      "boss": "Baker Jenn",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 5",
+      "value": "pb2-104",
+      "boss": "Pokémon Ranger Lois Reward: Kasib Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 5",
+      "value": "pb2-105",
+      "boss": "Dancer Brian",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 5",
+      "value": "pb2-106",
+      "boss": "Backers Ava & Aya Guards: Heart Scale x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 5",
+      "value": "pb2-107",
+      "boss": "Motorcyclist Charles",
+      "group": "rival"
+    },
+    {
+      "type": "gym",
+      "name": "Route 5",
+      "value": "pb2-91",
+      "boss": "Subway Boss Ingo & Emmet (Tag Battle!)",
+      "group": "rival"
+    },
+    {
+      "type": "route",
+      "name": "Driftveil Drawbridge",
+      "encounters": [
+        "spot",
+        "ducklett",
+        "togetic",
+        "pidgeotto",
+        "fearow",
+        "tranquill",
+        "swellow",
+        "staravia",
+        "tropius",
+        "drifloon",
+        "swablu",
+        "skiploom",
+        "delibird"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Driftveil City",
+      "encounters": [
+        "zorua"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-117",
+      "boss": "Worker Noel (Entrance!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-118",
+      "boss": "Worker Tavarius (South!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-119",
+      "boss": "Worker Niel (Above Tavarius!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-120",
+      "boss": "Worker Pasqual (Mid West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-121",
+      "boss": "Worker Tibor (Mid East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-122",
+      "boss": "Worker Maynard (North!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-123",
+      "boss": "Worker Friedrich (North East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-124",
+      "boss": "Gym Leader Clay (Singles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City Gym",
+      "value": "pb2-125",
+      "boss": "Gym Leader Clay (Doubles Team!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-126",
+      "boss": "Team Plasma Grunt #372",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-127",
+      "boss": "Team Plasma Grunt #373 (B2B!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-128",
+      "boss": "Team Plasma Grunt #374 & #375 (Tag Battle!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-129",
+      "boss": "↕️ Gym Leader Cheren (Fights with you!) ↕️",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-297",
+      "boss": "Team Plasma Grunt #500",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-298",
+      "boss": "Team Plasma Grunt #798 & #799",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-300",
+      "boss": "Team Plasma Grunt #800 [B1F]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-301",
+      "boss": "Team Plasma Grunt #801 [B1F]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-302",
+      "boss": "Team Plasma Grunt #436 (Uses Lv. Up Moveset!) (B1F - Southwest room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-303",
+      "boss": "Team Plasma Grunt #343 (Uses Lv. Up Moveset!) (B1F - Southwest room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-304",
+      "boss": "Team Plasma Grunt #427 (Uses Lv. Up Moveset!) (B1F - Northwest room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-305",
+      "boss": "Team Plasma Grunt #426 (Uses Lv. Up Moveset!) (B1F - Northwest room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-306",
+      "boss": "Team Plasma Grunt #428 (Uses Lv. Up Moveset!) (B1F - East room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-307",
+      "boss": "Team Plasma Grunt #429 (Uses Lv. Up Moveset!) (B1F - East room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-308",
+      "boss": "Team Plasma Grunt #437 (Uses Lv. Up Moveset!) (B1F - Southeast room)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-108",
+      "boss": "Motorcyclist Charles (Uses Lv. Up Moveset!) (Triple Battle!)",
+      "group": "rival"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-109",
+      "boss": "Pokémon Trainer Rood (Double Battle!)",
+      "group": "rival"
+    },
+    {
+      "type": "gym",
+      "name": "Driftveil City",
+      "value": "pb2-131",
+      "boss": "↕️ Rival MiMsu (Fights with you!) ↕️",
+      "group": "rival"
+    },
+    {
+      "type": "route",
+      "name": "Driftveil Gym (Gift)",
+      "encounters": [
+        "axew"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 6",
+      "encounters": [
+        "doubles",
+        "surskit",
+        "lombre",
+        "castform",
+        "slowpoke",
+        "marill",
+        "yanma",
+        "foongus",
+        "shelmet",
+        "karrablast",
+        "scyther",
+        "audino",
+        "basculin",
+        "tentacool",
+        "spheal",
+        "chinchou",
+        "seel",
+        "barboach"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-110",
+      "boss": "Parasol Lady Nicole",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-111",
+      "boss": "Pokémon Breeder April",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-112",
+      "boss": "School Kid Mara",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-113",
+      "boss": "Scientist Jacques & Scientist Marissa",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-114",
+      "boss": "School Kid Alvin",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-115",
+      "boss": "Parasol Lady Tihana",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-116",
+      "boss": "Pokémon Ranger Richard Reward: Leppa Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-139",
+      "boss": "School Kid Mara",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-140",
+      "boss": "Scientist Jacques & Scientist Marissa",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-141",
+      "boss": "School Kid Alvin",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-142",
+      "boss": "Parasol Lady Tihana",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 6",
+      "value": "pb2-143",
+      "boss": "Pokémon Ranger Richard Reward: Leppa Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Mistralton Cave",
+      "encounters": [
+        "boldore",
+        "diglett",
+        "loudred",
+        "nosepass",
+        "drilbur",
+        "bronzor",
+        "shieldon",
+        "baltoy",
+        "klink",
+        "druddigon",
+        "bagon",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton Cave",
+      "value": "pb2-130",
+      "boss": "Team Plasma Grunt #376 & #377 (Tag Battle!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton Cave",
+      "value": "pb2-144",
+      "boss": "Hiker Shelby",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton Cave",
+      "value": "pb2-145",
+      "boss": "Hiker Jebediah",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton Cave",
+      "value": "pb2-146",
+      "boss": "Ace Trainer Geoff [2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton Cave",
+      "value": "pb2-147",
+      "boss": "Ace Trainer Belle [2F]",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Mistralton City (Gift)",
+      "encounters": [
+        "anorith"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Chargestone Cave",
+      "encounters": [
+        "magnemite",
+        "diglett",
+        "voltorb",
+        "joltik",
+        "ferroseed",
+        "klink",
+        "pachirisu",
+        "durant",
+        "tynamo",
+        "deino",
+        "gible",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-148",
+      "boss": "Guitarist Anna",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-149",
+      "boss": "Scientist Ronald",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-150",
+      "boss": "Pokémon Ranger Louis Reward: Chesto Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-151",
+      "boss": "Ace Trainer Corky (Triple Battle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-152",
+      "boss": "Pokémon Ranger Briana [B1F] Reward: Chesto Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-153",
+      "boss": "Doctor Kit [B1F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-154",
+      "boss": "Scientist Lumi [B1F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-155",
+      "boss": "Guitarist Beverly [B2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-156",
+      "boss": "Hiker Jeremy [B2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-157",
+      "boss": "Ace Trainer Shaye [B2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-158",
+      "boss": "Ace Trainer Mary",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-159",
+      "boss": "Hiker Otto",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Chargestone Cave",
+      "value": "pb2-160",
+      "boss": "Ace Trainer Vicki",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 7",
+      "encounters": [
+        "doubles",
+        "absol",
+        "zangoose",
+        "raticate",
+        "zebstrika",
+        "buneary",
+        "aipom",
+        "yanmega",
+        "kecleon",
+        "watchog",
+        "spinda",
+        "seviper",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-161",
+      "boss": "Pokémon Breeder Marcus (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-162",
+      "boss": "Youngster Cody",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-163",
+      "boss": "Lass Flo (Triple Battle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-164",
+      "boss": "Preschooler Greg",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-165",
+      "boss": "Preschooler Chrissy (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-166",
+      "boss": "Nursery Aide Hollie",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-167",
+      "boss": "Twins Sola & Ana",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 7",
+      "value": "pb2-168",
+      "boss": "Harlequin Ian & Pat",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Celestial Tower",
+      "encounters": [
+        "litwick",
+        "haunter",
+        "kadabra",
+        "kirlia",
+        "drifloon",
+        "absol",
+        "vulpix",
+        "misdreavus",
+        "sneasel",
+        "shuppet",
+        "duskull",
+        "sableye"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-169",
+      "boss": "Psychic Joyce [2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-170",
+      "boss": "School Kid Alberta [2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-171",
+      "boss": "Pokéfan Jude [2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-172",
+      "boss": "Psychic Bryce [3F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-173",
+      "boss": "Pokéfan Georgia [3F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-174",
+      "boss": "Psychic Micki [3F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-175",
+      "boss": "Nurse Dixie [3F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-176",
+      "boss": "Socialite Grace [4F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-177",
+      "boss": "Gentleman Daniel [4F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Celestial Tower",
+      "value": "pb2-178",
+      "boss": "Psychic Sarah [4F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-180",
+      "boss": "Pilot Flynn (East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-181",
+      "boss": "Pilot Winslow (South West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-182",
+      "boss": "Pilot Elron (West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-183",
+      "boss": "Pilot Ewing (Mid!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-184",
+      "boss": "Pilot Chase (North East!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-185",
+      "boss": "Gym Leader Skyla (Singles Team! - Permanent Rain!) Reward: Zoom Lens, TM62: Acrobatics",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City Gym",
+      "value": "pb2-186",
+      "boss": "Gym Leader Skyla (Doubles Team! - Permanent Rain!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City",
+      "value": "pb2-179",
+      "boss": "Gym Leader Flannery (Double Battle! | CAN'T BE CHALLENGED AFTER 6TH BADGE!)",
+      "group": "mini-boss"
+    },
+    {
+      "type": "gym",
+      "name": "Mistralton City",
+      "value": "pb2-187",
+      "boss": "Gym Leader Chuck (Double Battle!) Reward: Heart Scale, TM47: Low Sweep",
+      "group": "mini-boss"
+    },
+    {
+      "type": "route",
+      "name": "Reversal Mountain (Outside)",
+      "encounters": [
+        "doubles",
+        "camerupt",
+        "houndoom",
+        "cacturne",
+        "torkoal",
+        "skarmory",
+        "magcargo",
+        "gligar",
+        "vibrava",
+        "gabite",
+        "pupitar",
+        "durant",
+        "skorupi",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Outside)",
+      "value": "pb2-188",
+      "boss": "Cyclist Jeremiah",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Outside)",
+      "value": "pb2-189",
+      "boss": "Cyclist Adelaide Guards: Heart Scale x2",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Reversal Mountain (Inside)",
+      "encounters": [
+        "lunatone",
+        "grumpig",
+        "solrock",
+        "meditie",
+        "quagsire",
+        "palpitoad",
+        "mienfoo",
+        "rampardos",
+        "shelgon",
+        "deino",
+        "omanyte",
+        "kabuto",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-192",
+      "boss": "Black Belt Corey",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-193",
+      "boss": "Battle Girl Chan",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-194",
+      "boss": "Hiker Jared",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-195",
+      "boss": "Backpacker Kumiko",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-196",
+      "boss": "Doctor Derek",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-197",
+      "boss": "Ace Trainer Ray & Ace Trainer Cora",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-198",
+      "boss": "Pokémon Ranger Eliza Reward: Persim Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-199",
+      "boss": "Pokémon Ranger Lewis Reward: Persim Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Reversal Mountain (Inside)",
+      "value": "pb2-200",
+      "boss": "Hiker Markus & Backpacker Kiyo",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Strange House",
+      "encounters": [
+        "haunter",
+        "elgyem",
+        "gothorita",
+        "duosion",
+        "kirlia",
+        "lampent",
+        "pawniard",
+        "hypno",
+        "musharna"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Strange House",
+      "value": "pb2-190",
+      "boss": "Backpacker Boone (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Strange House",
+      "value": "pb2-191",
+      "boss": "Psychic Lynette (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Undella Town",
+      "encounters": [
+        "frillish",
+        "swanna",
+        "kingler",
+        "tentacool",
+        "corsola",
+        "clamperl",
+        "remoraid",
+        "magikarp",
+        "dragonair"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Undella Town",
+      "value": "pb2-201",
+      "group": "rival",
+      "boss": "Rival MiMsu"
+    },
+    {
+      "type": "gym",
+      "name": "Undella Town",
+      "value": "pb2-255",
+      "boss": "PKMN Trainer Cynthia (CAN'T BE CHALLENGED AFTER 7TH BADGE!)",
+      "group": "rival"
+    },
+    {
+      "type": "route",
+      "name": "Undella Bay",
+      "encounters": [
+        "crawdaunt",
+        "mantyke",
+        "remoraid",
+        "horsea",
+        "seel",
+        "chinchou",
+        "shellder",
+        "sealeo",
+        "wailmer",
+        "magikarp"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Undella Bay",
+      "value": "pb2-204",
+      "boss": "Swimmer Matt (Uses Lv. Up Moveset!) (North West)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Undella Bay",
+      "value": "pb2-205",
+      "boss": "Swimmer Arissa (Uses Lv. Up Moveset!) (North)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Undella Bay",
+      "value": "pb2-206",
+      "boss": "Ace Trainer Summer (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Undella Bay",
+      "value": "pb2-207",
+      "boss": "Swimmer Bart (Uses Lv. Up Moveset!) (Mid West)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Undella Bay",
+      "value": "pb2-208",
+      "boss": "Swimmer Mitzi (Uses Lv. Up Moveset!) (Mid East)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Undella Bay",
+      "value": "pb2-209",
+      "boss": "Swimmer Tim (Uses Lv. Up Moveset!) (South)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 14",
+      "encounters": [
+        "doubles",
+        "golduck",
+        "tropius",
+        "gloom",
+        "clefairy",
+        "cottonee",
+        "gastrodon",
+        "breloom",
+        "masquerain",
+        "audino",
+        "feebas",
+        "buizel",
+        "slowbro",
+        "lapras",
+        "lombre",
+        "corsola",
+        "crawdaunt",
+        "lumineon"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-210",
+      "boss": "Socialite Marian",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-211",
+      "boss": "Gentleman Sheldon",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-212",
+      "boss": "Battle Girl Glinda",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-213",
+      "boss": "Ace Trainer Junko",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-214",
+      "boss": "Ace Trainer Kipp",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-215",
+      "boss": "Fisherman Sid (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-216",
+      "boss": "Backpacker Reece (Requires Surf and Waterfall!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 14",
+      "value": "pb2-217",
+      "boss": "Black Belt Jay (Requires Surf and Waterfall!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Abundant Shrine",
+      "encounters": [
+        "doubles",
+        "sneasel",
+        "scolipede",
+        "gloom",
+        "galvantula",
+        "kangaskhan",
+        "heracross",
+        "swablu",
+        "pinsir",
+        "tauros",
+        "bouffalant",
+        "weavile",
+        "pikachu",
+        "audino",
+        "seaking",
+        "sharpedo",
+        "goldeen",
+        "qwilfish",
+        "lombre",
+        "lapras",
+        "barboach",
+        "shellos",
+        "shellder"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Abundant Shrine",
+      "value": "pb2-218",
+      "boss": "Youngster Wes",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Abundant Shrine",
+      "value": "pb2-219",
+      "boss": "Twins Rae & Ula",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Abundant Shrine",
+      "value": "pb2-220",
+      "boss": "Lass Lurleen",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Abundant Shrine",
+      "value": "pb2-221",
+      "boss": "Youngster Jaye",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 13",
+      "encounters": [
+        "doubles",
+        "dodrio",
+        "hoppip",
+        "toxicroak",
+        "tangrowth",
+        "weepinbell",
+        "pelipper",
+        "snorlax",
+        "pidgeot",
+        "swellow",
+        "linoone",
+        "furret",
+        "audino",
+        "kingler",
+        "barboach",
+        "tentacool",
+        "frillish",
+        "staryu",
+        "horsea",
+        "clamperl"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-222",
+      "boss": "Black Belt Wesley",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-223",
+      "boss": "Battle Girl Alize",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-224",
+      "boss": "Ace Trainer Miguel",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-225",
+      "boss": "Parasol Lady Laura",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-226",
+      "boss": "Fisherman Leroy (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-227",
+      "boss": "Fisherman Vince (Uses Lv. Up Moveset!) (Requires Surf)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-228",
+      "boss": "Fisherman Damon (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-229",
+      "boss": "Fisherman Jones (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-230",
+      "boss": "Pokémon Ranger Daryl Reward: Sitrus Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-231",
+      "boss": "Ace Trainer Angi Guards: Leppa Berry, Heart Scale x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 13",
+      "value": "pb2-232",
+      "boss": "Pokémon Ranger Dianne Reward: Sitrus Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 12",
+      "encounters": [
+        "doubles",
+        "nuzleaf",
+        "stantler",
+        "cherubi",
+        "skuntank",
+        "skorupi",
+        "dunsparce",
+        "liepard",
+        "girafarig",
+        "gligar",
+        "gliscor",
+        "scrafty",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 12",
+      "value": "pb2-235",
+      "boss": "Backers Cleo & Rio",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 12",
+      "value": "pb2-236",
+      "boss": "Black Belt Jeriel",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 12",
+      "value": "pb2-237",
+      "boss": "Battle Girl Azra",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Village Bridge",
+      "encounters": [
+        "doubles",
+        "magmar",
+        "electabuzz",
+        "volbeat",
+        "illumise",
+        "heatmor",
+        "togetic",
+        "scyther",
+        "growlithe",
+        "granbull",
+        "rapidash",
+        "audino",
+        "lapras",
+        "tentacruel",
+        "luvdisc",
+        "tentacool",
+        "floatzel",
+        "buizel",
+        "shellder",
+        "swanna",
+        "psyduck",
+        "goldeen"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-238",
+      "boss": "Smasher Lizzy (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-239",
+      "boss": "Smasher Amy (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-240",
+      "boss": "Artist Gough (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-241",
+      "boss": "Gentleman Stonewall (Uses Lv. Up Moveset!) (On Bridge!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-242",
+      "boss": "Youngster Karl (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-243",
+      "boss": "Baker Chris (Uses Lv. Up Moveset!) (House - West Side Bridge!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-244",
+      "boss": "Fisherman Dean (Uses Lv. Up Moveset!) (On Isle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-245",
+      "boss": "Hoopster Nicolas (Uses Lv. Up Moveset!) (Triple Battle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Village Bridge",
+      "value": "pb2-246",
+      "boss": "Hoopster Derrick (Uses Lv. Up Moveset!) (Triple Battle!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 11",
+      "encounters": [
+        "doubles",
+        "azumarill",
+        "amoonguss",
+        "audino",
+        "luxray",
+        "pikachu",
+        "shuckle",
+        "shelmet",
+        "karrablast",
+        "raichu",
+        "forretress",
+        "galvantula",
+        "electrode",
+        "vespiquen",
+        "yanmega",
+        "floatzel",
+        "poliwhirl",
+        "mantine",
+        "lumineon",
+        "muk",
+        "surskit",
+        "basculin",
+        "lanturn",
+        "gastrodon",
+        "wailmer"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 11",
+      "value": "pb2-247",
+      "boss": "Pokémon Breeder Magnolia",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 11",
+      "value": "pb2-248",
+      "boss": "Pokémon Ranger Crofton Reward: Aspear Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 11",
+      "value": "pb2-249",
+      "boss": "Pokémon Ranger Thalia Reward: Aspear Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 9",
+      "encounters": [
+        "doubles",
+        "ursaring",
+        "shiftry",
+        "garbodor",
+        "wigglytuff",
+        "swalot",
+        "lilligant",
+        "froslass",
+        "purugly",
+        "clefairy",
+        "beldum",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-250",
+      "boss": "Roughneck Chance",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-251",
+      "boss": "Biker Zeke",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-252",
+      "boss": "Biker Phillip",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-253",
+      "boss": "Hooligans Jim & Cas",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-254",
+      "boss": "Roughneck Reese",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-256",
+      "boss": "PKMN Trainer Cynthia (B2B! - NO HEALING!)",
+      "group": "rival"
+    },
+    {
+      "type": "gym",
+      "name": "Opelucid City Gym",
+      "value": "pb2-257",
+      "boss": "Veteran Lucius [1F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Opelucid City Gym",
+      "value": "pb2-258",
+      "boss": "Veteran Rhona [2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Opelucid City Gym",
+      "value": "pb2-259",
+      "boss": "Veteran Jerry [2F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Opelucid City Gym",
+      "value": "pb2-260",
+      "boss": "Veteran Denae [3F] (Double Battle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Opelucid City Gym",
+      "value": "pb2-261",
+      "boss": "Veteran Ron [3F] (Double Battle!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-233",
+      "boss": "Team Plasma Zinzolin & Grunt #705 (FORCED FIGHT!) (Tag Battle!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Route 9",
+      "value": "pb2-234",
+      "boss": "↕️ Rival MiMsu (Fights with you!) ↕️",
+      "group": "rival"
+    },
+    {
+      "type": "gym",
+      "name": "Opelucid City Gym",
+      "value": "pb2-262",
+      "boss": "Gym Leader Drayden (Double Battle!) Reward: TM82: Dragon Tail",
+      "group": "gym-leader"
+    },
+    {
+      "type": "route",
+      "name": "Seaside Cave",
+      "encounters": [
+        "seel",
+        "stunfisk",
+        "starmie",
+        "tynamo",
+        "jynx",
+        "machoke",
+        "piloswine",
+        "gurdurr",
+        "meditie",
+        "vanilluxe",
+        "cryogonal",
+        "audino",
+        "sealeo",
+        "frillish",
+        "spheal",
+        "shellder",
+        "luvdisc",
+        "relicanth",
+        "feebas",
+        "clamperl",
+        "krabby"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Seaside Cave",
+      "value": "pb2-290",
+      "boss": "Black Belt Rocky (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Seaside Cave",
+      "value": "pb2-291",
+      "boss": "Pokémon Ranger Johan Reward: Cheri Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Seaside Cave",
+      "value": "pb2-292",
+      "boss": "Battle Girl Tia",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Seaside Cave",
+      "value": "pb2-293",
+      "boss": "Pokémon Ranger Mikiko Reward: Persim Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Seaside Cave",
+      "value": "pb2-294",
+      "boss": "Black Belt Drago",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Route 21",
+      "encounters": [
+        "cloyster",
+        "sharpedo",
+        "aerodactyl",
+        "archeops",
+        "kingdra",
+        "relicanth",
+        "starmie",
+        "gyarados",
+        "cradily"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-263",
+      "boss": "Team Plasma Grunt #585 (East!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-264",
+      "boss": "Team Plasma Grunt #586 (West!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-265",
+      "boss": "Team Plasma Grunt #587 (North!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-325",
+      "boss": "Team Plasma Shadow",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-268",
+      "boss": "Swimmer Desiree (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-269",
+      "boss": "Swimmer Kaoru (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-270",
+      "boss": "Swimmer Harold (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-271",
+      "boss": "Black Belt Kenneth (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-272",
+      "boss": "Swimmer Kyle (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-273",
+      "boss": "Fisherman Kenzo (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 21",
+      "value": "pb2-274",
+      "boss": "Doctor Braid",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Humilau City",
+      "encounters": [
+        "feebas",
+        "magikarp",
+        "omanyte",
+        "kabuto"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-282",
+      "boss": "Ace Trainer Doyle",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-283",
+      "boss": "Ace Trainer Melina",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-284",
+      "boss": "Ace Trainer Santino",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-285",
+      "boss": "Ace Trainer Jeanne",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-286",
+      "boss": "Ace Trainer Sable",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-287",
+      "boss": "Ace Trainer Enzio",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-288",
+      "boss": "Gym Leader Marlon (Singles Team!  - Permanent Rain!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City Gym",
+      "value": "pb2-289",
+      "boss": "Gym Leader Marlon (Doubles Team! - Permanent Rain!)",
+      "group": "gym-leader"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City",
+      "value": "pb2-309",
+      "boss": "Team Plasma Zinzolin & Grunt #797 (Command Center - Tag Battle!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Humilau City",
+      "value": "pb2-310",
+      "boss": "↕️ Rival MiMsu (Fights with you!) ↕️",
+      "group": "rival"
+    },
+    {
+      "type": "route",
+      "name": "Route 22",
+      "encounters": [
+        "doubles",
+        "vileplume",
+        "whimsicott",
+        "snover",
+        "amoonguss",
+        "delibird",
+        "togekiss",
+        "audino",
+        "kirlia",
+        "metang",
+        "venomoth",
+        "porygon",
+        "slowbro",
+        "slowking",
+        "psyduck",
+        "seaking",
+        "ludicolo",
+        "corsola",
+        "tentacruel",
+        "mantine",
+        "wailmer",
+        "bibarel"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-275",
+      "boss": "Ace Trainer Shel",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-276",
+      "boss": "Backpacker Myra",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-277",
+      "boss": "Pokémon Breeder Addison (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-278",
+      "boss": "Hiker Justin",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-279",
+      "boss": "Backpacker Lowell",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-280",
+      "boss": "Ace Trainer Lucca",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-295",
+      "boss": "Battle Girl Maki [B1F]",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 22",
+      "value": "pb2-296",
+      "boss": "Black Belt Rich [B1F]",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Giant Chasm",
+      "encounters": [
+        "doubles",
+        "abomasnow",
+        "delibird",
+        "glalie",
+        "vanilluxe",
+        "crobat",
+        "cryogonal",
+        "mamoswine",
+        "weavile",
+        "jynx",
+        "walrein",
+        "audino",
+        "shellos",
+        "seel",
+        "shellder",
+        "gastrodon",
+        "sealeo",
+        "dewgong"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-311",
+      "boss": "Team Plasma Grunt #724",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-312",
+      "boss": "Team Plasma Grunt #807 & #809",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-313",
+      "boss": "Team Plasma Grunt #430 (B2F - West!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-314",
+      "boss": "Team Plasma Grunt #431 (B2F - East!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-315",
+      "boss": "Team Plasma Grunt #808 (B2F - Southwest!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-316",
+      "boss": "Team Plasma Grunt #810 (B2F - Southeast!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-317",
+      "boss": "Doctor Julius",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-318",
+      "boss": "Team Plasma Grunt #435 (Southeast!) [B2F - Below!]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-319",
+      "boss": "Team Plasma Grunt #434 (Northeast!) [B2F - Below!]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-320",
+      "boss": "Team Plasma Grunt #432 (Northwest!) [B2F - Below!]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-321",
+      "boss": "Team Plasma Grunt #438 (Southwest!) [B2F - Below!]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-322",
+      "boss": "Team Plasma Grunt #439 (North!) [B2F - Below!]",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-326",
+      "boss": "Team Plasma Shadow (East!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-266",
+      "boss": "Team Plasma Zinzolin (Permanent Hail!)",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-267",
+      "boss": "Team Plasma Shadow",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Giant Chasm",
+      "value": "pb2-281",
+      "boss": "Gym Leader Lt. Surge Reward: Heart Scale, Yellow Shard x70, TM72: Volt Switch",
+      "group": "mini-boss"
+    },
+    {
+      "type": "route",
+      "name": "Route 23",
+      "encounters": [
+        "doubles",
+        "machamp",
+        "dragonite",
+        "haxorus",
+        "druddigon",
+        "salamence",
+        "altaria",
+        "flygon",
+        "conkeldurr",
+        "mienshao",
+        "audino",
+        "lanturn",
+        "kingdra",
+        "whiscash",
+        "jellicent"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-329",
+      "boss": "Battle Girl Brenda",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-330",
+      "boss": "Hiker Don",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-331",
+      "boss": "Ace Trainer DayDays (Before Bridge!) Guards: Leftovers",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-332",
+      "boss": "Black Belt Luke",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-333",
+      "boss": "Pokémon Ranger Steve Reward: Pecha Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-334",
+      "boss": "Pokémon Ranger Lena Reward: Persim Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-335",
+      "boss": "Ace Trainer Toni Guards: Heart Scale x2",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-336",
+      "boss": "Battle Girl Tiffany (Uses Lv. Up Moveset!) (Above!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-337",
+      "boss": "Hiker Doug (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-338",
+      "boss": "Ace Trainer Miki (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-339",
+      "boss": "Black Belt Benjamin (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Route 23",
+      "value": "pb2-340",
+      "boss": "Ace Trainer Tom (Uses Lv. Up Moveset!)",
+      "group": "other"
+    },
+    {
+      "type": "route",
+      "name": "Victory Road",
+      "encounters": [
+        "doubles",
+        "special",
+        "blastoise",
+        "charizard",
+        "venusaur",
+        "meganium",
+        "typhlosion",
+        "empoleon",
+        "feraligatr",
+        "infernape",
+        "torterra",
+        "meganaium",
+        "metagross",
+        "garchomp",
+        "audino",
+        "hydreigon",
+        "basculin",
+        "marill",
+        "frillish",
+        "lapras",
+        "milotic",
+        "tentacruel"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-341",
+      "boss": "Ace Trainer Billy",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-342",
+      "boss": "Ace Trainer Jamie",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-343",
+      "boss": "Psychic Alia",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-344",
+      "boss": "Psychic Al",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-345",
+      "boss": "Veteran Claude & Cecile",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-346",
+      "boss": "Veteran Hugo (Requires Surf & Waterfall - South West!)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-347",
+      "boss": "Ace Trainer Shelly (Outside 1)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-348",
+      "boss": "Veteran Cathy (Outside 1)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-349",
+      "boss": "Ace Trainer Beckett (Outside 1)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-350",
+      "boss": "Doctor Logan (Outside 1)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-351",
+      "boss": "Ace Trainer Pierce (Outside 1)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-352",
+      "boss": "Backpacker Mae (Uses Lv. Up Moveset!) (Outside 1)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-353",
+      "boss": "Ace Trainer Chandra (Uses Lv. Up Moveset!) (Grove)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-354",
+      "boss": "Veteran Abraham (2F)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-355",
+      "boss": "Pokémon Ranger Eddie (2F) Reward: Chesto Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-356",
+      "boss": "Pokémon Ranger Elle (2F) Reward: Aspear Berry x1",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-357",
+      "boss": "Ace Trainer Shanta & Webster (2F)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-358",
+      "boss": "Black Belt Martell (Outside 2)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-359",
+      "boss": "Battle Girl Chalina (Outside 2)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-360",
+      "boss": "Ace Trainer Elmer & Caroll (Outside 2)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-361",
+      "boss": "Veteran Sterling & Portia (Outside 2)",
+      "group": "other"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-363",
+      "boss": "Hack-Creator Haramsu (Double Battle! - 2nd Team!)",
+      "group": "rival"
+    },
+    {
+      "type": "route",
+      "name": "Marvelous Bridge",
+      "encounters": [
+        "cresselia",
+        "swanna"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 15",
+      "encounters": [
+        "sandslash",
+        "gligar",
+        "pupitar",
+        "tyranitar",
+        "gliscor",
+        "rotom",
+        "audino",
+        "throh",
+        "sawk",
+        "scrafty",
+        "emolga"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 17",
+      "encounters": [
+        "horsea",
+        "seadra",
+        "kingdra",
+        "finneon",
+        "lumineon",
+        "frillish",
+        "jellicent",
+        "alomomola"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 18",
+      "encounters": [
+        "horsea",
+        "seadra",
+        "dunsparce",
+        "corsola",
+        "kingdra",
+        "tropius",
+        "carnivine",
+        "finneon",
+        "lumineon",
+        "watchog",
+        "audino",
+        "throh",
+        "sawk",
+        "crustle",
+        "scrafty",
+        "frillish",
+        "jellicent",
+        "alomomola"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "P2 Laboratory",
+      "encounters": [
+        "magneton",
+        "weezing",
+        "horsea",
+        "seadra",
+        "qwilfish",
+        "kingdra",
+        "finneon",
+        "lumineon",
+        "magnezone",
+        "watchog",
+        "herdier",
+        "stoutland",
+        "audino",
+        "scrafty",
+        "frillish",
+        "jellicent",
+        "alomomola",
+        "klang",
+        "klinklang"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Nature Preserve",
+      "encounters": [
+        "golduck",
+        "magikarp",
+        "gyarados",
+        "noctowl",
+        "girafarig",
+        "dunsparce",
+        "nuzleaf",
+        "shiftry",
+        "altaria",
+        "kecleon",
+        "buizel",
+        "floatzel",
+        "audino",
+        "basculin",
+        "fraxure",
+        "haxorus"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Moor of Icirrus",
+      "encounters": [
+        "barboach",
+        "whiscash",
+        "croagunk",
+        "palpitoad",
+        "seismitoad",
+        "karrablast",
+        "shelmet",
+        "stunfisk"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Icirrus City",
+      "encounters": [
+        "barboach",
+        "whiscash",
+        "croagunk",
+        "palpitoad",
+        "seismitoad",
+        "karrablast",
+        "shelmet",
+        "stunfisk"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Dragonspiral Tower",
+      "encounters": [
+        "dratini",
+        "dragonair",
+        "dragonite",
+        "tranquill",
+        "unfezant",
+        "audino",
+        "basculin",
+        "vanillish",
+        "vanilluxe",
+        "sawsbuck",
+        "emolga",
+        "beartic",
+        "mienfoo",
+        "mienshao",
+        "druddigon",
+        "golurk",
+        "reshiram"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Twist Mountain",
+      "encounters": [
+        "onix",
+        "steelix",
+        "regigigas",
+        "boldore",
+        "woobat",
+        "excadrill",
+        "gurdurr",
+        "beartic",
+        "cryogonal",
+        "heatmor",
+        "durant"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Clay Tunnel",
+      "encounters": [
+        "diglett",
+        "onix",
+        "woobat",
+        "golbat",
+        "graveler",
+        "boldore",
+        "shieldon",
+        "drilbur",
+        "shuckle",
+        "palpitoad",
+        "audino"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Underground Ruins"
+    },
+    {
+      "type": "route",
+      "name": "Pinwheel Forest",
+      "encounters": [
+        "goldeen",
+        "seaking",
+        "marill",
+        "azumarill",
+        "yanma",
+        "vigoroth",
+        "slaking",
+        "toxicroak",
+        "yanmega",
+        "pansage",
+        "pansear",
+        "panpour",
+        "audino",
+        "gurdurr",
+        "palpitoad",
+        "seismitoad",
+        "throh",
+        "sawk",
+        "swadloon",
+        "whirlipede",
+        "scolipede",
+        "petilil",
+        "lilligant",
+        "basculin"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Nacrene City",
+      "encounters": [
+        "omanyte",
+        "kabuto",
+        "aerodactyl",
+        "lileep",
+        "anorith",
+        "cranidos",
+        "shieldon",
+        "uxie",
+        "tirtouga",
+        "archen"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 3",
+      "encounters": [
+        "goldeen",
+        "seaking",
+        "yanma",
+        "corphish",
+        "crawdaunt",
+        "yanmega",
+        "watchog",
+        "herdier",
+        "stoutland",
+        "purrloin",
+        "tranquill",
+        "unfezant",
+        "zebstrika",
+        "audino",
+        "basculin"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Wellspring Cave",
+      "encounters": [
+        "poliwag",
+        "poliwhirl",
+        "poliwrath",
+        "boldore",
+        "woobat",
+        "excadrill",
+        "basculin"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Striaton City",
+      "encounters": [
+        "goldeen",
+        "seaking",
+        "corphish",
+        "crawdaunt",
+        "basculin"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Nuvema Town (Egg)",
+      "encounters": [
+        "elekid",
+        "magby",
+        "meowth"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Dreamyard",
+      "encounters": [
+        "raticate",
+        "jigglypuff",
+        "wigglytuff",
+        "golbat",
+        "crobat",
+        "dunsparce",
+        "latias",
+        "watchog",
+        "liepard",
+        "munna",
+        "musharna",
+        "audino"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 2",
+      "encounters": [
+        "jigglypuff",
+        "wigglytuff",
+        "lickitung",
+        "dunsparce",
+        "lickilicky",
+        "watchog",
+        "herdier",
+        "stoutland",
+        "liepard",
+        "audino"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Accumula Town",
+      "encounters": [
+        "alakazam",
+        "ambipom"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 1",
+      "encounters": [
+        "machop",
+        "mienfoo",
+        "ledyba",
+        "rhyhorn",
+        "venipede",
+        "pansage",
+        "panpour",
+        "pansear",
+        "mankey",
+        "paras",
+        "makuhita",
+        "combee",
+        "yanma",
+        "audino"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-323",
+      "boss": "Team Plasma Zinzolin",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-324",
+      "boss": "Team Plasma Colress",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-327",
+      "boss": "Team Plasma Shadow",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-328",
+      "boss": "Team Plasma Ghetsis",
+      "group": "evil-team"
+    },
+    {
+      "type": "gym",
+      "name": "Victory Road",
+      "value": "pb2-362",
+      "group": "rival",
+      "boss": "Haramsu"
+    },
+    {
+      "type": "gym",
+      "name": "Pokémon League W Room",
+      "value": "pb2-364",
+      "group": "elite-four",
+      "boss": "Shauntal"
+    },
+    {
+      "type": "gym",
+      "name": "Pokémon League NW Room",
+      "value": "pb2-365",
+      "group": "elite-four",
+      "boss": "Grimsley"
+    },
+    {
+      "type": "gym",
+      "name": "Pokémon League NE Room",
+      "value": "pb2-366",
+      "group": "elite-four",
+      "boss": "Caitlin"
+    },
+    {
+      "type": "gym",
+      "name": "Pokémon League E Room",
+      "value": "pb2-367",
+      "group": "elite-four",
+      "boss": "Marshal"
+    },
+    {
+      "type": "gym",
+      "name": "Pokémon League Champion",
+      "value": "pb2-368",
+      "group": "elite-four",
+      "boss": "Iris"
+    }
   ]
 }
