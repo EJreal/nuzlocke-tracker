@@ -24,7 +24,7 @@ There are over 80 unique missions that players can explore, character customizat
 
 The game has four different difficulty modes, ranging from Easy to Insane, so players can select the mode that suits their level of challenge and play style. This ensures that everyone can enjoy the game at their own pace.
 
-This guide covers the **Difficulty mode** and there's a guide for **Expert mode** available [here](/guides/unbound-expert)
+This guide covers the **Difficulty mode** and there's a guide for **Expert mode** available [here](/nuzlocke-tracker/guides/unbound-expert)
 
 _Insane and Easy guides coming soon!_
 

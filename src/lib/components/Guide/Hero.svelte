@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   export let logo, title, theme, pid, description
   import { Logo as Picture } from '$c/core'
   import { IMG } from '$lib/utils/rewrites'
@@ -21,7 +23,7 @@
     '#000'}"
 >
   <div class="g-container nav">
-    <a title="Home" href="/" rel="external">
+    <a title="Home" href="{base}/" rel="external">
       <Icon inline={true} height="1.4rem" icon={Home} class="fill-current" />
     </a>
     <div>

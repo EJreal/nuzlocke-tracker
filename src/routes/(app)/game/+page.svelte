@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import { onMount, afterUpdate } from 'svelte'
   import { browser } from '$app/environment'
   import { fade, slide } from 'svelte/transition'
@@ -59,7 +61,7 @@
   let route
   const fetchRoute = async (gen) => {
     if (route) return route
-    const res = await fetch(`/api/route/${gen}.json`)
+    const res = await fetch(`${base}/api/route/${gen}.json`)
     route = await res.json()
     return route
   }

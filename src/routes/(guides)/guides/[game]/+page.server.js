@@ -1,4 +1,5 @@
 import { error } from '@sveltejs/kit'
+import { base } from '$app/paths'
 import { toSlug, normalise } from '$lib/utils/string'
 
 import { Expanded as Games } from '$lib/data/games.js'
@@ -29,7 +30,7 @@ export async function load({ params, url, fetch }) {
 
   const links = Object.values(Games)
     .filter((cfg) => toSlug(cfg.title) !== game)
-    .map((g) => ({ ...g, href: `/guides/${toSlug(g.title)}` }))
+    .map((g) => ({ ...g, href: `${base}/guides/${toSlug(g.title)}` }))
     .reduce(
       (acc, g) => ({
         ...acc,
@@ -52,11 +53,11 @@ export async function load({ params, url, fetch }) {
       else return res.json()
     })
   const [pokemon, route, fire, water, grass] = await Promise.all([
-    fetchJson(`/api/pokemon/${gameCfg.pid}.json`),
-    fetchJson(`/api/route/${gameCfg.pid}.json`),
-    fetchJson(`/api/league/${gameCfg.pid}.fire.json`),
-    fetchJson(`/api/league/${gameCfg.pid}.water.json`),
-    fetchJson(`/api/league/${gameCfg.pid}.grass.json`)
+    fetchJson(`${base}/api/pokemon/${gameCfg.pid}.json`),
+    fetchJson(`${base}/api/route/${gameCfg.pid}.json`),
+    fetchJson(`${base}/api/league/${gameCfg.pid}.fire.json`),
+    fetchJson(`${base}/api/league/${gameCfg.pid}.water.json`),
+    fetchJson(`${base}/api/league/${gameCfg.pid}.grass.json`)
   ])
 
   const findPokemon = (id) =>

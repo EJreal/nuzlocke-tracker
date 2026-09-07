@@ -1,3 +1,4 @@
+import { base } from '$app/paths'
 /* eslint no-undef: 0 */
 import { browser } from '$app/environment'
 import { writable } from 'svelte/store'
@@ -421,15 +422,15 @@ export const trackData = () => {
     if (document.visibilityState === 'hidden') {
       const createBlob = (json) =>
         new Blob([JSON.stringify(json)], { type: 'application/json' })
-      navigator.sendBeacon('/api/store/game', createBlob(gamesData))
+      navigator.sendBeacon(`${base}/api/store/game`, createBlob(gamesData))
       savesData.forEach((save) =>
-        navigator.sendBeacon('/api/store/save', createBlob(save))
+        navigator.sendBeacon(`${base}/api/store/save`, createBlob(save))
       )
       teamsData.forEach((save) =>
-        navigator.sendBeacon('/api/store/team', createBlob(save))
+        navigator.sendBeacon(`${base}/api/store/team`, createBlob(save))
       )
       bossData.forEach((save) => {
-        navigator.sendBeacon('/api/store/boss', createBlob(save))
+        navigator.sendBeacon(`${base}/api/store/boss`, createBlob(save))
       })
     }
   })

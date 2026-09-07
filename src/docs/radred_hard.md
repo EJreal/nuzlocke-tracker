@@ -8,14 +8,14 @@ Pokémon Radical Red is a fan-made ROM hack of Pokémon FireRed and LeafGreen th
 
 Whether you're a Pokémon fan looking for a new challenge or a nuzlocke enthusiast seeking a unique experience, **Radical Red's Hardcode mode** will push your Pokémon skills & knowledge to the extreme and prove you absolutely can be the very best
 
-A guide for the more accessible Easy mode can be found [here](https://nuzlocke.app/guides/radical-rad).
+A guide for the more accessible Easy mode can be found [here](/nuzlocke-tracker/guides/radical-red).
 
 ### Difficulty & Bosses
 
 Be prepared for a real challenge in **Radical Red**! Bosses have max IVs with proper EV spreads and optimized movesets/hold items, and you'll face tough team compositions and unfair obstacles. The battle style is forced to Set, and you won't be able to access your bag against Gym Leaders and other select bosses. Additionally, there's a soft level cap based on the next boss, which prevents you from overleveling your Pokémon and encourages you to re-evaluate your team and strategy to defeat them.
 
 You can find a guide for all of the boss fights
-[below](https://nuzlocke.app/guides/radical-red#gym-leader) to help you beat this difficult challenge.
+[below](/nuzlocke-tracker/guides/radical-red#gym-leader) to help you beat this difficult challenge.
 
 #### **☠️ Hardcore Mode**
 
@@ -25,7 +25,7 @@ This is the most challenging mode in Radical Red for players who want an _extrem
 
 While still being more difficult than FireRed, Easy Mode is the most accessible way to play Radical Red. It provides a challenge but is designed for players who want a less intense experience.
 
-You can see an equivalent of this guide over at the ["Easy Mode" Radical Red guide](https://nuzlocke.app/guides/radical-red) page.
+You can see an equivalent of this guide over at the ["Easy Mode" Radical Red guide](/nuzlocke-tracker/guides/radical-red) page.
 
 ### New Boss Mechanics
 

@@ -1,0 +1,2 @@
+import{B as f,s as p}from"./index-f31bb8e3.js";const n=[];function _(t,b=f){let i;const o=new Set;function r(e){if(p(t,e)&&(t=e,i)){const c=!n.length;for(const s of o)s[1](),n.push(s,t);if(c){for(let s=0;s<n.length;s+=2)n[s][0](n[s+1]);n.length=0}}}function a(e){r(e(t))}function l(e,c=f){const s=[e,c];return o.add(s),o.size===1&&(i=b(r)||f),e(t),()=>{o.delete(s),o.size===0&&i&&(i(),i=null)}}return{set:r,update:a,subscribe:l}}let u="",d="";function g(t){u=t.base,d=t.assets||u}export{d as a,u as b,g as s,_ as w};
+//# sourceMappingURL=paths-d5ba211e.js.map

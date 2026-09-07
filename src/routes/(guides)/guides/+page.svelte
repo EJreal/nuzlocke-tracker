@@ -1,4 +1,5 @@
 <script>
+  import { base } from '$app/paths'
   import Themes from '$data/theme.json'
   import { Expanded as Games } from '$data/games.js'
   import { Logo as Picture } from '$c/core'
@@ -36,7 +37,7 @@
     <a
       title='{title} Guide'
       style='--col1:{Themes?.[pid]?.[0]};--col2:{Themes?.[pid]?.[1]}'
-      href='/guides/{toSlug(title)}'
+      href='{base}/guides/{toSlug(title)}'
     >
       <div>
         <div>

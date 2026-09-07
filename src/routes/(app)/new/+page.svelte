@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import { savedGames, createGame } from '$lib/store'
   import { ScreenContainer } from '$lib/components/containers'
 
@@ -39,7 +41,7 @@
     if (!selectedGame?.supported)
       return alert(`Sorry, ${selectedGame?.title} is currently not supported`)
 
-    fetch(`/api/route/generate/${selectedGame?.pid}.json`)
+    fetch(`${base}/api/route/generate/${selectedGame?.pid}.json`)
       .then((res) => res.text())
       .then((res) => {
         let createid = selected

@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import { browser } from '$app/environment'
   import { onMount, getContext } from 'svelte'
   import { fade } from 'svelte/transition'
@@ -118,7 +120,7 @@
 
       {#if showAudio}<Audio
           class="bottom-8 left-0 z-[999999] lg:fixed"
-          src="/audio/lavender.mp3"
+          src="{base}/audio/lavender.mp3"
         />{/if}
       {#if showFog}<Fog />{/if}
     {/if}

@@ -1,8 +1,10 @@
 <script>
+  import { base } from '$app/paths'
+
   import { page } from '$app/stores'
 
   export let text = '#3294ee',
-    img = '/assets/img/pokemon/base-202.png'
+    img = base + '/assets/img/pokemon/base-202.png'
 </script>
 
 <svelte:head>
@@ -63,7 +65,7 @@
         class="mx-auto max-w-sm translate-y-56 font-sans text-gray-800 dark:text-gray-400 sm:max-w-md"
       >
         {#if $page.status === 404}
-          Try going back <a href="/">home</a>, but if you think this is a
+          Try going back <a href="{base}/">home</a>, but if you think this is a
           mistake or can't find what you're looking reach out over on
           <a
             href="https://discord.gg/gtdceegtYB"

@@ -1,3 +1,4 @@
+import { base } from '$app/paths'
 import { browser } from '$app/environment'
 import { getGen } from '$store'
 
@@ -54,7 +55,7 @@ const route = {}
 export const fetchRoute = async (game) => {
   if (!browser) return
 
-  const uri = `/api/route/${game}.json`
+  const uri = `${base}/api/route/${game}.json`
   if (route[game]) return route[game]
   if (!route[uri]) route[uri] = fetch(uri).then((res) => res.json())
 
@@ -68,7 +69,7 @@ const trainers = {}
 export const fetchTrainers = async (game) => {
   if (!browser) return
 
-  const uri = `/api/${game}/trainers.json`
+  const uri = `${base}/api/${game}/trainers.json`
   if (trainers[game]) return trainers[game]
   if (!trainers[uri]) trainers[uri] = fetch(uri).then((res) => res.json())
 

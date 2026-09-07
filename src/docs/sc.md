@@ -13,7 +13,7 @@ But if you still enjoy the randomisation and variety that comes from a nuzlocke,
 
 ![Randomized encounters](https://img.nuzlocke.app/content/reveal.gif)
 
-You can use the [Nuzlocke.app tracker](/new) and select the **Randomize** feature when making a new game. This will pre-select an available from each location for you to encounter and "hide" them in tall grass under you're ready to reveal them!
+You can use the [Nuzlocke.app tracker](/nuzlocke-tracker/new) and select the **Randomize** feature when making a new game. This will pre-select an available from each location for you to encounter and "hide" them in tall grass under you're ready to reveal them!
 
 ### Raid dens
 

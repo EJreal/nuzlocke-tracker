@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   export let id = 25
 
   import { createImgUrl, IMG } from '$utils/rewrites'
@@ -63,15 +65,15 @@
 </script>
 
 <svelte:head>
-  <link rel="preload" as="image" href="/logo.webp" />
-  <link rel="preload" as="image" href="/logo.png" />
+  <link rel="preload" as="image" href="{base}/logo.webp" />
+  <link rel="preload" as="image" href="{base}/logo.png" />
 </svelte:head>
 
 <main>
   <h1 aria-level="1" class="mx-auto text-center font-mono text-4xl">
     Pokémon
     <Picture
-      src="/logo"
+      src="{base}/logo"
       loading="eager"
       aspect="324x62"
       pixelated

@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import { fade } from 'svelte/transition'
   import { IMG } from '$utils/rewrites'
 
@@ -13,7 +15,7 @@
           <source srcset="/img/fog@1.webp" type="image/webp" />
           <img
             alt="Background fog to give aesthetic of graveyard"
-            src="/img/fog@1.png"
+            src="{base}/img/fog@1.png"
             srcset="/img/fog@1.png 1x, /img/fog@2.png 2x"
             decoding=async loading=lazy
             />
@@ -23,7 +25,7 @@
           <source srcset="/img/fog@1.webp" type="image/webp" />
           <img
             alt="Background fog to give aesthetic of graveyard"
-            src="/img/fog@1.png"
+            src="{base}/img/fog@1.png"
             srcset="/img/fog@1.png 1x, /img/fog@2.png 2x"
             decoding=async loading=lazy
             />
@@ -38,7 +40,7 @@
           <source srcset="/img/fog@1.webp" type="image/webp" />
           <img
             alt="Background fog to give aesthetic of graveyard"
-            src="/img/fog@1.png"
+            src="{base}/img/fog@1.png"
             srcset="/img/fog@1.png 1x, /img/fog@2.png 2x"
             decoding=async loading=lazy
             />
@@ -48,7 +50,7 @@
           <source srcset="/img/fog@1.webp" type="image/webp" />
           <img
             alt="Background fog to give aesthetic of graveyard"
-            src="/img/fog@1.png"
+            src="{base}/img/fog@1.png"
             srcset="/img/fog@1.png 1x, /img/fog@2.png 2x"
             decoding=async loading=lazy
             />

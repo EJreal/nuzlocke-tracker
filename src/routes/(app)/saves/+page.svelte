@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import { browser } from '$app/environment'
   import { savedGames, parse } from '$lib/store'
   import { slide } from 'svelte/transition'
@@ -66,7 +68,7 @@
         Import saved game
       </Import>
 
-      <a data-sveltekit-preload-data href="/new" class='text-center'>
+      <a data-sveltekit-preload-data href="{base}/new" class='text-center'>
         <Button rounded className='w-full p-1'>
           Create game
         </Button>

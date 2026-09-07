@@ -1,4 +1,6 @@
 import { Expanded as games } from '$lib/data/games.js'
+import { json } from '@sveltejs/kit'
+import { base as appBase } from '$app/paths'
 import patches from '$lib/data/patches.json'
 
 import { LegacyTypeMap } from '$lib/data/legacy'
@@ -47,7 +49,7 @@ export async function GET({ params }) {
   if (!game.patched && !game.filter)
     return new Response('', {
       status: 301,
-      headers: { Location: '/api/pokemon.json' }
+      headers: { Location: `${appBase}/api/pokemon.json` }
     })
 
   let items = base

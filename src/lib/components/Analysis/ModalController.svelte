@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import { onMount, getContext } from 'svelte'
   import { IconButton } from '$lib/components/core'
   import { Bubbles } from '$lib/utils/pattern'
@@ -13,7 +15,7 @@
   })
 
   const fetchanalysis = (box) =>
-    fetch('/api/box/analysis.json', {
+    fetch(`${base}/api/box/analysis.json`, {
       method: 'POST',
       body: JSON.stringify({ box }),
       headers: {

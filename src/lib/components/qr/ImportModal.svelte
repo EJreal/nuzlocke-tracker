@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   import TextCode from './TextCode.svelte'
   import { getContext } from 'svelte'
 
@@ -87,7 +89,7 @@
 
     <ol>
       <li>
-        Open your <a href="/saves"
+        Open your <a href="{base}/saves"
           ><mark
             >Save files <Icon
               inline={true}

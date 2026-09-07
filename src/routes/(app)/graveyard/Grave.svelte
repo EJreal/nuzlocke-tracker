@@ -1,4 +1,6 @@
 <script>
+  import { base } from '$app/paths'
+
   export let pokemon,
     nickname = '',
     death = {},
@@ -53,7 +55,7 @@
       pixelated
       class="tombstone tombstone--{graveid}"
       alt="Tombstone for {nickname} the {pokemon}"
-      src="/img/grave-{graveid}"
+      src="{base}/img/grave-{graveid}"
       aspect="192x256"
     />
   {/key}
