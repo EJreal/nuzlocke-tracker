@@ -34,7 +34,7 @@
       createid += difficultyOptions?.[difficulty]?.id || ''
 
     savedGames.update(createGame(gameName, createid))
-    window.location = '/game'
+    window.location = `${base}/game`
   }
 
   const handleGenGame = () => {
@@ -49,7 +49,7 @@
           createid += difficultyOptions?.[difficulty]?.id || ''
 
         savedGames.update(createGame(gameName, createid, res))
-        window.location = '/game'
+        window.location = `${base}/game`
       })
   }
 

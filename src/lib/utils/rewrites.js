@@ -22,7 +22,7 @@ export const INSTASCAN = rewrite
 
 export const UNOWN = 'https://img.nuzlocke.app/sprites/unown.png?v=1'
 
-export const createImgUrl = (p, { ext = 'webp', shiny = false } = {}) => {
+export const createImgUrl = (p, { ext = 'png', shiny = false } = {}) => {
   if (!p) return UNOWN
   if (p.imgUrl) return `${CUSTOM}${p.imgUrl}.${ext}`
 

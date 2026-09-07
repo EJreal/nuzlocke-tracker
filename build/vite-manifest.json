@@ -12,7 +12,7 @@
     "src": "src/routes/assets/img/pokemon-v6.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-1d4676b6.js",
+    "file": "_app/immutable/start-2f12cb63.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -40,16 +40,16 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-125ce42c.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-e456ccd5.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_stores-e40578c8.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_index-a6285f15.js",
-      "_Footer-3a35f15c.js",
+      "_Footer-77891790.js",
       "_defer-styles-c8c5a209.js"
     ],
     "css": [
@@ -75,29 +75,29 @@
     ]
   },
   "src/routes/(app)/+layout.svelte": {
-    "file": "_app/immutable/components/pages/(app)/_layout.svelte-5cd92d1d.js",
+    "file": "_app/immutable/components/pages/(app)/_layout.svelte-0285d78c.js",
     "src": "src/routes/(app)/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_stores-e40578c8.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_games-662c58df.js",
       "_paths-d5ba211e.js",
       "_index-a6285f15.js",
-      "_theme-toggle-737d7806.js",
+      "_theme-toggle-80539b9c.js",
       "_math-plus-05faf72d.js",
       "_close-fill-1a5354ca.js",
-      "_IconButton-fdbdd850.js",
+      "_IconButton-2964e789.js",
       "_pokemon-7fbc8930.js",
       "_PokemonIcon-46d53d0f.js",
       "_drag-c0b6d387.js",
       "_preload-helper-9b728935.js",
       "_Modal-c1113219.js",
-      "_fetchers-46669fe1.js",
-      "_Button-62558b05.js",
-      "_Popover-04937eba.js",
-      "_Logo-4eaa6903.js",
+      "_fetchers-9392604e.js",
+      "_Button-a10247ce.js",
+      "_Popover-2397cac7.js",
+      "_Logo-85af2448.js",
       "_offline-functions-151b9441.js",
       "_defer-styles-c8c5a209.js"
     ],
@@ -109,14 +109,14 @@
     ]
   },
   "src/routes/(guides)/+layout.svelte": {
-    "file": "_app/immutable/components/pages/(guides)/_layout.svelte-711f59ba.js",
+    "file": "_app/immutable/components/pages/(guides)/_layout.svelte-5bdf828a.js",
     "src": "src/routes/(guides)/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_stores-e40578c8.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_defer-styles-c8c5a209.js"
     ],
     "css": [
@@ -125,55 +125,55 @@
     ]
   },
   "src/routes/(app)/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/_page.svelte-5406ba27.js",
+    "file": "_app/immutable/components/pages/(app)/_page.svelte-84ada6a5.js",
     "src": "src/routes/(app)/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
-      "_rewrites-bfe61a9d.js",
+      "_rewrites-957cdbe2.js",
       "_index-8c84708e.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_PixelatedContainer-33911f79.js",
       "_games-662c58df.js",
       "_PokemonIcon-46d53d0f.js",
-      "_Picture-5eee1691.js",
-      "_Logo-4eaa6903.js"
+      "_Picture-d5951a3e.js",
+      "_Logo-85af2448.js"
     ],
     "css": [
       "_app/immutable/assets/_page-b7865c5c.css"
     ]
   },
   "src/routes/(app)/box/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/box/_page.svelte-ec7580cc.js",
+    "file": "_app/immutable/components/pages/(app)/box/_page.svelte-494c21c0.js",
     "src": "src/routes/(app)/box/+page.svelte",
     "isEntry": true,
     "imports": [
       "_preload-helper-9b728935.js",
       "_index-f31bb8e3.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_link-930b8cdc.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_link-3d0e77da.js",
       "_math-minus-b1a09aa0.js",
       "_math-plus-05faf72d.js",
       "_close-fill-1a5354ca.js",
-      "_IconButton-fdbdd850.js",
-      "_Tooltip-2f1ea7b1.js",
-      "_Loader-eb479f8b.js",
-      "_Toggle-a5f2cc34.js",
+      "_IconButton-2964e789.js",
+      "_Tooltip-b728683a.js",
+      "_Loader-8dbce6b5.js",
+      "_Toggle-a66a7d70.js",
       "_PokemonIcon-46d53d0f.js",
       "_pokemon-7fbc8930.js",
       "_drag-c0b6d387.js",
-      "_Footer-3a35f15c.js",
-      "_pokemon-card-8e45d7fc.js",
-      "_types-eddd0d95.js",
+      "_Footer-77891790.js",
+      "_pokemon-card-871c9532.js",
+      "_types-1999664c.js",
       "_paths-d5ba211e.js",
-      "_type-badge-61128a96.js",
+      "_type-badge-7cdd78b9.js",
       "_heart-straight-fill-309bb1e1.js",
       "_offline-functions-151b9441.js",
-      "_rewrites-bfe61a9d.js",
-      "_badges-fe1fb681.js"
+      "_rewrites-957cdbe2.js",
+      "_badges-54a8f22e.js"
     ],
     "dynamicImports": [
       "src/lib/components/Analysis/index.svelte",
@@ -189,7 +189,7 @@
     ]
   },
   "src/routes/(app)/credit/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/credit/_page.svelte-534a59f4.js",
+    "file": "_app/immutable/components/pages/(app)/credit/_page.svelte-dc72c483.js",
     "src": "src/routes/(app)/credit/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -197,15 +197,15 @@
       "_index-a6285f15.js",
       "_PixelatedContainer-33911f79.js",
       "_heart-straight-fill-309bb1e1.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_Picture-5eee1691.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_Picture-d5951a3e.js"
     ],
     "css": [
       "_app/immutable/assets/_page-9a8e7e1c.css"
     ]
   },
   "src/routes/(app)/game/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/game/_page.svelte-58e88db8.js",
+    "file": "_app/immutable/components/pages/(app)/game/_page.svelte-c24f284b.js",
     "src": "src/routes/(app)/game/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -213,25 +213,25 @@
       "_paths-d5ba211e.js",
       "_index-a6285f15.js",
       "_arrow-right-9e7b961c.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_Tabs-be905aa9.js",
-      "_Loader-eb479f8b.js",
-      "_link-930b8cdc.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_Tabs-15ccb955.js",
+      "_Loader-8dbce6b5.js",
+      "_link-3d0e77da.js",
       "_arr-dbb10c78.js",
       "_offline-functions-151b9441.js",
-      "_Tooltip-2f1ea7b1.js",
+      "_Tooltip-b728683a.js",
       "_pencil-simple-6d637067.js",
       "_PokemonIcon-46d53d0f.js",
-      "_type-badge-61128a96.js",
-      "_gym-card-df90947f.js",
+      "_type-badge-7cdd78b9.js",
+      "_gym-card-b502ac70.js",
       "_preload-helper-9b728935.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js",
-      "_Input-e01b3331.js",
-      "_IconButton-fdbdd850.js",
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js",
+      "_Input-22fa2e57.js",
+      "_IconButton-2964e789.js",
       "_chevron-up-71845f90.js",
       "_math-minus-b1a09aa0.js",
       "_math-plus-05faf72d.js",
-      "_Popover-04937eba.js",
+      "_Popover-2397cac7.js",
       "_close-fill-1a5354ca.js",
       "_defer-styles-c8c5a209.js",
       "_games-662c58df.js"
@@ -248,7 +248,7 @@
     ]
   },
   "src/routes/(app)/graveyard/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/graveyard/_page.svelte-bb6aeaab.js",
+    "file": "_app/immutable/components/pages/(app)/graveyard/_page.svelte-454bb456.js",
     "src": "src/routes/(app)/graveyard/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -256,17 +256,17 @@
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_rewrites-bfe61a9d.js",
-      "_prose-03dd7372.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_rewrites-957cdbe2.js",
+      "_prose-4690541e.js",
       "_pencil-simple-6d637067.js",
       "_math-plus-05faf72d.js",
-      "_Tooltip-2f1ea7b1.js",
-      "_Picture-5eee1691.js",
+      "_Tooltip-b728683a.js",
+      "_Picture-d5951a3e.js",
       "_arr-dbb10c78.js",
-      "_badges-fe1fb681.js",
+      "_badges-54a8f22e.js",
       "_offline-functions-151b9441.js",
-      "_Toggle-a5f2cc34.js",
+      "_Toggle-a66a7d70.js",
       "_PokemonIcon-46d53d0f.js"
     ],
     "dynamicImports": [
@@ -277,23 +277,23 @@
     ]
   },
   "src/routes/(app)/new/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/new/_page.svelte-5c5ed970.js",
+    "file": "_app/immutable/components/pages/(app)/new/_page.svelte-52e51d9e.js",
     "src": "src/routes/(app)/new/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_ScreenContainer-f4f7ee56.js",
       "_PixelatedContainer-33911f79.js",
-      "_Input-e01b3331.js",
-      "_Button-62558b05.js",
+      "_Input-22fa2e57.js",
+      "_Button-a10247ce.js",
       "_dice-multiple-outline-d0520c68.js",
       "_index-a6285f15.js",
-      "_Tooltip-2f1ea7b1.js",
-      "_Tabs-be905aa9.js",
-      "_Radio-0357228d.js",
-      "_Logo-4eaa6903.js",
+      "_Tooltip-b728683a.js",
+      "_Tabs-15ccb955.js",
+      "_Radio-25a1ea18.js",
+      "_Logo-85af2448.js",
       "_games-0cf4b2a3.js",
       "_arr-dbb10c78.js"
     ]
@@ -312,18 +312,18 @@
     ]
   },
   "src/routes/(guides)/guides/+page.svelte": {
-    "file": "_app/immutable/components/pages/(guides)/guides/_page.svelte-812d93d6.js",
+    "file": "_app/immutable/components/pages/(guides)/guides/_page.svelte-69484589.js",
     "src": "src/routes/(guides)/guides/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
       "_games-662c58df.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_offline-functions-151b9441.js",
-      "_Logo-4eaa6903.js",
-      "_index-4e3ac472.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js",
+      "_Logo-85af2448.js",
+      "_index-ff755a09.js",
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js",
       "_Effect.svelte_svelte_type_style_lang-12918d28.js"
     ],
     "css": [
@@ -333,18 +333,18 @@
     ]
   },
   "src/routes/(guides)/guides/[game]/+page.svelte": {
-    "file": "_app/immutable/components/pages/(guides)/guides/_game_/_page.svelte-a735cb54.js",
+    "file": "_app/immutable/components/pages/(guides)/guides/_game_/_page.svelte-281ab4eb.js",
     "src": "src/routes/(guides)/guides/[game]/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
-      "_index-4e3ac472.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_index-ff755a09.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_index-a6285f15.js",
-      "_Tooltip-2f1ea7b1.js",
+      "_Tooltip-b728683a.js",
       "_PokemonIcon-46d53d0f.js",
-      "_type-badge-61128a96.js",
-      "_gym-card-df90947f.js",
+      "_type-badge-7cdd78b9.js",
+      "_gym-card-b502ac70.js",
       "_chevron-up-71845f90.js"
     ],
     "css": [
@@ -357,14 +357,15 @@
     ]
   },
   "src/routes/drop/[id]/+page.svelte": {
-    "file": "_app/immutable/components/pages/drop/_id_/_page.svelte-ea7b6996.js",
+    "file": "_app/immutable/components/pages/drop/_id_/_page.svelte-e9388a08.js",
     "src": "src/routes/drop/[id]/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_paths-d5ba211e.js",
       "_offline-functions-151b9441.js",
-      "_Loader-eb479f8b.js"
+      "_Loader-8dbce6b5.js"
     ]
   },
   "src/routes/+layout.js": {
@@ -400,20 +401,20 @@
     ]
   },
   "src/routes/(app)/saves/+page.svelte": {
-    "file": "_app/immutable/components/pages/(app)/saves/_page.svelte-0b47688a.js",
+    "file": "_app/immutable/components/pages/(app)/saves/_page.svelte-689432c5.js",
     "src": "src/routes/(app)/saves/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
-      "__page-861147a4.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "__page-0885a2a4.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_index-a6285f15.js",
       "_ScreenContainer-f4f7ee56.js",
       "_PixelatedContainer-33911f79.js",
       "_Modal-c1113219.js",
       "_offline-functions-151b9441.js",
-      "_Button-62558b05.js"
+      "_Button-a10247ce.js"
     ]
   },
   "src/routes/(app)/saves/+page.js": {
@@ -468,8 +469,8 @@
   "_offline-functions-151b9441.js": {
     "file": "_app/immutable/chunks/offline-functions-151b9441.js"
   },
-  "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js": {
-    "file": "_app/immutable/chunks/Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+  "_Logo.svelte_svelte_type_style_lang-8c311d2d.js": {
+    "file": "_app/immutable/chunks/Logo.svelte_svelte_type_style_lang-8c311d2d.js",
     "imports": [
       "_paths-d5ba211e.js",
       "_offline-functions-151b9441.js"
@@ -478,14 +479,14 @@
       "_app/immutable/assets/Logo-3d252215.css"
     ]
   },
-  "_Footer-3a35f15c.js": {
-    "file": "_app/immutable/chunks/Footer-3a35f15c.js",
+  "_Footer-77891790.js": {
+    "file": "_app/immutable/chunks/Footer-77891790.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
       "_heart-straight-fill-309bb1e1.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ],
     "css": [
       "_app/immutable/assets/Footer-b494e10a.css"
@@ -513,12 +514,12 @@
       "_games-0cf4b2a3.js"
     ]
   },
-  "_fetchers-46669fe1.js": {
-    "file": "_app/immutable/chunks/fetchers-46669fe1.js",
+  "_fetchers-9392604e.js": {
+    "file": "_app/immutable/chunks/fetchers-9392604e.js",
     "imports": [
       "_paths-d5ba211e.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_rewrites-bfe61a9d.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_rewrites-957cdbe2.js"
     ]
   },
   "_Modal-c1113219.js": {
@@ -534,43 +535,43 @@
   "_games-0cf4b2a3.js": {
     "file": "_app/immutable/chunks/games-0cf4b2a3.js"
   },
-  "_theme-toggle-737d7806.js": {
-    "file": "_app/immutable/chunks/theme-toggle-737d7806.js",
+  "_theme-toggle-80539b9c.js": {
+    "file": "_app/immutable/chunks/theme-toggle-80539b9c.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_index-a6285f15.js"
     ]
   },
-  "_Button-62558b05.js": {
-    "file": "_app/immutable/chunks/Button-62558b05.js",
+  "_Button-a10247ce.js": {
+    "file": "_app/immutable/chunks/Button-a10247ce.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
-  "_Popover-04937eba.js": {
-    "file": "_app/immutable/chunks/Popover-04937eba.js",
+  "_Popover-2397cac7.js": {
+    "file": "_app/immutable/chunks/Popover-2397cac7.js",
     "imports": [
       "_preload-helper-9b728935.js",
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ],
     "dynamicImports": [
       "node_modules/@popperjs/core/lib/index.js"
     ]
   },
-  "_Logo-4eaa6903.js": {
-    "file": "_app/immutable/chunks/Logo-4eaa6903.js",
+  "_Logo-85af2448.js": {
+    "file": "_app/immutable/chunks/Logo-85af2448.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
-  "_rewrites-bfe61a9d.js": {
-    "file": "_app/immutable/chunks/rewrites-bfe61a9d.js",
+  "_rewrites-957cdbe2.js": {
+    "file": "_app/immutable/chunks/rewrites-957cdbe2.js",
     "imports": [
       "_paths-d5ba211e.js"
     ]
@@ -581,12 +582,12 @@
   "_close-fill-1a5354ca.js": {
     "file": "_app/immutable/chunks/close-fill-1a5354ca.js"
   },
-  "_IconButton-fdbdd850.js": {
-    "file": "_app/immutable/chunks/IconButton-fdbdd850.js",
+  "_IconButton-2964e789.js": {
+    "file": "_app/immutable/chunks/IconButton-2964e789.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_PokemonIcon-46d53d0f.js"
     ]
   },
@@ -618,25 +619,25 @@
       "_app/immutable/assets/PixelatedContainer-e9650e87.css"
     ]
   },
-  "_Picture-5eee1691.js": {
-    "file": "_app/immutable/chunks/Picture-5eee1691.js",
+  "_Picture-d5951a3e.js": {
+    "file": "_app/immutable/chunks/Picture-d5951a3e.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
   "__page-547402c6.js": {
     "file": "_app/immutable/chunks/_page-547402c6.js"
   },
-  "_link-930b8cdc.js": {
-    "file": "_app/immutable/chunks/link-930b8cdc.js",
+  "_link-3d0e77da.js": {
+    "file": "_app/immutable/chunks/link-3d0e77da.js",
     "imports": [
       "_preload-helper-9b728935.js",
       "_index-f31bb8e3.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_IconButton-fdbdd850.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_IconButton-2964e789.js",
       "_games-662c58df.js"
     ],
     "dynamicImports": [
@@ -646,88 +647,88 @@
   "_math-minus-b1a09aa0.js": {
     "file": "_app/immutable/chunks/math-minus-b1a09aa0.js"
   },
-  "_Tooltip-2f1ea7b1.js": {
-    "file": "_app/immutable/chunks/Tooltip-2f1ea7b1.js",
+  "_Tooltip-b728683a.js": {
+    "file": "_app/immutable/chunks/Tooltip-b728683a.js",
     "imports": [
       "_preload-helper-9b728935.js",
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ],
     "dynamicImports": [
       "node_modules/tippy.js/dist/tippy.esm.js"
     ]
   },
-  "_Loader-eb479f8b.js": {
-    "file": "_app/immutable/chunks/Loader-eb479f8b.js",
+  "_Loader-8dbce6b5.js": {
+    "file": "_app/immutable/chunks/Loader-8dbce6b5.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_PokemonIcon-46d53d0f.js"
     ]
   },
-  "_Toggle-a5f2cc34.js": {
-    "file": "_app/immutable/chunks/Toggle-a5f2cc34.js",
+  "_Toggle-a66a7d70.js": {
+    "file": "_app/immutable/chunks/Toggle-a66a7d70.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
-  "_pokemon-card-8e45d7fc.js": {
-    "file": "_app/immutable/chunks/pokemon-card-8e45d7fc.js",
+  "_pokemon-card-871c9532.js": {
+    "file": "_app/immutable/chunks/pokemon-card-871c9532.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_index-a6285f15.js",
-      "_Tooltip-2f1ea7b1.js",
+      "_Tooltip-b728683a.js",
       "_PokemonIcon-46d53d0f.js",
-      "_type-badge-61128a96.js",
+      "_type-badge-7cdd78b9.js",
       "_chevron-up-71845f90.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js",
-      "_rewrites-bfe61a9d.js"
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js",
+      "_rewrites-957cdbe2.js"
     ],
     "css": [
       "_app/immutable/assets/Modal-eaff9403.css"
     ]
   },
-  "_types-eddd0d95.js": {
-    "file": "_app/immutable/chunks/types-eddd0d95.js",
+  "_types-1999664c.js": {
+    "file": "_app/immutable/chunks/types-1999664c.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_offline-functions-151b9441.js",
-      "_Tooltip-2f1ea7b1.js",
+      "_Tooltip-b728683a.js",
       "_PokemonIcon-46d53d0f.js",
-      "_type-badge-61128a96.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js"
+      "_type-badge-7cdd78b9.js",
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js"
     ],
     "css": [
       "_app/immutable/assets/Modal-eaff9403.css"
     ]
   },
-  "_badges-fe1fb681.js": {
-    "file": "_app/immutable/chunks/badges-fe1fb681.js",
+  "_badges-54a8f22e.js": {
+    "file": "_app/immutable/chunks/badges-54a8f22e.js",
     "imports": [
       "_pokemon-7fbc8930.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
-  "_type-badge-61128a96.js": {
-    "file": "_app/immutable/chunks/type-badge-61128a96.js",
+  "_type-badge-7cdd78b9.js": {
+    "file": "_app/immutable/chunks/type-badge-7cdd78b9.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ],
     "css": [
       "_app/immutable/assets/Modal-eaff9403.css",
       "_app/immutable/assets/type-badge-0a02a570.css"
     ]
   },
-  "_type-logo.svelte_svelte_type_style_lang-e2391585.js": {
-    "file": "_app/immutable/chunks/type-logo.svelte_svelte_type_style_lang-e2391585.js",
+  "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js": {
+    "file": "_app/immutable/chunks/type-logo.svelte_svelte_type_style_lang-1cf41f76.js",
     "imports": [
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ],
     "css": [
       "_app/immutable/assets/type-logo-7b23c434.css"
@@ -742,33 +743,33 @@
   "_arrow-right-9e7b961c.js": {
     "file": "_app/immutable/chunks/arrow-right-9e7b961c.js"
   },
-  "_Tabs-be905aa9.js": {
-    "file": "_app/immutable/chunks/Tabs-be905aa9.js",
+  "_Tabs-15ccb955.js": {
+    "file": "_app/immutable/chunks/Tabs-15ccb955.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
   "_arr-dbb10c78.js": {
     "file": "_app/immutable/chunks/arr-dbb10c78.js"
   },
-  "_gym-card-df90947f.js": {
-    "file": "_app/immutable/chunks/gym-card-df90947f.js",
+  "_gym-card-b502ac70.js": {
+    "file": "_app/immutable/chunks/gym-card-b502ac70.js",
     "imports": [
       "_preload-helper-9b728935.js",
       "_index-f31bb8e3.js",
       "_index-a6285f15.js",
-      "_pokemon-card-8e45d7fc.js",
-      "_type-badge-61128a96.js",
-      "_rewrites-bfe61a9d.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_IconButton-fdbdd850.js",
+      "_pokemon-card-871c9532.js",
+      "_type-badge-7cdd78b9.js",
+      "_rewrites-957cdbe2.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_IconButton-2964e789.js",
       "_chevron-up-71845f90.js",
-      "_Tooltip-2f1ea7b1.js",
+      "_Tooltip-b728683a.js",
       "_PokemonIcon-46d53d0f.js",
-      "_Picture-5eee1691.js",
+      "_Picture-d5951a3e.js",
       "_Effect.svelte_svelte_type_style_lang-12918d28.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js"
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js"
     ],
     "dynamicImports": [
       "src/lib/components/ProgressModal.svelte"
@@ -786,20 +787,20 @@
       "_app/immutable/assets/Effect-e438f28f.css"
     ]
   },
-  "_Input-e01b3331.js": {
-    "file": "_app/immutable/chunks/Input-e01b3331.js",
+  "_Input-22fa2e57.js": {
+    "file": "_app/immutable/chunks/Input-22fa2e57.js",
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_chevron-up-71845f90.js",
       "_index-a6285f15.js",
       "_PokemonIcon-46d53d0f.js"
     ]
   },
-  "_prose-03dd7372.js": {
-    "file": "_app/immutable/chunks/prose-03dd7372.js",
+  "_prose-4690541e.js": {
+    "file": "_app/immutable/chunks/prose-4690541e.js",
     "imports": [
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
   "_ScreenContainer-f4f7ee56.js": {
@@ -813,30 +814,30 @@
   "_dice-multiple-outline-d0520c68.js": {
     "file": "_app/immutable/chunks/dice-multiple-outline-d0520c68.js"
   },
-  "_Radio-0357228d.js": {
-    "file": "_app/immutable/chunks/Radio-0357228d.js",
+  "_Radio-25a1ea18.js": {
+    "file": "_app/immutable/chunks/Radio-25a1ea18.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
   "__page-2f6bebf0.js": {
     "file": "_app/immutable/chunks/_page-2f6bebf0.js"
   },
-  "__page-861147a4.js": {
-    "file": "_app/immutable/chunks/_page-861147a4.js",
+  "__page-0885a2a4.js": {
+    "file": "_app/immutable/chunks/_page-0885a2a4.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_index-a6285f15.js",
       "_preload-helper-9b728935.js",
-      "_IconButton-fdbdd850.js",
+      "_IconButton-2964e789.js",
       "_PokemonIcon-46d53d0f.js",
-      "_Logo-4eaa6903.js",
+      "_Logo-85af2448.js",
       "_offline-functions-151b9441.js",
-      "_Button-62558b05.js",
+      "_Button-a10247ce.js",
       "_ScreenContainer-f4f7ee56.js",
       "_PixelatedContainer-33911f79.js",
       "_Modal-c1113219.js"
@@ -852,17 +853,17 @@
   "__page-aaf0b1bb.js": {
     "file": "_app/immutable/chunks/_page-aaf0b1bb.js"
   },
-  "_index-4e3ac472.js": {
-    "file": "_app/immutable/chunks/index-4e3ac472.js",
+  "_index-ff755a09.js": {
+    "file": "_app/immutable/chunks/index-ff755a09.js",
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
-      "_theme-toggle-737d7806.js",
+      "_theme-toggle-80539b9c.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_Logo-4eaa6903.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_Logo-85af2448.js",
       "_offline-functions-151b9441.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js",
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js",
       "_Effect.svelte_svelte_type_style_lang-12918d28.js"
     ],
     "css": [
@@ -884,7 +885,7 @@
     "file": "_app/immutable/chunks/pako.esm-4d43ed14.js"
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-5c6aa099.js",
+    "file": "_app/immutable/chunks/0-98a6962b.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -901,7 +902,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-7092e34c.js",
+    "file": "_app/immutable/chunks/2-7bc6fcb9.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
@@ -909,7 +910,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-37f65e85.js",
+    "file": "_app/immutable/chunks/3-69aad2f0.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
@@ -917,7 +918,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-c23b31fa.js",
+    "file": "_app/immutable/chunks/4-89d59ce9.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -926,7 +927,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/5.js": {
-    "file": "_app/immutable/chunks/5-33dc079e.js",
+    "file": "_app/immutable/chunks/5-7f6c64bf.js",
     "src": ".svelte-kit/generated/nodes/5.js",
     "isDynamicEntry": true,
     "imports": [
@@ -934,7 +935,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/6.js": {
-    "file": "_app/immutable/chunks/6-86756156.js",
+    "file": "_app/immutable/chunks/6-373c223f.js",
     "src": ".svelte-kit/generated/nodes/6.js",
     "isDynamicEntry": true,
     "imports": [
@@ -943,7 +944,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/7.js": {
-    "file": "_app/immutable/chunks/7-8f2fe5cd.js",
+    "file": "_app/immutable/chunks/7-f241749c.js",
     "src": ".svelte-kit/generated/nodes/7.js",
     "isDynamicEntry": true,
     "imports": [
@@ -951,7 +952,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/8.js": {
-    "file": "_app/immutable/chunks/8-b579a54b.js",
+    "file": "_app/immutable/chunks/8-dcc6de0e.js",
     "src": ".svelte-kit/generated/nodes/8.js",
     "isDynamicEntry": true,
     "imports": [
@@ -959,7 +960,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/9.js": {
-    "file": "_app/immutable/chunks/9-d4887a2c.js",
+    "file": "_app/immutable/chunks/9-848dc383.js",
     "src": ".svelte-kit/generated/nodes/9.js",
     "isDynamicEntry": true,
     "imports": [
@@ -976,16 +977,16 @@
     ]
   },
   ".svelte-kit/generated/nodes/11.js": {
-    "file": "_app/immutable/chunks/11-6aa74637.js",
+    "file": "_app/immutable/chunks/11-db0f7c74.js",
     "src": ".svelte-kit/generated/nodes/11.js",
     "isDynamicEntry": true,
     "imports": [
       "__page-aaf0b1bb.js",
-      "__page-861147a4.js"
+      "__page-0885a2a4.js"
     ]
   },
   ".svelte-kit/generated/nodes/12.js": {
-    "file": "_app/immutable/chunks/12-56717dfd.js",
+    "file": "_app/immutable/chunks/12-1881c10a.js",
     "src": ".svelte-kit/generated/nodes/12.js",
     "isDynamicEntry": true,
     "imports": [
@@ -994,7 +995,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/13.js": {
-    "file": "_app/immutable/chunks/13-b53a0a6e.js",
+    "file": "_app/immutable/chunks/13-54382b0d.js",
     "src": ".svelte-kit/generated/nodes/13.js",
     "isDynamicEntry": true,
     "imports": [
@@ -1002,7 +1003,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/14.js": {
-    "file": "_app/immutable/chunks/14-5af12b8c.js",
+    "file": "_app/immutable/chunks/14-f817d169.js",
     "src": ".svelte-kit/generated/nodes/14.js",
     "isDynamicEntry": true,
     "imports": [
@@ -1022,16 +1023,16 @@
     "file": "_app/immutable/chunks/popper-845c7edd.js"
   },
   "src/lib/components/TeamBuilder/modal.svelte": {
-    "file": "_app/immutable/chunks/modal-e6f51d4e.js",
+    "file": "_app/immutable/chunks/modal-05dcb640.js",
     "src": "src/lib/components/TeamBuilder/modal.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_close-fill-1a5354ca.js",
       "_offline-functions-151b9441.js",
-      "_Button-62558b05.js",
-      "_IconButton-fdbdd850.js",
+      "_Button-a10247ce.js",
+      "_IconButton-2964e789.js",
       "_PokemonIcon-46d53d0f.js"
     ],
     "css": [
@@ -1039,7 +1040,7 @@
     ]
   },
   "src/lib/components/particles/index.js": {
-    "file": "_app/immutable/chunks/index-1bd558a8.js",
+    "file": "_app/immutable/chunks/index-6967ff4c.js",
     "src": "src/lib/components/particles/index.js",
     "isDynamicEntry": true,
     "imports": [
@@ -1049,30 +1050,30 @@
       "_index-a6285f15.js",
       "_PokemonIcon-46d53d0f.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js"
     ]
   },
   "src/lib/components/DeathModal/index.svelte": {
-    "file": "_app/immutable/chunks/index-b5ba8034.js",
+    "file": "_app/immutable/chunks/index-113bdbe7.js",
     "src": "src/lib/components/DeathModal/index.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_offline-functions-151b9441.js",
-      "_Button-62558b05.js",
-      "_Tabs-be905aa9.js",
-      "_Input-e01b3331.js",
+      "_Button-a10247ce.js",
+      "_Tabs-15ccb955.js",
+      "_Input-22fa2e57.js",
       "_index-a6285f15.js",
-      "_fetchers-46669fe1.js",
+      "_fetchers-9392604e.js",
       "_games-662c58df.js",
       "_PokemonIcon-46d53d0f.js",
-      "_Picture-5eee1691.js",
-      "_type-badge-61128a96.js",
-      "_prose-03dd7372.js",
+      "_Picture-d5951a3e.js",
+      "_type-badge-7cdd78b9.js",
+      "_prose-4690541e.js",
       "_dice-multiple-outline-d0520c68.js",
       "_pencil-simple-6d637067.js",
-      "_IconButton-fdbdd850.js",
+      "_IconButton-2964e789.js",
       "_close-fill-1a5354ca.js"
     ],
     "css": [
@@ -1080,12 +1081,12 @@
     ]
   },
   "src/lib/components/EvolutionModal.svelte": {
-    "file": "_app/immutable/chunks/EvolutionModal-337cecf3.js",
+    "file": "_app/immutable/chunks/EvolutionModal-fd1521ee.js",
     "src": "src/lib/components/EvolutionModal.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_PokemonIcon-46d53d0f.js",
       "_index-a6285f15.js"
     ],
@@ -1102,72 +1103,72 @@
     ]
   },
   "src/lib/components/Settings/index.js": {
-    "file": "_app/immutable/chunks/index-fbe6daaf.js",
+    "file": "_app/immutable/chunks/index-2d2c062f.js",
     "src": "src/lib/components/Settings/index.js",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_close-fill-1a5354ca.js",
-      "_link-930b8cdc.js",
+      "_link-3d0e77da.js",
       "_index-a6285f15.js",
-      "_Button-62558b05.js",
-      "_IconButton-fdbdd850.js",
-      "_Radio-0357228d.js",
-      "_Toggle-a5f2cc34.js",
+      "_Button-a10247ce.js",
+      "_IconButton-2964e789.js",
+      "_Radio-25a1ea18.js",
+      "_Toggle-a66a7d70.js",
       "_PokemonIcon-46d53d0f.js",
-      "_type-badge-61128a96.js"
+      "_type-badge-7cdd78b9.js"
     ],
     "css": [
       "_app/immutable/assets/Modal-eaff9403.css"
     ]
   },
   "src/lib/components/Analysis/index.svelte": {
-    "file": "_app/immutable/chunks/index-757f3d75.js",
+    "file": "_app/immutable/chunks/index-bcbda60b.js",
     "src": "src/lib/components/Analysis/index.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_index-8c84708e.js",
       "_index-a6285f15.js",
-      "_type-badge-61128a96.js",
+      "_type-badge-7cdd78b9.js",
       "src/routes/(app)/box/+page.svelte",
       "_preload-helper-9b728935.js",
       "_close-fill-1a5354ca.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_IconButton-fdbdd850.js"
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_IconButton-2964e789.js"
     ],
     "dynamicImports": [
       "src/lib/components/particles/index.js"
     ]
   },
   "src/lib/components/ProgressModal.svelte": {
-    "file": "_app/immutable/chunks/ProgressModal-fef32f9e.js",
+    "file": "_app/immutable/chunks/ProgressModal-446b8f06.js",
     "src": "src/lib/components/ProgressModal.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_close-fill-1a5354ca.js",
       "_offline-functions-151b9441.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
-      "_Button-62558b05.js",
-      "_IconButton-fdbdd850.js",
-      "_Tabs-be905aa9.js",
-      "_Loader-eb479f8b.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
+      "_Button-a10247ce.js",
+      "_IconButton-2964e789.js",
+      "_Tabs-15ccb955.js",
+      "_Loader-8dbce6b5.js",
       "_math-minus-b1a09aa0.js",
       "_math-plus-05faf72d.js",
       "_index-a6285f15.js",
-      "_gym-card-df90947f.js",
-      "_Tooltip-2f1ea7b1.js",
+      "_gym-card-b502ac70.js",
+      "_Tooltip-b728683a.js",
       "_pokemon-7fbc8930.js",
-      "_pokemon-card-8e45d7fc.js",
+      "_pokemon-card-871c9532.js",
       "_PokemonIcon-46d53d0f.js",
-      "_type-badge-61128a96.js",
-      "_rewrites-bfe61a9d.js",
+      "_type-badge-7cdd78b9.js",
+      "_rewrites-957cdbe2.js",
       "_Effect.svelte_svelte_type_style_lang-12918d28.js",
-      "_types-eddd0d95.js",
-      "_type-logo.svelte_svelte_type_style_lang-e2391585.js",
+      "_types-1999664c.js",
+      "_type-logo.svelte_svelte_type_style_lang-1cf41f76.js",
       "_arrow-right-9e7b961c.js",
       "_arr-dbb10c78.js",
       "_defer-styles-c8c5a209.js",
@@ -1179,37 +1180,37 @@
     ]
   },
   "src/lib/components/qr/ShareModal.svelte": {
-    "file": "_app/immutable/chunks/ShareModal-5a6ae392.js",
+    "file": "_app/immutable/chunks/ShareModal-d5a3fa00.js",
     "src": "src/lib/components/qr/ShareModal.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_pako.esm-4d43ed14.js",
-      "_rewrites-bfe61a9d.js",
+      "_rewrites-957cdbe2.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_stores-e40578c8.js",
-      "__page-861147a4.js",
-      "_Button-62558b05.js"
+      "__page-0885a2a4.js",
+      "_Button-a10247ce.js"
     ],
     "css": [
       "_app/immutable/assets/ShareModal-29e4e1da.css"
     ]
   },
   "src/lib/components/qr/ImportModal.svelte": {
-    "file": "_app/immutable/chunks/ImportModal-edb4325a.js",
+    "file": "_app/immutable/chunks/ImportModal-e4fb300c.js",
     "src": "src/lib/components/qr/ImportModal.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_index-f31bb8e3.js",
       "_paths-d5ba211e.js",
       "_index-a6285f15.js",
-      "_Logo.svelte_svelte_type_style_lang-f96bd4aa.js",
+      "_Logo.svelte_svelte_type_style_lang-8c311d2d.js",
       "_Modal-c1113219.js",
       "_close-fill-1a5354ca.js",
-      "__page-861147a4.js",
-      "_IconButton-fdbdd850.js",
-      "_Loader-eb479f8b.js"
+      "__page-0885a2a4.js",
+      "_IconButton-2964e789.js",
+      "_Loader-8dbce6b5.js"
     ],
     "css": [
       "_app/immutable/assets/ImportModal-0b63d8bd.css"
@@ -1219,93 +1220,93 @@
     "file": "_app/immutable/assets/_layout-bc12ee65.css",
     "src": "src/routes/+layout.css"
   },
-  "src/lib/components/qr/ShareModal.css": {
-    "file": "_app/immutable/assets/ShareModal-29e4e1da.css",
-    "src": "src/lib/components/qr/ShareModal.css"
-  },
-  "src/routes/(app)/credit/+page.css": {
-    "file": "_app/immutable/assets/_page-9a8e7e1c.css",
-    "src": "src/routes/(app)/credit/+page.css"
-  },
-  "node_modules/tippy.js/dist/tippy.css": {
-    "file": "_app/immutable/assets/tippy-8c3139fb.css",
-    "src": "node_modules/tippy.js/dist/tippy.css"
-  },
-  "Logo.css": {
-    "file": "_app/immutable/assets/Logo-3d252215.css",
-    "src": "Logo.css"
-  },
-  "src/routes/(app)/+page.css": {
-    "file": "_app/immutable/assets/_page-b7865c5c.css",
-    "src": "src/routes/(app)/+page.css"
-  },
-  "Effect.css": {
-    "file": "_app/immutable/assets/Effect-e438f28f.css",
-    "src": "Effect.css"
-  },
-  "src/routes/(guides)/guides/+page.css": {
-    "file": "_app/immutable/assets/_page-13b5131a.css",
-    "src": "src/routes/(guides)/guides/+page.css"
-  },
-  "src/routes/(app)/box/+page.css": {
-    "file": "_app/immutable/assets/_page-c179a3d4.css",
-    "src": "src/routes/(app)/box/+page.css"
-  },
-  "src/routes/(guides)/+layout.css": {
-    "file": "_app/immutable/assets/_layout-bbd2a0ba.css",
-    "src": "src/routes/(guides)/+layout.css"
-  },
-  "Footer.css": {
-    "file": "_app/immutable/assets/Footer-b494e10a.css",
-    "src": "Footer.css"
-  },
-  "type-logo.css": {
-    "file": "_app/immutable/assets/type-logo-7b23c434.css",
-    "src": "type-logo.css"
-  },
-  "src/lib/components/EvolutionModal.css": {
-    "file": "_app/immutable/assets/EvolutionModal-4bd4397c.css",
-    "src": "src/lib/components/EvolutionModal.css"
-  },
   "Modal.css": {
-    "file": "_app/immutable/assets/Modal-14e37787.css",
+    "file": "_app/immutable/assets/Modal-eaff9403.css",
     "src": "Modal.css"
   },
-  "src/lib/components/qr/ImportModal.css": {
-    "file": "_app/immutable/assets/ImportModal-0b63d8bd.css",
-    "src": "src/lib/components/qr/ImportModal.css"
-  },
-  "PixelatedContainer.css": {
-    "file": "_app/immutable/assets/PixelatedContainer-e9650e87.css",
-    "src": "PixelatedContainer.css"
+  "src/routes/(app)/graveyard/+page.css": {
+    "file": "_app/immutable/assets/_page-bf8abf52.css",
+    "src": "src/routes/(app)/graveyard/+page.css"
   },
   "src/routes/+error.css": {
     "file": "_app/immutable/assets/_error-7cc29271.css",
     "src": "src/routes/+error.css"
   },
-  "src/lib/components/DeathModal/index.css": {
-    "file": "_app/immutable/assets/index-2131f0f4.css",
-    "src": "src/lib/components/DeathModal/index.css"
+  "src/routes/(app)/box/+page.css": {
+    "file": "_app/immutable/assets/_page-c179a3d4.css",
+    "src": "src/routes/(app)/box/+page.css"
   },
-  "src/routes/(app)/privacy-policy/+page.css": {
-    "file": "_app/immutable/assets/_page-5c053118.css",
-    "src": "src/routes/(app)/privacy-policy/+page.css"
-  },
-  "index.css": {
-    "file": "_app/immutable/assets/index-20ce5f01.css",
-    "src": "index.css"
+  "type-logo.css": {
+    "file": "_app/immutable/assets/type-logo-7b23c434.css",
+    "src": "type-logo.css"
   },
   "type-badge.css": {
     "file": "_app/immutable/assets/type-badge-0a02a570.css",
     "src": "type-badge.css"
   },
+  "index.css": {
+    "file": "_app/immutable/assets/index-20ce5f01.css",
+    "src": "index.css"
+  },
+  "src/routes/(guides)/guides/+page.css": {
+    "file": "_app/immutable/assets/_page-13b5131a.css",
+    "src": "src/routes/(guides)/guides/+page.css"
+  },
+  "PixelatedContainer.css": {
+    "file": "_app/immutable/assets/PixelatedContainer-e9650e87.css",
+    "src": "PixelatedContainer.css"
+  },
+  "src/routes/(app)/credit/+page.css": {
+    "file": "_app/immutable/assets/_page-9a8e7e1c.css",
+    "src": "src/routes/(app)/credit/+page.css"
+  },
+  "Logo.css": {
+    "file": "_app/immutable/assets/Logo-3d252215.css",
+    "src": "Logo.css"
+  },
+  "src/lib/components/EvolutionModal.css": {
+    "file": "_app/immutable/assets/EvolutionModal-4bd4397c.css",
+    "src": "src/lib/components/EvolutionModal.css"
+  },
+  "Effect.css": {
+    "file": "_app/immutable/assets/Effect-e438f28f.css",
+    "src": "Effect.css"
+  },
+  "src/lib/components/DeathModal/index.css": {
+    "file": "_app/immutable/assets/index-2131f0f4.css",
+    "src": "src/lib/components/DeathModal/index.css"
+  },
+  "src/routes/(app)/+page.css": {
+    "file": "_app/immutable/assets/_page-b7865c5c.css",
+    "src": "src/routes/(app)/+page.css"
+  },
+  "Footer.css": {
+    "file": "_app/immutable/assets/Footer-b494e10a.css",
+    "src": "Footer.css"
+  },
+  "src/routes/(app)/privacy-policy/+page.css": {
+    "file": "_app/immutable/assets/_page-5c053118.css",
+    "src": "src/routes/(app)/privacy-policy/+page.css"
+  },
+  "src/routes/(guides)/+layout.css": {
+    "file": "_app/immutable/assets/_layout-bbd2a0ba.css",
+    "src": "src/routes/(guides)/+layout.css"
+  },
+  "src/lib/components/qr/ShareModal.css": {
+    "file": "_app/immutable/assets/ShareModal-29e4e1da.css",
+    "src": "src/lib/components/qr/ShareModal.css"
+  },
+  "src/lib/components/qr/ImportModal.css": {
+    "file": "_app/immutable/assets/ImportModal-0b63d8bd.css",
+    "src": "src/lib/components/qr/ImportModal.css"
+  },
+  "node_modules/tippy.js/dist/tippy.css": {
+    "file": "_app/immutable/assets/tippy-8c3139fb.css",
+    "src": "node_modules/tippy.js/dist/tippy.css"
+  },
   "src/routes/(app)/game/+page.css": {
     "file": "_app/immutable/assets/_page-05e5252b.css",
     "src": "src/routes/(app)/game/+page.css"
-  },
-  "src/routes/(app)/graveyard/+page.css": {
-    "file": "_app/immutable/assets/_page-bf8abf52.css",
-    "src": "src/routes/(app)/graveyard/+page.css"
   },
   "src/routes/(guides)/guides/[game]/+page.css": {
     "file": "_app/immutable/assets/_page-2b848b72.css",

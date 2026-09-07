@@ -14,7 +14,7 @@
 
   const onnew = () => {
     savedGames.update(createGame(title + ' Nuzlocke', pid))
-    window.location = '/game'
+    window.location = `${base}/game`
   }
 </script>
 

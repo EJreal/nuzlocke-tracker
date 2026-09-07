@@ -88,7 +88,7 @@
     new Promise((resolve) => {
       console.time('setup')
       const [, key, id] = readdata()
-      if (browser && !id) return (window.location = '/')
+      if (browser && !id) return (window.location = `${base}/`)
 
       gameStore = getGameStore(id)
       gameKey = key

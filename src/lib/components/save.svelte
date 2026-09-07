@@ -20,6 +20,7 @@
     summarise,
     IDS
   } from '$lib/store'
+  import { base } from '$app/paths'
   import day from '$lib/utils/date'
 
   import { NuzlockeStates } from '$lib/data/states'
@@ -48,7 +49,7 @@
   const ondelete = (_) => deleteGame(id)
   const onclick = (_) => {
     activeGame.set(id)
-    window.location = '/game'
+    window.location = `${base}/game`
   }
 
   let downloadAnchor

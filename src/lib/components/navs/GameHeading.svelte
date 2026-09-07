@@ -58,9 +58,9 @@
   import { Box, Save, Game, Grave, Caret, CaretRight, Dots } from '$icons'
 
   const pages = [
-    { name: 'Game', link: '/game', icon: Game },
-    { name: 'Box', link: '/box', icon: Box },
-    { name: 'Grave', link: '/graveyard', icon: Grave }
+    { name: 'Game', link: `${base}/game`, icon: Game },
+    { name: 'Box', link: `${base}/box`, icon: Box },
+    { name: 'Grave', link: `${base}/graveyard`, icon: Grave }
   ]
 </script>
 
@@ -159,7 +159,7 @@
       {/if}
     </div>
 
-    {#if $page.url.pathname !== '/graveyard'}<MiniTeamController />{/if}
+    {#if $page.url.pathname !== `${base}/graveyard`}<MiniTeamController />{/if}
 
     <span class="relative inline-flex">
       <ThemeToggle />

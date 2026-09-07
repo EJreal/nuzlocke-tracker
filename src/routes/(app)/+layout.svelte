@@ -1,5 +1,6 @@
 <script>
   import { browser, dev } from '$app/environment'
+  import { base } from '$app/paths'
   import { setContext, afterUpdate } from 'svelte'
 
   import { page } from '$app/stores'
@@ -74,7 +75,7 @@
   classWindow="!bg-transparent"
   classContent="!p-0 !overflow-visible"
 >
-  {#if ['/game', '/box', '/graveyard'].includes(path)}
+  {#if [`${base}/game`, `${base}/box`, `${base}/graveyard`].includes(path)}
     <GameHeading />
   {:else}
     <NavHeading />

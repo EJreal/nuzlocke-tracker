@@ -190,7 +190,7 @@ export const readBox = (data) => {
 
 export const getBox = (cb = () => {}) =>
   activeGame.subscribe((gameId) => {
-    if (browser && !gameId) return (window.location = '/')
+    if (browser && !gameId) return (window.location = `${base}/`)
 
     getGameStore(gameId).subscribe(read((data) => cb(readBox(data))))
   })
