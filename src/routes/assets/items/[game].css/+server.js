@@ -1,5 +1,7 @@
 import minifiedItems from '../_data.js';
 
+export const prerender = true;
+
 import { Expanded as games} from '$lib/data/games.js';
 import leagues from '$lib/data/league.json';
 import patches from '$lib/data/patches.json';

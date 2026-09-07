@@ -1,5 +1,8 @@
 import Clean from 'clean-css'
 
+export const prerender = true
+
+
 import badges from './_badges.css'
 import blazingem from './_pokemon-blazingem.css'
 import radicalred from './_pokemon-radicalred.css'
