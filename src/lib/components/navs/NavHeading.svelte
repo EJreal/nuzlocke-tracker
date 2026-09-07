@@ -1,5 +1,6 @@
 <script>
   import { page } from '$app/stores'
+  import { base } from '$app/paths'
 
   import Icon from '@iconify/svelte/dist/OfflineIcon.svelte'
   import { Home } from '$icons'
@@ -11,9 +12,9 @@
 
 <nav>
   <div class=p-container>
-    {#if $page.url.pathname !== '/'}
+    {#if $page.url.pathname !== `${base}/`}
       <a
-        href=/
+        href="{base}/"
         rel=external
         aria-label=Home
         >

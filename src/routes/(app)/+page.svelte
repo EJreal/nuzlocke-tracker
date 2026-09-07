@@ -29,9 +29,9 @@
     active = {},
     summary = {}
   let links = [
-    { title: 'New Game', href: '/new', color: 'blue' },
-    { title: 'Load Game', href: '/saves', color: 'pink' },
-    { title: 'Guides', href: '/guides', color: 'green' }
+    { title: 'New Game', href: `${base}/new`, color: 'blue' },
+    { title: 'Load Game', href: `${base}/saves`, color: 'pink' },
+    { title: 'Guides', href: `${base}/guides`, color: 'green' }
   ]
 
   onMount(() => {
@@ -48,7 +48,7 @@
       links = [
         {
           title: 'Continue',
-          href: '/game',
+          href: `${base}/game`,
           color: 'yellow',
           aria: 'Continue game: ' + active.name
         },
