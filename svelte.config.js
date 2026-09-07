@@ -40,6 +40,16 @@ const getEntries = () => {
             entries.push(`/api/route/generate/${gen}.json`);
         }
         
+        entries.push('/assets/items.css');
+        entries.push('/assets/badges.css');
+        entries.push('/assets/pokemon.css');
+        entries.push('/assets/pokemon-blazingem.css');
+        entries.push('/assets/pokemon-radicalred.css');
+        
+        for (const gameKey of Object.keys(games)) {
+            entries.push(`/assets/items/${gameKey}.css`);
+        }
+        
         return entries;
     } catch (e) {
         console.error("Error generating entries:", e);

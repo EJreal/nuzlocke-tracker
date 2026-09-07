@@ -10,7 +10,7 @@ export const CUSTOM = 'https://img.nuzlocke.app/sprites'
 export const IMG = `${base}/assets/img`
 export const SHARE = 'https://share.nuzlocke.app'
 
-export const DATA = rewrite ? '/api' : '/api' // Load locally for development
+export const DATA = rewrite ? `${base}/api` : `${base}/api` // Load locally for development
 
 export const QRCODE = rewrite
   ? `${base}/assets/js/qrcode.min.js`
