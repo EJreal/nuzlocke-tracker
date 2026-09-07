@@ -1,15 +1,18 @@
+import { base } from '$app/paths'
 const loaded = {}
 
 export default (src) => {
-  if (loaded[src]) return
-  loaded[src] = true
+  const fullSrc = src.startsWith('/') ? `${base}${src}` : src;
 
-  if (document.createStyleSheet) document.createStyleSheet(src)
+  if (loaded[fullSrc]) return
+  loaded[fullSrc] = true
+
+  if (document.createStyleSheet) document.createStyleSheet(fullSrc)
   else {
     const [head] = document.getElementsByTagName('head')
     const link = document.createElement('link')
     link.rel = 'stylesheet'
-    link.href = src
+    link.href = fullSrc
     head.appendChild(link)
   }
 }

@@ -12,6 +12,7 @@ import {
 import { slugify } from '$lib/utils/string'
 import { compose, evolve, map, path, pick, prop } from 'ramda'
 
+
 const titleCase = (str) =>
   str
     .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)

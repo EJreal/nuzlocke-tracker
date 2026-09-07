@@ -5,6 +5,8 @@ import Pokemon from '../../../pokemon.json/_data.js';
 
 import { normalise } from '$lib/utils/string'
 
+export const prerender = true;
+
 enum RouteType {
     route = 'route',
     gym = 'gym'

@@ -3,6 +3,8 @@ import { Expanded as games } from '$lib/data/games.js';
 
 const ALL = 'all'
 
+export const prerender = true;
+
 export async function GET({ params }) {
   const game = games[params.game]
 

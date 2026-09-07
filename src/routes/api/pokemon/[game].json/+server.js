@@ -8,6 +8,8 @@ import Pokemon, { filterdata, sumObj } from '../../pokemon.json/_data.js'
 
 const base = filterdata(Pokemon)
 
+export const prerender = true;
+
 const patchTypes = (pkmn, typeMap) => {
   if (!typeMap) return pkmn
   return pkmn.map((p) => {
