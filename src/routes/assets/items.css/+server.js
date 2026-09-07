@@ -1,5 +1,7 @@
 import items from '../items/_data.js';
 
+export const prerender = true;
+
 const extract = (id, str) => {
   try {
     const re = new RegExp(`\\.pk(item|m)-${id}{.*?}`);
@@ -11,7 +13,16 @@ const extract = (id, str) => {
 };
 
 export async function GET({ url }) {
-  if (!url.searchParams.get('i'))
+  let queryI = null;
+  try {
+    queryI = url.searchParams.get('i');
+  } catch (e) {
+    // SvelteKit throws an error when accessing searchParams during prerendering.
+    // Fallback to returning the full CSS for static builds.
+    queryI = null;
+  }
+
+  if (!queryI) {
     return new Response(items, {
       status: 200,
       headers: {
@@ -19,8 +30,9 @@ export async function GET({ url }) {
         'Content-Type': 'text/css'
       }
     });
+  }
 
-  const ilist = url.searchParams.get('i').split(',');
+  const ilist = queryI.split(',');
   const criticalCss = ilist.reduce((acc, it) => acc + extract(it, items), '');
 
   return new Response(criticalCss, {
