@@ -1219,73 +1219,73 @@
     "file": "_app/immutable/assets/_layout-bc12ee65.css",
     "src": "src/routes/+layout.css"
   },
-  "Modal.css": {
-    "file": "_app/immutable/assets/Modal-14e37787.css",
-    "src": "Modal.css"
-  },
-  "src/routes/(guides)/guides/+page.css": {
-    "file": "_app/immutable/assets/_page-13b5131a.css",
-    "src": "src/routes/(guides)/guides/+page.css"
-  },
-  "src/routes/(guides)/+layout.css": {
-    "file": "_app/immutable/assets/_layout-bbd2a0ba.css",
-    "src": "src/routes/(guides)/+layout.css"
+  "src/lib/components/qr/ShareModal.css": {
+    "file": "_app/immutable/assets/ShareModal-29e4e1da.css",
+    "src": "src/lib/components/qr/ShareModal.css"
   },
   "src/routes/(app)/credit/+page.css": {
     "file": "_app/immutable/assets/_page-9a8e7e1c.css",
     "src": "src/routes/(app)/credit/+page.css"
   },
-  "type-badge.css": {
-    "file": "_app/immutable/assets/type-badge-0a02a570.css",
-    "src": "type-badge.css"
-  },
-  "src/lib/components/DeathModal/index.css": {
-    "file": "_app/immutable/assets/index-2131f0f4.css",
-    "src": "src/lib/components/DeathModal/index.css"
-  },
-  "type-logo.css": {
-    "file": "_app/immutable/assets/type-logo-7b23c434.css",
-    "src": "type-logo.css"
-  },
   "node_modules/tippy.js/dist/tippy.css": {
     "file": "_app/immutable/assets/tippy-8c3139fb.css",
     "src": "node_modules/tippy.js/dist/tippy.css"
-  },
-  "Footer.css": {
-    "file": "_app/immutable/assets/Footer-b494e10a.css",
-    "src": "Footer.css"
-  },
-  "src/lib/components/EvolutionModal.css": {
-    "file": "_app/immutable/assets/EvolutionModal-4bd4397c.css",
-    "src": "src/lib/components/EvolutionModal.css"
   },
   "Logo.css": {
     "file": "_app/immutable/assets/Logo-3d252215.css",
     "src": "Logo.css"
   },
-  "src/routes/+error.css": {
-    "file": "_app/immutable/assets/_error-7cc29271.css",
-    "src": "src/routes/+error.css"
+  "src/routes/(app)/+page.css": {
+    "file": "_app/immutable/assets/_page-b7865c5c.css",
+    "src": "src/routes/(app)/+page.css"
+  },
+  "Effect.css": {
+    "file": "_app/immutable/assets/Effect-e438f28f.css",
+    "src": "Effect.css"
+  },
+  "src/routes/(guides)/guides/+page.css": {
+    "file": "_app/immutable/assets/_page-13b5131a.css",
+    "src": "src/routes/(guides)/guides/+page.css"
   },
   "src/routes/(app)/box/+page.css": {
     "file": "_app/immutable/assets/_page-c179a3d4.css",
     "src": "src/routes/(app)/box/+page.css"
   },
-  "src/lib/components/qr/ShareModal.css": {
-    "file": "_app/immutable/assets/ShareModal-29e4e1da.css",
-    "src": "src/lib/components/qr/ShareModal.css"
+  "src/routes/(guides)/+layout.css": {
+    "file": "_app/immutable/assets/_layout-bbd2a0ba.css",
+    "src": "src/routes/(guides)/+layout.css"
   },
-  "src/routes/(app)/graveyard/+page.css": {
-    "file": "_app/immutable/assets/_page-bf8abf52.css",
-    "src": "src/routes/(app)/graveyard/+page.css"
+  "Footer.css": {
+    "file": "_app/immutable/assets/Footer-b494e10a.css",
+    "src": "Footer.css"
   },
-  "src/routes/(app)/+page.css": {
-    "file": "_app/immutable/assets/_page-b7865c5c.css",
-    "src": "src/routes/(app)/+page.css"
+  "type-logo.css": {
+    "file": "_app/immutable/assets/type-logo-7b23c434.css",
+    "src": "type-logo.css"
+  },
+  "src/lib/components/EvolutionModal.css": {
+    "file": "_app/immutable/assets/EvolutionModal-4bd4397c.css",
+    "src": "src/lib/components/EvolutionModal.css"
+  },
+  "Modal.css": {
+    "file": "_app/immutable/assets/Modal-14e37787.css",
+    "src": "Modal.css"
+  },
+  "src/lib/components/qr/ImportModal.css": {
+    "file": "_app/immutable/assets/ImportModal-0b63d8bd.css",
+    "src": "src/lib/components/qr/ImportModal.css"
   },
   "PixelatedContainer.css": {
     "file": "_app/immutable/assets/PixelatedContainer-e9650e87.css",
     "src": "PixelatedContainer.css"
+  },
+  "src/routes/+error.css": {
+    "file": "_app/immutable/assets/_error-7cc29271.css",
+    "src": "src/routes/+error.css"
+  },
+  "src/lib/components/DeathModal/index.css": {
+    "file": "_app/immutable/assets/index-2131f0f4.css",
+    "src": "src/lib/components/DeathModal/index.css"
   },
   "src/routes/(app)/privacy-policy/+page.css": {
     "file": "_app/immutable/assets/_page-5c053118.css",
@@ -1295,17 +1295,17 @@
     "file": "_app/immutable/assets/index-20ce5f01.css",
     "src": "index.css"
   },
-  "Effect.css": {
-    "file": "_app/immutable/assets/Effect-e438f28f.css",
-    "src": "Effect.css"
-  },
-  "src/lib/components/qr/ImportModal.css": {
-    "file": "_app/immutable/assets/ImportModal-0b63d8bd.css",
-    "src": "src/lib/components/qr/ImportModal.css"
+  "type-badge.css": {
+    "file": "_app/immutable/assets/type-badge-0a02a570.css",
+    "src": "type-badge.css"
   },
   "src/routes/(app)/game/+page.css": {
     "file": "_app/immutable/assets/_page-05e5252b.css",
     "src": "src/routes/(app)/game/+page.css"
+  },
+  "src/routes/(app)/graveyard/+page.css": {
+    "file": "_app/immutable/assets/_page-bf8abf52.css",
+    "src": "src/routes/(app)/graveyard/+page.css"
   },
   "src/routes/(guides)/guides/[game]/+page.css": {
     "file": "_app/immutable/assets/_page-2b848b72.css",
