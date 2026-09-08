@@ -86,7 +86,6 @@
 
   const setup = () =>
     new Promise((resolve) => {
-      console.time('setup')
       const [, key, id] = readdata()
       if (browser && !id) return (window.location = `${base}/`)
 
@@ -94,13 +93,11 @@
       gameKey = key
 
       fetchRoute(Games[key].pid).then((r) => {
-        console.timeEnd('setup')
         resolve(r)
       })
 
       gameStore.subscribe(
         read((game) => {
-          console.timeLog('setup')
           gameData = game
         })
       )

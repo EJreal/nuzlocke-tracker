@@ -62,31 +62,31 @@ export const bossToImage = (bossData) => {
     ];
     for (const gc of genericClasses) {
       if (nameLower.includes(gc)) {
-        img = { src: `${base}/assets/img/leaders/${gc}` };
+        img = { src: `${base}/assets/img/leaders/${gc}`, webp: false };
         break;
       }
     }
     // Aliases for space-separated classes
     if (!img) {
-      if (nameLower.includes('ace trainer')) img = { src: `${base}/assets/img/leaders/acetrainer` };
-      else if (nameLower.includes('battle girl')) img = { src: `${base}/assets/img/leaders/battlegirl` };
-      else if (nameLower.includes('pkmn ranger') || nameLower.includes('pokémon ranger')) img = { src: `${base}/assets/img/leaders/acetrainer` };
-      else if (nameLower.includes('school kid')) img = { src: `${base}/assets/img/leaders/schoolkid` };
-      else if (nameLower.includes('parasol lady')) img = { src: `${base}/assets/img/leaders/parasollady` };
-      else if (nameLower.includes('pokéfan')) img = { src: `${base}/assets/img/leaders/pokefan` };
-      else if (nameLower.includes('black belt')) img = { src: `${base}/assets/img/leaders/blackbelt` };
-      else if (nameLower.includes('team plasma grunt')) img = { src: `${base}/assets/img/leaders/plasmagrunt` };
-      else if (nameLower.includes('pokémon breeder') || nameLower.includes('pokemon breeder') || nameLower.includes('pkmn breeder')) img = { src: `${base}/assets/img/leaders/pokemonbreeder` };
-      else if (nameLower.includes('backers')) img = { src: `${base}/assets/img/leaders/acetrainer` };
-      else if (nameLower.includes('game freak morimoto')) img = { src: `${base}/assets/img/leaders/veteran` };
-      else if (nameLower.includes('game freak nishino')) img = { src: `${base}/assets/img/leaders/hiker` };
-      else if (nameLower.includes('pokémon trainer rood') || nameLower.includes('pokemon trainer rood')) img = { src: `${base}/assets/img/leaders/sage` };
-      else if (nameLower.includes('cynthia')) img = { src: `${base}/assets/img/leaders/dp-cynthia` };
-      else if (nameLower.includes('depot agent')) img = { src: `${base}/assets/img/leaders/depotagent` };
-      else if (nameLower.includes('rich boy')) img = { src: `${base}/assets/img/leaders/richboy` };
-      else if (nameLower.includes('hooligans')) img = { src: `${base}/assets/img/leaders/hooligans` };
-      else if (nameLower.includes('socialite')) img = { src: `${base}/assets/img/leaders/lady` };
-      else if (nameLower.includes('team plasma shadow')) img = { src: `${base}/assets/img/leaders/blwh-shadow` };
+      if (nameLower.includes('ace trainer')) img = { src: `${base}/assets/img/leaders/acetrainer`, webp: false };
+      else if (nameLower.includes('battle girl')) img = { src: `${base}/assets/img/leaders/battlegirl`, webp: false };
+      else if (nameLower.includes('pkmn ranger') || nameLower.includes('pokémon ranger')) img = { src: `${base}/assets/img/leaders/acetrainer`, webp: false };
+      else if (nameLower.includes('school kid')) img = { src: `${base}/assets/img/leaders/schoolkid`, webp: false };
+      else if (nameLower.includes('parasol lady')) img = { src: `${base}/assets/img/leaders/parasollady`, webp: false };
+      else if (nameLower.includes('pokéfan')) img = { src: `${base}/assets/img/leaders/pokefan`, webp: false };
+      else if (nameLower.includes('black belt')) img = { src: `${base}/assets/img/leaders/blackbelt`, webp: false };
+      else if (nameLower.includes('team plasma grunt')) img = { src: `${base}/assets/img/leaders/plasmagrunt`, webp: false };
+      else if (nameLower.includes('pokémon breeder') || nameLower.includes('pokemon breeder') || nameLower.includes('pkmn breeder')) img = { src: `${base}/assets/img/leaders/pokemonbreeder`, webp: false };
+      else if (nameLower.includes('backers')) img = { src: `${base}/assets/img/leaders/acetrainer`, webp: false };
+      else if (nameLower.includes('game freak morimoto')) img = { src: `${base}/assets/img/leaders/veteran`, webp: false };
+      else if (nameLower.includes('game freak nishino')) img = { src: `${base}/assets/img/leaders/hiker`, webp: false };
+      else if (nameLower.includes('pokémon trainer rood') || nameLower.includes('pokemon trainer rood')) img = { src: `${base}/assets/img/leaders/sage`, webp: false };
+      else if (nameLower.includes('cynthia')) img = { src: `${base}/assets/img/leaders/dp-cynthia`, webp: false };
+      else if (nameLower.includes('depot agent')) img = { src: `${base}/assets/img/leaders/depotagent`, webp: false };
+      else if (nameLower.includes('rich boy')) img = { src: `${base}/assets/img/leaders/richboy`, webp: false };
+      else if (nameLower.includes('hooligans')) img = { src: `${base}/assets/img/leaders/hooligans`, webp: false };
+      else if (nameLower.includes('socialite')) img = { src: `${base}/assets/img/leaders/lady`, webp: false };
+      else if (nameLower.includes('team plasma shadow')) img = { src: `${base}/assets/img/leaders/blwh-shadow`, webp: false };
     }
   }
   

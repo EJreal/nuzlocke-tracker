@@ -20,6 +20,8 @@ const extract = (id, str) => {
   }
 };
 
+import { base } from '$app/paths';
+
 export async function GET({ params }) {
   const { game } = params;
 
@@ -43,8 +45,10 @@ export async function GET({ params }) {
     (acc, it) => acc + extract(it, minifiedItems),
     ''
   );
+  
+  const finalCss = criticalCss.replace(/null/g, '').replace(/\.\.\/img/g, `${base}/assets/img`);
 
-  return new Response(criticalCss.replace(/null/g, ''), {
+  return new Response(finalCss, {
     status: 200,
     headers: {
       'Cache-Control': 'public, max-age=31536000',

@@ -16,11 +16,15 @@ const resourceMap = {
   badges
 }
 
+import { base } from '$app/paths'
+
 export async function GET({ params }) {
   const { resource } = params
   if (!resourceMap[resource]) return
 
-  return new Response(clean.minify(resourceMap[resource]).styles, {
+  const cssContent = clean.minify(resourceMap[resource]).styles.replace(/\.\.\/img/g, `${base}/assets/img`)
+
+  return new Response(cssContent, {
     status: 200,
     headers: {
       'Cache-Control': 'public, max-age=31536000',

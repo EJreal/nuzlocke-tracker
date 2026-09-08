@@ -132,6 +132,7 @@
         <span class="relative -mx-5" class:grayscale={defeated}>
           <Picture
             src="{img.src}"
+            webp={img.webp !== false}
             alt={name}
             pixelated
             className="w-18 md:w-36"

@@ -121,6 +121,7 @@
     {#if league && (league[item.value].img?.src || league[item.value].img)}
       <Picture
         src={bossImage(league[item.value]).src}
+        webp={bossImage(league[item.value]).webp !== false}
         alt={item.name}
         pixelated
         className="w-16 md:w-18 translate-x-1/4 float-right"
