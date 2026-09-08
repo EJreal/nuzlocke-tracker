@@ -6,8 +6,8 @@
   "background_color": "#ff143b",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "scope": "/",
-  "start_url": "/index.html",
+  "scope": "/nuzlocke-tracker/",
+  "start_url": "/nuzlocke-tracker/",
   "icons": [
     {
       "src": "icons/manifest-icon-192.maskable.png",

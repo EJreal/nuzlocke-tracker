@@ -1,81 +1,81 @@
-// /// <reference lib="webworker" />
-// import { build } from '$service-worker';
-// const timestamp = +new Date();
+/// <reference lib="webworker" />
+import { build, files, version, prerendered } from '$service-worker';
 
-// const cacheKey = `cache@${timestamp}`;
+const cacheName = `cache-${version}`;
 
-// const toCache = build
-//   .concat('/index.html', '/', '/new', '/saves', '/game', '/box')
-//   .concat('/api/pokemon.json', '/assets/pokemon.css', '/assets/items.css');
+// Filter files from static/ to avoid caching the massive 57MB of images upfront.
+// We only precache icons, manifest, and potentially fonts.
+const essentialStaticAssets = files.filter(file => {
+  return file.includes('/icons/') || 
+         file.includes('manifest.json') || 
+         file.includes('favicon.png') || 
+         file.endsWith('.woff2');
+});
 
-// const staticAssets = new Set(toCache);
+const preCacheFiles = [
+  ...build,
+  ...prerendered,
+  ...essentialStaticAssets
+];
 
-// self.addEventListener('install', (evt) => {
-//   evt.waitUntil(
-//     caches
-//       .open(cacheKey)
-//       .then((c) => c.addAll(toCache))
-//       .then(() => self.skipWaiting())
-//       .catch((e) => console.error(e))
-//   );
-// });
+self.addEventListener('install', (event) => {
+  // Create a new cache and add all essential files to it
+  async function addFilesToCache() {
+    const cache = await caches.open(cacheName);
+    await cache.addAll(preCacheFiles);
+  }
 
-// self.addEventListener('activate', (evt) => {
-//   evt.waitUntil(
-//     caches
-//       .keys()
-//       .then((keys) =>
-//         Promise.all(
-//           keys
-//             .filter((key) => key !== cacheKey)
-//             .map((key) => caches.delete(key))
-//         )
-//       )
-//       .then(() => self.clients.claim())
-//   );
-// });
+  event.waitUntil(addFilesToCache());
+  self.skipWaiting();
+});
 
-// /**
-//  * Fetch the asset from the network and store it in the cache.
-//  * Fall back to the cache if the user is offline.
-//  */
-// async function fetchAndCache(request) {
-//   const cache = await caches.open(`offline${timestamp}`);
+self.addEventListener('activate', (event) => {
+  // Remove previous cached data from disk
+  async function deleteOldCaches() {
+    for (const key of await caches.keys()) {
+      if (key !== cacheName) {
+        await caches.delete(key);
+      }
+    }
+  }
 
-//   try {
-//     const response = await fetch(request);
-//     cache.put(request, response.clone());
-//     return response;
-//   } catch (err) {
-//     const response = await cache.match(request);
-//     if (response) return response;
+  event.waitUntil(deleteOldCaches());
+  self.clients.claim();
+});
 
-//     throw err;
-//   }
-// }
+self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET') return;
 
-// self.addEventListener('fetch', (event) => {
-//   if (event.request.method !== 'GET' || event.request.headers.has('range'))
-//     return;
+  const url = new URL(event.request.url);
+  const isHttp = url.protocol.startsWith('http');
+  const isDevServerRequest = url.hostname === self.location.hostname && url.port !== self.location.port;
 
-//   const url = new URL(event.request.url);
+  if (!isHttp || isDevServerRequest) return;
 
-//   // don't try to handle e.g. data: URIs
-//   const isHttp = url.protocol.startsWith('http');
-//   const isDevServerRequest =
-//     url.hostname === self.location.hostname && url.port !== self.location.port;
-//   const isStaticAsset =
-//     url.host === self.location.host && staticAssets.has(url.pathname);
-//   const skipBecauseUncached =
-//     event.request.cache === 'only-if-cached' && !isStaticAsset;
+  async function respond() {
+    const cache = await caches.open(cacheName);
 
-//   if (isHttp && !isDevServerRequest && !skipBecauseUncached) {
-//     event.respondWith(
-//       (async () => {
-//         const cachedAsset =
-//           isStaticAsset && (await caches.match(event.request));
-//         return cachedAsset || fetchAndCache(event.request);
-//       })()
-//     );
-//   }
-// });
+    // Cache-first strategy
+    const cachedResponse = await cache.match(event.request);
+    if (cachedResponse) {
+      return cachedResponse;
+    }
+
+    // If not in cache, fetch from network and cache it dynamically
+    try {
+      const networkResponse = await fetch(event.request);
+
+      // Only cache valid responses
+      if (networkResponse.ok || networkResponse.type === 'opaque') {
+        cache.put(event.request, networkResponse.clone());
+      }
+
+      return networkResponse;
+    } catch (error) {
+      // Offline fallback can be implemented here if needed
+      throw error;
+    }
+  }
+
+  event.respondWith(respond());
+});
