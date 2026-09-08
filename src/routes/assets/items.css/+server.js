@@ -35,7 +35,7 @@ export async function GET({ url }) {
   }
 
   const ilist = queryI.split(',');
-  const criticalCss = ilist.reduce((acc, it) => acc + extract(it, items), '');
+  const criticalCss = ilist.reduce((acc, it) => acc + (extract(it, items) || ''), '');
   const finalCss = criticalCss.replace(/\.\.\/img/g, `${base}/assets/img`);
 
   return new Response(finalCss, {

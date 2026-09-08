@@ -6120,7 +6120,7 @@ const g = [
   "/nuzlocke-tracker/guides/blue/__data.json",
   "/nuzlocke-tracker/guides/pitch-black-2",
   "/nuzlocke-tracker/guides/pitch-black-2/__data.json"
-], p = "1788826622166", r = `cache-${p}`, l = m.filter((e) => e.includes("/icons/") || e.includes("manifest.json") || e.includes("favicon.png") || e.endsWith(".woff2")), u = [
+], p = "1788828656108", r = `cache-${p}`, l = m.filter((e) => e.includes("/icons/") || e.includes("manifest.json") || e.includes("favicon.png") || e.endsWith(".woff2")), u = [
   ...g,
   ...i,
   ...l

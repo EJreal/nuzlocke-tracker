@@ -42,11 +42,11 @@ export async function GET({ params }) {
   );
 
   const criticalCss = items.reduce(
-    (acc, it) => acc + extract(it, minifiedItems),
+    (acc, it) => acc + (extract(it, minifiedItems) || ''),
     ''
   );
   
-  const finalCss = criticalCss.replace(/null/g, '').replace(/\.\.\/img/g, `${base}/assets/img`);
+  const finalCss = criticalCss.replace(/\.\.\/img/g, `${base}/assets/img`);
 
   return new Response(finalCss, {
     status: 200,
