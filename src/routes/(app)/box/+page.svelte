@@ -453,7 +453,7 @@
                       style="z-index: 999999"
                       class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
                     >
-                      <Particles
+                      <svelte:component this={Particles}
                         amount={25}
                         icons={['ice-stone', 'dawn-stone', 'fire-stone']}
                         on:end={() => (evoComplete = false)}

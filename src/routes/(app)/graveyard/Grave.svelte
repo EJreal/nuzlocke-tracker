@@ -40,6 +40,9 @@
 
 <div
   on:click={onclick}
+  on:keydown={onclick}
+  role="button"
+  tabindex="0"
   class="grave group z-20 mx-auto mt-10 h-48 w-36 scale-150 transform cursor-pointer md:scale-100"
 >
   <!-- Epitaph tooltip -->

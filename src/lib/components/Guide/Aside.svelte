@@ -1,6 +1,7 @@
 <script>
   export let encounters, gyms, path
   import { toSlug, toId, capitalise } from '$utils/string'
+  import { groupBosses } from '$utils/arr'
 
   import { PIcon } from '$c/core'
   import Icon from '@iconify/svelte/dist/OfflineIcon.svelte'
@@ -53,9 +54,9 @@
           </h4>
 
           <ul>
-            {#each gyms[group] as { boss, name }}
+            {#each groupBosses(gyms[group]) as { boss, name }}
               <li>
-                <a href='{path}#{toId.boss(boss, name)}'>{boss} at {name}</a>
+                <a href='{path}#{toId.boss(boss, name)}'>{boss.split(' (')[0].trim()} at {name}</a>
               </li>
             {/each}
           </ul>

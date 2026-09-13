@@ -63,8 +63,8 @@
   <h3>Select your starter type</h3>
   <ul role=radiogroup class=flex>
     {#each ['grass', 'water', 'fire'] as type}
-      <li class={type} aria-checked={starter === type} role=radio>
-        <button title='Select {type}' on:click={setstarter(type)}>
+      <li class={type}>
+        <button role=radio aria-checked={starter === type} title='Select {type}' on:click={setstarter(type)}>
           <PIcon className='starter-icon' type=symbol name='type-{type}' />
         </button>
       </li>

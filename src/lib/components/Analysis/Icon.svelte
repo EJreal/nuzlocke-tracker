@@ -19,13 +19,13 @@
   </p>
   {#if Rain}
     {#if icons[0]}
-      <Rain {amount} {scale} width={dim} height={dim} icons={icons[0]} className=z-30 />
-      <Rain {amount} {scale} width={dim} height={dim} icons={icons[0]} className=z-10 />
+      <svelte:component this={Rain} {amount} {scale} width={dim} height={dim} icons={icons[0]} className=z-30 />
+      <svelte:component this={Rain} {amount} {scale} width={dim} height={dim} icons={icons[0]} className=z-10 />
     {/if}
     {#if icons[1]}
-      <Rain {amount} {scale} width={dim} height={dim} icons={icons[1]} className='z-10 hue-rotate-180 brightness-150' />
-      <Rain {amount} {scale} width={dim} height={dim} icons={icons[1]} className='z-30 brightness-125' />
-      <Rain {amount} {scale} width={dim} height={dim} icons={icons[1]} className='z-10 hue-rotate-90 brightness-150' />
+      <svelte:component this={Rain} {amount} {scale} width={dim} height={dim} icons={icons[1]} className='z-10 hue-rotate-180 brightness-150' />
+      <svelte:component this={Rain} {amount} {scale} width={dim} height={dim} icons={icons[1]} className='z-30 brightness-125' />
+      <svelte:component this={Rain} {amount} {scale} width={dim} height={dim} icons={icons[1]} className='z-10 hue-rotate-90 brightness-150' />
     {/if}
   {/if}
 </div>

@@ -162,7 +162,7 @@
       on:click={ondelete}
     />
 
-    <a bind:this={downloadAnchor}>
+    <a href="#download" bind:this={downloadAnchor}>
       <IconButton
         rounded
         color="yellow"
