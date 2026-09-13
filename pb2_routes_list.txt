@@ -1,0 +1,448 @@
+0: route - Starter
+1: route - Aspertia City (Gift)
+2: route - Aspertia Gate (Egg)
+3: route - Aspertia City
+4: gym - Aspertia City
+5: gym - Aspertia City Gym
+6: gym - Aspertia City Gym
+7: gym - Aspertia City Gym
+8: gym - Aspertia City Gym
+9: route - Route 19
+10: route - Floccesy Town
+11: gym - Floccesy Town
+12: gym - Floccesy Town
+13: route - Route 20
+14: gym - Route 20
+15: gym - Route 20
+16: gym - Route 20
+17: gym - Route 20
+18: gym - Route 20
+19: gym - Route 20
+20: gym - Route 20
+21: gym - Route 20
+22: gym - Route 20
+23: gym - Route 20
+24: route - Floccesy Ranch
+25: gym - Floccesy Ranch
+26: gym - Floccesy Ranch
+27: gym - Floccesy Ranch
+28: route - Pledge Grove
+29: route - Virbank City
+30: gym - Virbank Refinery
+31: gym - Virbank City
+32: gym - Virbank City
+33: gym - Virbank City Gym
+34: gym - Virbank City Gym
+35: gym - Virbank City Gym
+36: gym - Virbank City Gym
+37: gym - Virbank City
+38: route - Virbank Gate (Egg)
+39: route - Virbank Complex
+40: gym - Virbank Complex
+41: gym - Virbank Complex
+42: gym - Virbank Complex
+43: gym - Virbank Refinery
+44: gym - Virbank Refinery
+45: route - Castelia City
+46: gym - Castelia City
+47: gym - Castelia City
+48: gym - Castelia City
+49: gym - Castelia City
+50: gym - Castelia City
+51: gym - Castelia City
+52: gym - Castelia City
+53: gym - Castelia City Gym
+54: gym - Castelia City Gym
+55: gym - Castelia City Gym
+56: gym - Castelia City Gym
+57: gym - Castelia City Gym
+58: gym - Castelia City Gym
+59: gym - Castelia City
+60: route - Liberty Garden (Gift)
+61: route - Castelia Sewers
+62: gym - Castelia Sewers
+63: gym - Castelia Sewers
+64: gym - Castelia Sewers
+65: gym - Castelia Sewers
+66: gym - Castelia Sewers
+67: gym - Castelia Sewers
+68: route - Relic Passage
+69: gym - Relic Passage
+70: gym - Relic Passage
+71: gym - Relic Passage
+72: gym - Relic Passage
+73: gym - Relic Passage
+74: gym - Relic Passage
+75: gym - Relic Passage
+76: gym - Relic Passage
+77: gym - Relic Passage
+78: gym - Relic Passage
+79: gym - Relic Passage
+80: route - Route 4
+81: gym - Route 4
+82: gym - Route 4
+83: gym - Route 4
+84: gym - Route 4
+85: gym - Route 4
+86: gym - Route 4
+87: gym - Route 4
+88: gym - Route 4
+89: gym - Route 4
+90: route - Route 4 (Trade)
+91: gym - Desert Resort
+92: gym - Desert Resort
+93: gym - Desert Resort
+94: gym - Desert Resort
+95: gym - Desert Resort
+96: gym - Desert Resort
+97: gym - Desert Resort
+98: gym - Desert Resort
+99: gym - Desert Resort
+100: gym - Desert Resort
+101: gym - Desert Resort
+102: gym - Desert Resort
+103: route - Desert Resort (Outside)
+104: route - Desert Resort (Inside)
+105: route - Relic Castle
+106: gym - Relic Castle
+107: gym - Relic Castle
+108: gym - Relic Castle
+109: gym - Relic Castle
+110: gym - Relic Castle
+111: gym - Relic Castle
+112: gym - Relic Castle
+113: route - Anville Town (Gift)
+114: route - Route 16
+115: gym - Route 16
+116: gym - Route 16
+117: gym - Route 16
+118: gym - Nimbasa City
+119: gym - Nimbasa City
+120: gym - Nimbasa City
+121: gym - Nimbasa City Gym
+122: gym - Nimbasa City Gym
+123: gym - Nimbasa City Gym
+124: gym - Nimbasa City Gym
+125: gym - Nimbasa City Gym
+126: gym - Nimbasa City
+127: gym - Nimbasa City
+128: gym - Nimbasa City
+129: route - Lostlorn Forest
+130: gym - Lostlorn Forest
+131: gym - Lostlorn Forest
+132: gym - Lostlorn Forest
+133: route - Route 5
+134: gym - Route 5
+135: gym - Route 5
+136: gym - Route 5
+137: gym - Route 5
+138: gym - Route 5
+139: gym - Route 5
+140: route - Driftveil Drawbridge
+141: route - Driftveil City
+142: gym - Driftveil City Gym
+143: gym - Driftveil City Gym
+144: gym - Driftveil City Gym
+145: gym - Driftveil City Gym
+146: gym - Driftveil City Gym
+147: gym - Driftveil City Gym
+148: gym - Driftveil City Gym
+149: gym - Driftveil City Gym
+150: gym - Driftveil City Gym
+151: gym - Driftveil City
+152: gym - Driftveil City
+153: gym - Driftveil City
+154: gym - Driftveil City
+155: gym - Driftveil City
+156: gym - Driftveil City
+157: gym - Driftveil City
+158: gym - Driftveil City
+159: gym - Driftveil City
+160: gym - Driftveil City
+161: gym - Driftveil City
+162: gym - Driftveil City
+163: gym - Driftveil City
+164: gym - Driftveil City
+165: gym - Driftveil City
+166: gym - Driftveil City
+167: gym - Driftveil City
+168: gym - Driftveil City
+169: route - Driftveil Gym (Gift)
+170: route - Route 6
+171: gym - Route 6
+172: gym - Route 6
+173: gym - Route 6
+174: gym - Route 6
+175: gym - Route 6
+176: gym - Route 6
+177: gym - Route 6
+178: gym - Route 6
+179: gym - Route 6
+180: gym - Route 6
+181: gym - Route 6
+182: gym - Route 6
+183: route - Mistralton Cave
+184: gym - Mistralton Cave
+185: gym - Mistralton Cave
+186: gym - Mistralton Cave
+187: gym - Mistralton Cave
+188: gym - Mistralton Cave
+189: route - Mistralton City (Gift)
+190: route - Chargestone Cave
+191: gym - Chargestone Cave
+192: gym - Chargestone Cave
+193: gym - Chargestone Cave
+194: gym - Chargestone Cave
+195: gym - Chargestone Cave
+196: gym - Chargestone Cave
+197: gym - Chargestone Cave
+198: gym - Chargestone Cave
+199: gym - Chargestone Cave
+200: gym - Chargestone Cave
+201: gym - Chargestone Cave
+202: gym - Chargestone Cave
+203: gym - Chargestone Cave
+204: route - Route 7
+205: gym - Route 7
+206: gym - Route 7
+207: gym - Route 7
+208: gym - Route 7
+209: gym - Route 7
+210: gym - Route 7
+211: gym - Route 7
+212: gym - Route 7
+213: route - Celestial Tower
+214: gym - Celestial Tower
+215: gym - Celestial Tower
+216: gym - Celestial Tower
+217: gym - Celestial Tower
+218: gym - Celestial Tower
+219: gym - Celestial Tower
+220: gym - Celestial Tower
+221: gym - Celestial Tower
+222: gym - Celestial Tower
+223: gym - Celestial Tower
+224: gym - Mistralton City Gym
+225: gym - Mistralton City Gym
+226: gym - Mistralton City Gym
+227: gym - Mistralton City Gym
+228: gym - Mistralton City Gym
+229: gym - Mistralton City Gym
+230: gym - Mistralton City Gym
+231: gym - Mistralton City
+232: gym - Mistralton City
+233: route - Reversal Mountain (Outside)
+234: gym - Reversal Mountain (Outside)
+235: gym - Reversal Mountain (Outside)
+236: route - Reversal Mountain (Inside)
+237: gym - Reversal Mountain (Inside)
+238: gym - Reversal Mountain (Inside)
+239: gym - Reversal Mountain (Inside)
+240: gym - Reversal Mountain (Inside)
+241: gym - Reversal Mountain (Inside)
+242: gym - Reversal Mountain (Inside)
+243: gym - Reversal Mountain (Inside)
+244: gym - Reversal Mountain (Inside)
+245: gym - Reversal Mountain (Inside)
+246: route - Strange House
+247: gym - Strange House
+248: gym - Strange House
+249: route - Undella Town
+250: gym - Undella Town
+251: gym - Undella Town
+252: route - Undella Bay
+253: gym - Undella Bay
+254: gym - Undella Bay
+255: gym - Undella Bay
+256: gym - Undella Bay
+257: gym - Undella Bay
+258: gym - Undella Bay
+259: route - Route 14
+260: gym - Route 14
+261: gym - Route 14
+262: gym - Route 14
+263: gym - Route 14
+264: gym - Route 14
+265: gym - Route 14
+266: gym - Route 14
+267: gym - Route 14
+268: route - Abundant Shrine
+269: gym - Abundant Shrine
+270: gym - Abundant Shrine
+271: gym - Abundant Shrine
+272: gym - Abundant Shrine
+273: route - Route 13
+274: gym - Route 13
+275: gym - Route 13
+276: gym - Route 13
+277: gym - Route 13
+278: gym - Route 13
+279: gym - Route 13
+280: gym - Route 13
+281: gym - Route 13
+282: gym - Route 13
+283: gym - Route 13
+284: gym - Route 13
+285: route - Route 12
+286: gym - Route 12
+287: gym - Route 12
+288: gym - Route 12
+289: route - Village Bridge
+290: gym - Village Bridge
+291: gym - Village Bridge
+292: gym - Village Bridge
+293: gym - Village Bridge
+294: gym - Village Bridge
+295: gym - Village Bridge
+296: gym - Village Bridge
+297: gym - Village Bridge
+298: gym - Village Bridge
+299: route - Route 11
+300: gym - Route 11
+301: gym - Route 11
+302: gym - Route 11
+303: route - Route 9
+304: gym - Route 9
+305: gym - Route 9
+306: gym - Route 9
+307: gym - Route 9
+308: gym - Route 9
+309: gym - Route 9
+310: gym - Opelucid City Gym
+311: gym - Opelucid City Gym
+312: gym - Opelucid City Gym
+313: gym - Opelucid City Gym
+314: gym - Opelucid City Gym
+315: gym - Route 9
+316: gym - Route 9
+317: gym - Opelucid City Gym
+318: route - Seaside Cave
+319: gym - Seaside Cave
+320: gym - Seaside Cave
+321: gym - Seaside Cave
+322: gym - Seaside Cave
+323: gym - Seaside Cave
+324: route - Route 21
+325: gym - Route 21
+326: gym - Route 21
+327: gym - Route 21
+328: gym - Route 21
+329: gym - Route 21
+330: gym - Route 21
+331: gym - Route 21
+332: gym - Route 21
+333: gym - Route 21
+334: gym - Route 21
+335: gym - Route 21
+336: route - Humilau City
+337: gym - Humilau City Gym
+338: gym - Humilau City Gym
+339: gym - Humilau City Gym
+340: gym - Humilau City Gym
+341: gym - Humilau City Gym
+342: gym - Humilau City Gym
+343: gym - Humilau City Gym
+344: gym - Humilau City Gym
+345: gym - Humilau City
+346: gym - Humilau City
+347: route - Route 22
+348: gym - Route 22
+349: gym - Route 22
+350: gym - Route 22
+351: gym - Route 22
+352: gym - Route 22
+353: gym - Route 22
+354: gym - Route 22
+355: gym - Route 22
+356: route - Giant Chasm
+357: gym - Giant Chasm
+358: gym - Giant Chasm
+359: gym - Giant Chasm
+360: gym - Giant Chasm
+361: gym - Giant Chasm
+362: gym - Giant Chasm
+363: gym - Giant Chasm
+364: gym - Giant Chasm
+365: gym - Giant Chasm
+366: gym - Giant Chasm
+367: gym - Giant Chasm
+368: gym - Giant Chasm
+369: gym - Giant Chasm
+370: gym - Giant Chasm
+371: gym - Giant Chasm
+372: gym - Giant Chasm
+373: route - Route 23
+374: gym - Route 23
+375: gym - Route 23
+376: gym - Route 23
+377: gym - Route 23
+378: gym - Route 23
+379: gym - Route 23
+380: gym - Route 23
+381: gym - Route 23
+382: gym - Route 23
+383: gym - Route 23
+384: gym - Route 23
+385: gym - Route 23
+386: route - Victory Road
+387: gym - Victory Road
+388: gym - Victory Road
+389: gym - Victory Road
+390: gym - Victory Road
+391: gym - Victory Road
+392: gym - Victory Road
+393: gym - Victory Road
+394: gym - Victory Road
+395: gym - Victory Road
+396: gym - Victory Road
+397: gym - Victory Road
+398: gym - Victory Road
+399: gym - Victory Road
+400: gym - Victory Road
+401: gym - Victory Road
+402: gym - Victory Road
+403: gym - Victory Road
+404: gym - Victory Road
+405: gym - Victory Road
+406: gym - Victory Road
+407: gym - Victory Road
+408: gym - Victory Road
+409: route - Marvelous Bridge
+410: route - Route 15
+411: route - Route 17
+412: route - Route 18
+413: route - P2 Laboratory
+414: route - Nature Preserve
+415: route - Moor of Icirrus
+416: route - Icirrus City
+417: route - Dragonspiral Tower
+418: route - Twist Mountain
+419: route - Clay Tunnel
+420: route - Underground Ruins
+421: route - Pinwheel Forest
+422: route - Nacrene City
+423: route - Route 3
+424: route - Wellspring Cave
+425: route - Striaton City
+426: route - Nuvema Town (Egg)
+427: route - Dreamyard
+428: route - Route 2
+429: route - Accumula Town
+430: route - Route 1
+431: gym - Victory Road
+432: gym - Victory Road
+433: gym - Victory Road
+434: gym - Victory Road
+435: gym - Victory Road
+436: gym - Pokémon League W Room
+437: gym - Pokémon League NW Room
+438: gym - Pokémon League NE Room
+439: gym - Pokémon League E Room
+440: gym - Pokémon League Champion
+441: route - Virbank Refinery
+442: route - Relic Passage [Driftveil Exit]
+443: route - Relic Passage [Middle]
+444: route - Relic Castle (1F)
+445: route - Relic Castle (B1F)
+446: route - Giant Chasm [CAVE & GRASS]
+447: route - Victory Road [ALL FLOORS]
