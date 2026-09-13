@@ -7,7 +7,11 @@
     forceLevelCap = false,
     forceVs = false,
     defeated = false,
-    reader = false
+    reader = false,
+    variants = null
+
+  let activeIndex = 0
+  $: currentId = (variants && variants.length > 0) ? variants[activeIndex].value : id
 
   // Core leaader data
   let pokemon = [],
@@ -61,16 +65,17 @@
 
   export let loading = true
 
-  const fetchData = async (starter) => {
-    if (!browser) return
+  const fetchData = async (starter, fetchId) => {
+    if (!browser || !fetchId) return
+    loading = true
     try {
       const league = await getLeague(game, starter)
-      const data = league[id]
+      const data = league[fetchId]
 
       img = bossToImage(data);
 
       pokemon = data.pokemon
-      name = data.name
+      name = data.name ? data.name.replace(/\s*\(\s*$/, '') : ''
       speciality = data.speciality
 
       doubleBattle = data.doubleBattle
@@ -82,7 +87,7 @@
     }
   }
 
-  $: (async () => await fetchData(starter))()
+  $: (async () => await fetchData(starter, currentId))()
 
   $: levelCap = pokemon.every(
     (it) => it.level.startsWith('+') || it.level.startsWith('-')
@@ -193,10 +198,34 @@
           <div
             class="-ml-9 h-4 w-32 animate-pulse rounded-md bg-gray-400 md:ml-0 md:w-48"
           />
-        {:else if location}
-          <h5 class="text-md -mt-1 h-4 font-medium">
-            <span>{location}</span>
-          </h5>
+        {:else}
+          {#if variants && variants.length > 1}
+            <div class="mt-0.5 mb-1 flex flex-wrap gap-2">
+              {#each variants as variant, idx}
+                <button
+                  class="text-xs px-2.5 py-0.5 rounded-full border font-medium transition-all duration-200"
+                  class:bg-red-600={activeIndex === idx}
+                  class:text-white={activeIndex === idx}
+                  class:border-red-600={activeIndex === idx}
+                  class:shadow-sm={activeIndex === idx}
+                  class:text-gray-500={activeIndex !== idx}
+                  class:border-gray-300={activeIndex !== idx}
+                  class:dark:text-gray-400={activeIndex !== idx}
+                  class:dark:border-gray-600={activeIndex !== idx}
+                  class:hover:border-red-400={activeIndex !== idx}
+                  class:hover:text-red-500={activeIndex !== idx}
+                  on:click|stopPropagation={() => (activeIndex = idx)}
+                >
+                  {variant.boss.match(/\(([^)]+)\)/)?.[1] || `Variant ${idx + 1}`}
+                </button>
+              {/each}
+            </div>
+          {/if}
+          {#if location}
+            <h5 class="text-md -mt-1 h-4 font-medium">
+              <span>{location}</span>
+            </h5>
+          {/if}
         {/if}
       </span>
 

@@ -4,6 +4,7 @@ const EGame = z.enum([
     'blazingem',
     'newgen',
     'glazed',
+    'pitchblack2',
     'blaze', 'volt', 'rrss', 'emrunbun', 'unbound',
     'unbound_exp', 'radred_hard', 'emkaizo', 'vi', 'sc', 'sw', 'sh',
     'usun', 'umoon', 'sun', 'moon', 'x', 'y', 'blazevolt2_n',

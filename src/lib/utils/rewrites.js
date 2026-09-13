@@ -53,12 +53,12 @@ export const bossToImage = (bossData) => {
     const nameLower = bossData.name.toLowerCase();
     const genericClasses = [
       'youngster', 'lass', 'janitor', 'schoolkid', 'hiker', 'preschooler',
-      'twins', 'nurseryaide', 'worker', 'roughneck', 'guitarist',
-      'doctor', 'scientist', 'backpacker', 'clerk', 'policeman',
-      'fisherman', 'harlequin', 'biker', 'nurse', 'psychic', 'artist',
+      'twins', 'worker', 'roughneck', 'guitarist',
+      'doctor', 'policeman',
+      'fisherman', 'harlequin', 'biker', 'artist',
       'cyclist', 'lady', 'beauty', 'baker', 'dancer', 'parasollady',
-      'acetrainer', 'pokefan', 'gentleman', 'pilot',
-      'blackbelt', 'battlegirl', 'swimmer', 'smasher', 'hoopster', 'veteran'
+      'pokefan', 'gentleman', 'pilot',
+      'blackbelt', 'battlegirl', 'smasher', 'hoopster'
     ];
     for (const gc of genericClasses) {
       if (nameLower.includes(gc)) {
@@ -68,15 +68,57 @@ export const bossToImage = (bossData) => {
     }
     // Aliases for space-separated classes
     if (!img) {
-      if (nameLower.includes('ace trainer')) img = { src: `${base}/assets/img/leaders/acetrainer`, webp: false };
+      if (nameLower.includes('ace trainer') || nameLower.includes('acetrainer')) {
+        const isFemale = /(belle|mary|vicki|cora|summer|junko|angi|melina|jeanne|sable|shelly|chandra|shanta|caroll)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/acetrainer${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('swimmer')) {
+        const isFemale = /(arissa|mitzi|desiree|kaoru)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/swimmer${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('veteran')) {
+        const isFemale = /(rhona|denae|cecile|cathy|portia)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/veteran${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('psychic')) {
+        const isFemale = /(ena|dua|joyce|micki|sarah|lynette|alia)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/psychic${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('nursery aide') || nameLower.includes('nurseryaide')) {
+        img = { src: `${base}/assets/img/leaders/nurseryaide`, webp: false };
+      }
+      else if (nameLower.includes('nurse')) {
+        img = { src: `${base}/assets/img/leaders/nurse`, webp: false };
+      }
       else if (nameLower.includes('battle girl')) img = { src: `${base}/assets/img/leaders/battlegirl`, webp: false };
-      else if (nameLower.includes('pkmn ranger') || nameLower.includes('pokémon ranger')) img = { src: `${base}/assets/img/leaders/acetrainer`, webp: false };
-      else if (nameLower.includes('school kid')) img = { src: `${base}/assets/img/leaders/schoolkid`, webp: false };
+      else if (nameLower.includes('pkmn ranger') || nameLower.includes('pokémon ranger')) {
+        const isFemale = /(naoko|serenity|lois|briana|eliza|dianne|thalia|mikiko|lena|elle|anja)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/pokemonranger${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('school kid')) {
+        const isFemale = /(cassie|mara|alberta)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/schoolkid${isFemale ? '-f' : ''}`, webp: false };
+      }
       else if (nameLower.includes('parasol lady')) img = { src: `${base}/assets/img/leaders/parasollady`, webp: false };
       else if (nameLower.includes('pokéfan')) img = { src: `${base}/assets/img/leaders/pokefan`, webp: false };
       else if (nameLower.includes('black belt')) img = { src: `${base}/assets/img/leaders/blackbelt`, webp: false };
-      else if (nameLower.includes('team plasma grunt')) img = { src: `${base}/assets/img/leaders/plasmagrunt`, webp: false };
+      else if (nameLower.includes('team plasma grunt')) {
+        const isFemale = /(#763|#587|#801|#436|#343|#437|#810|#438|#439)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/plasmagrunt${isFemale ? '-f' : ''}`, webp: false };
+      }
       else if (nameLower.includes('pokémon breeder') || nameLower.includes('pokemon breeder') || nameLower.includes('pkmn breeder')) img = { src: `${base}/assets/img/leaders/pokemonbreeder`, webp: false };
+      else if (nameLower.includes('scientist')) {
+        const isFemale = /(caroline|lumina|marissa|lumi)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/scientist${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('backpacker')) {
+        const isFemale = /(tami|clara|blossom|eileen|annie|kumiko|kiyo|myra|mae)/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/backpacker${isFemale ? '-f' : ''}`, webp: false };
+      }
+      else if (nameLower.includes('clerk')) {
+        const isFemale = /♀|britney/i.test(nameLower);
+        img = { src: `${base}/assets/img/leaders/clerk${isFemale ? '-f' : ''}`, webp: false };
+      }
       else if (nameLower.includes('backers')) img = { src: `${base}/assets/img/leaders/acetrainer`, webp: false };
       else if (nameLower.includes('game freak morimoto')) img = { src: `${base}/assets/img/leaders/veteran`, webp: false };
       else if (nameLower.includes('game freak nishino')) img = { src: `${base}/assets/img/leaders/hiker`, webp: false };

@@ -10,7 +10,7 @@
   } from '$lib/store'
 
   import { toDbLocation } from '$utils/link'
-  import { insertList } from '$utils/arr'
+  import { insertList, groupBosses } from '$utils/arr'
   import { shortuuid } from '$utils/uuid'
   import { slugify } from '$utils/string'
 
@@ -116,7 +116,7 @@
     scroll = null
   })
 
-  $: routeList = insertList(route, custom)
+  $: routeList = groupBosses(insertList(route, custom))
 </script>
 
 <ul bind:this={ulRef} class="flex flex-col gap-y-0 lg:gap-y-2 {className}">
@@ -206,7 +206,8 @@
           {starter}
           game={key}
           id={p.value}
-          defeated={bossTeamIds.includes(p.value)}
+          variants={p.variants}
+          defeated={bossTeamIds.includes(p.value) || (p.variants && p.variants.some(v => bossTeamIds.includes(v.value)))}
           location={p.name}
           type={p.group}
         />

@@ -4,6 +4,7 @@
   import GymCard from '$c/gym-card.svelte'
 
   import { capitalise, toSlug, toId } from '$utils/string'
+  import { groupBosses } from '$utils/arr'
 
   import Icon from '@iconify/svelte/dist/OfflineIcon.svelte'
   import { Link } from '$icons'
@@ -89,7 +90,7 @@
     </h3>
 
     <ul>
-      {#each gyms[group] as { group, value, boss, name, lvlCap }}
+      {#each groupBosses(gyms[group]) as { group, value, boss, name, lvlCap, variants }}
         <li id={toId.boss(boss, name)}>
           <GymCard
             reader
@@ -98,6 +99,7 @@
             {game}
             {starter}
             id={value}
+            variants={variants}
             location={name}
             />
         </li>

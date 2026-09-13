@@ -96140,7 +96140,7 @@
     },
     {
       "type": "gym",
-      "name": "Virbank City",
+      "name": "Virbank Refinery",
       "value": "pb2-25",
       "boss": "Worker Nathan (North West!)",
       "group": "other"
@@ -96245,14 +96245,14 @@
     },
     {
       "type": "gym",
-      "name": "Virbank Complex",
+      "name": "Virbank Refinery",
       "value": "pb2-23",
       "boss": "Worker Mitchell (North East!)",
       "group": "other"
     },
     {
       "type": "gym",
-      "name": "Virbank Complex",
+      "name": "Virbank Refinery",
       "value": "pb2-24",
       "boss": "Worker Isaac (South East!)",
       "group": "other"
